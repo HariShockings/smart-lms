@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useParams, useNavigate } from 'react-router-dom';
-import axios from 'axios';
 import { 
   MessageSquare, 
   Send, 
@@ -10,10 +9,14 @@ import {
   User,
   AlertCircle,
   BookOpen,
-  Clock
+  Clock,
+  Trash2,
+  Menu
 } from 'lucide-react';
 import { useAuth } from '../../contexts/AuthContext';
 import LoadingSpinner from '../../components/ui/LoadingSpinner';
+import api from '../../services/api';
+import 'bootstrap/dist/css/bootstrap.min.css'; // Ensure Bootstrap CSS is imported
 
 interface Conversation {
   id: number;
@@ -45,16 +48,18 @@ const ChatbotPage: React.FC = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [isSending, setIsSending] = useState(false);
   const [isStarting, setIsStarting] = useState(false);
+  const [isDeleting, setIsDeleting] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [showSidebar, setShowSidebar] = useState(window.innerWidth >= 768);
+  const [isMobileSidebarOpen, setIsMobileSidebarOpen] = useState(false);
   
   const messagesEndRef = useRef<HTMLDivElement>(null);
-  const apiUrl = import.meta.env.VITE_API_URL;
   
   // Handle window resize for responsive sidebar
   useEffect(() => {
     const handleResize = () => {
       setShowSidebar(window.innerWidth >= 768);
+      if (window.innerWidth >= 768) setIsMobileSidebarOpen(false);
     };
     
     window.addEventListener('resize', handleResize);
@@ -65,15 +70,16 @@ const ChatbotPage: React.FC = () => {
   useEffect(() => {
     const fetchConversations = async () => {
       try {
-        const response = await axios.get(`${apiUrl}/chatbot/conversations`);
-        setConversations(response.data.data);
+        const response = await api.chatbot.getConversations();
+        setConversations(response.data);
       } catch (error) {
         console.error('Error fetching conversations:', error);
+        setError('Failed to fetch conversations');
       }
     };
     
     fetchConversations();
-  }, [apiUrl]);
+  }, []);
   
   // Fetch conversation if ID is provided
   useEffect(() => {
@@ -87,19 +93,19 @@ const ChatbotPage: React.FC = () => {
       setError(null);
       
       try {
-        const response = await axios.get(`${apiUrl}/chatbot/conversations/${conversationId}`);
-        setActiveConversation(response.data.data.conversation);
-        setMessages(response.data.data.messages);
+        const response = await api.chatbot.getConversation(conversationId);
+        setActiveConversation(response.data.conversation);
+        setMessages(response.data.messages);
       } catch (error: any) {
         console.error('Error fetching conversation:', error);
-        setError(error.response?.data?.error || 'Failed to fetch conversation');
+        setError(error.message || 'Failed to fetch conversation');
       } finally {
         setIsLoading(false);
       }
     };
     
     fetchConversation();
-  }, [apiUrl, conversationId]);
+  }, [conversationId]);
   
   // Scroll to bottom when messages update
   useEffect(() => {
@@ -111,23 +117,18 @@ const ChatbotPage: React.FC = () => {
     setError(null);
     
     try {
-      const response = await axios.post(`${apiUrl}/chatbot/start`, {
-        course_id: courseId
-      });
+      const response = await api.chatbot.startConversation(courseId?.toString());
+      const newConversation = response.data.conversation;
+      const initialMessages = response.data.messages;
       
-      const newConversation = response.data.data.conversation;
-      const initialMessages = response.data.data.messages;
-      
-      // Update state
       setConversations(prev => [newConversation, ...prev]);
       setActiveConversation(newConversation);
       setMessages(initialMessages);
       
-      // Navigate to new conversation
       navigate(`/chatbot/${newConversation.id}`);
     } catch (error: any) {
       console.error('Error starting conversation:', error);
-      setError(error.response?.data?.error || 'Failed to start new conversation');
+      setError(error.message || 'Failed to start new conversation');
     } finally {
       setIsStarting(false);
     }
@@ -144,18 +145,39 @@ const ChatbotPage: React.FC = () => {
     setError(null);
     
     try {
-      const response = await axios.post(`${apiUrl}/chatbot/message`, {
-        conversation_id: activeConversation.id,
-        message: newMessage
-      });
-      
-      setMessages(response.data.data.messages);
+      const response = await api.chatbot.sendMessage(activeConversation.id.toString(), newMessage);
+      setMessages(response.data.messages);
       setNewMessage('');
     } catch (error: any) {
       console.error('Error sending message:', error);
-      setError(error.response?.data?.error || 'Failed to send message');
+      setError(error.message || 'Failed to send message');
     } finally {
       setIsSending(false);
+    }
+  };
+  
+  const handleDeleteConversation = async (conversationId: number) => {
+    if (!confirm('Are you sure you want to delete this conversation? This action cannot be undone.')) {
+      return;
+    }
+    
+    setIsDeleting(true);
+    setError(null);
+    
+    try {
+      await api.chatbot.deleteConversation(conversationId.toString());
+      setConversations(prev => prev.filter(conv => conv.id !== conversationId));
+      
+      if (activeConversation?.id === conversationId) {
+        setActiveConversation(null);
+        setMessages([]);
+        navigate('/chatbot');
+      }
+    } catch (error: any) {
+      console.error('Error deleting conversation:', error);
+      setError(error.message || 'Failed to delete conversation');
+    } finally {
+      setIsDeleting(false);
     }
   };
   
@@ -179,21 +201,32 @@ const ChatbotPage: React.FC = () => {
   }
   
   return (
-    <div className="container-fluid py-4 fade-in">
-      <div className="card border-0 shadow-sm" style={{ minHeight: '70vh' }}>
+    <div className="container-fluid py-4">
+      <div className="card border-0 shadow-lg" style={{borderRadius: '15px', overflow: 'hidden', zIndex: 1 }}>
         <div className="row g-0 h-100">
-          {/* Conversation Sidebar */}
-          {showSidebar && (
-            <div className="col-md-4 col-lg-3 border-end">
-              <div className="p-3 border-bottom d-flex justify-content-between align-items-center">
-                <h5 className="mb-0">Conversations</h5>
-                <button 
-                  className="btn btn-primary btn-sm"
+          {/* Sidebar */}
+          <div
+            className={`col-4 border-end bg-light ${showSidebar || isMobileSidebarOpen ? '' : 'd-none'}`}
+            style={{
+              position: showSidebar ? 'relative' : 'fixed',
+              top: 0,
+              left: 0,
+              zIndex: 1050,
+              height: '100%',
+              minHeight: '80vh',
+              transition: 'width 0.3s ease',
+            }}
+          >
+            <div className="p-3 border-bottom bg-white d-flex justify-content-between align-items-center">
+              <h5 className="mb-0 fw-bold text-primary">Conversations</h5>
+              <div className="d-flex align-items-center">
+                <button
+                  className="btn btn-primary btn-sm me-2"
                   onClick={() => handleStartNewConversation()}
                   disabled={isStarting}
                 >
                   {isStarting ? (
-                    <span className="spinner-border spinner-border-sm\" role="status\" aria-hidden="true"></span>
+                    <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
                   ) : (
                     <>
                       <Plus size={16} className="me-1" />
@@ -201,83 +234,115 @@ const ChatbotPage: React.FC = () => {
                     </>
                   )}
                 </button>
-              </div>
-              
-              <div className="conversations-list" style={{ height: 'calc(70vh - 62px)', overflowY: 'auto' }}>
-                {conversations.length === 0 ? (
-                  <div className="text-center py-5">
-                    <MessageSquare size={32} className="text-muted mb-2" />
-                    <p className="text-muted small">
-                      No conversations yet
-                    </p>
-                    <button 
-                      className="btn btn-outline-primary btn-sm"
-                      onClick={() => handleStartNewConversation()}
-                      disabled={isStarting}
-                    >
-                      Start a conversation
-                    </button>
-                  </div>
-                ) : (
-                  <div className="list-group list-group-flush">
-                    {conversations.map(conversation => (
-                      <Link 
-                        key={conversation.id}
-                        to={`/chatbot/${conversation.id}`}
-                        className={`list-group-item list-group-item-action border-0 py-3 ${activeConversation?.id === conversation.id ? 'active' : ''}`}
-                      >
-                        <div className="d-flex">
-                          <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary bg-opacity-10 p-2 me-3">
-                            <Bot className="text-primary" size={20} />
-                          </div>
-                          <div className="overflow-hidden">
-                            <div className="d-flex justify-content-between align-items-center mb-1">
-                              <h6 className="mb-0 text-truncate">
-                                {conversation.course_title ? conversation.course_title : 'General Assistant'}
-                              </h6>
-                              <small className="text-muted ms-2">
-                                <Clock size={12} className="me-1" />
-                                {formatDate(conversation.started_at)}
-                              </small>
-                            </div>
-                            {conversation.last_message && (
-                              <p className="text-truncate small text-muted mb-0">
-                                {conversation.last_message.message}
-                              </p>
-                            )}
-                          </div>
-                        </div>
-                      </Link>
-                    ))}
-                  </div>
+                {!showSidebar && (
+                  <button
+                    className="btn btn-outline-secondary btn-sm"
+                    onClick={() => setIsMobileSidebarOpen(false)}
+                  >
+                    <ChevronLeft size={16} />
+                  </button>
                 )}
               </div>
             </div>
-          )}
-          
+            <div
+              className="p-3"
+              style={{ height: 'calc(100% - 70px)', overflowY: 'auto' }}
+            >
+              {conversations.length === 0 ? (
+                <div className="text-center py-5">
+                  <MessageSquare size={32} className="text-muted mb-2" />
+                  <p className="text-muted small mb-3">No conversations yet</p>
+                  <button
+                    className="btn btn-outline-primary btn-sm"
+                    onClick={() => handleStartNewConversation()}
+                    disabled={isStarting}
+                  >
+                    Start a conversation
+                  </button>
+                </div>
+              ) : (
+                <div className="list-group list-group-flush">
+                  {conversations.map(conversation => (
+                    <div
+                      key={conversation.id}
+                      className={`list-group-item list-group-item-action py-3 ${
+                        activeConversation?.id === conversation.id ? 'bg-primary-subtle' : ''
+                      }`}
+                      style={{ borderRadius: '10px', marginBottom: '8px' }}
+                    >
+                      <div className="d-flex align-items-center">
+                        <Link
+                          to={`/chatbot/${conversation.id}`}
+                          className="flex-grow-1 text-decoration-none"
+                          onClick={() => setIsMobileSidebarOpen(false)}
+                        >
+                          <div className="d-flex align-items-center">
+                            <div className="flex-shrink-0 me-3">
+                              <div className="rounded-circle bg-primary bg-opacity-10 p-2">
+                                <Bot className="text-primary" size={20} />
+                              </div>
+                            </div>
+                            <div className="flex-grow-1">
+                              <h6 className="mb-1 fw-semibold">
+                                {conversation.course_title
+                                  ? conversation.course_title.length > 35
+                                    ? conversation.course_title.substring(0, 35) + "..."
+                                    : conversation.course_title
+                                  : "General Assistant"}
+                              </h6>
+                              <div className="d-flex align-items-center text-muted small">
+                                <Clock size={12} className="me-1" />
+                                {formatDate(conversation.started_at)}
+                              </div>
+                              {conversation.last_message && (
+                                <p className="text-muted small mb-0 mt-1">
+                                  {conversation.last_message.message.length > 35
+                                    ? `${conversation.last_message.message.substring(0, 35)}...`
+                                    : conversation.last_message.message}
+                                </p>
+                              )}
+                            </div>
+                          </div>
+                        </Link>
+                        <button
+                          className="btn btn-outline-danger btn-sm ms-2"
+                          onClick={() => handleDeleteConversation(conversation.id)}
+                          disabled={isDeleting}
+                          title="Delete conversation"
+                        >
+                          <Trash2 size={16} />
+                        </button>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+
           {/* Chat Area */}
-          <div className={showSidebar ? 'col-md-8 col-lg-9' : 'col-12'}>
+          <div className="col-8 d-flex flex-column">
             {activeConversation ? (
               <>
-                <div className="p-3 border-bottom d-flex justify-content-between align-items-center">
+                <div className="p-3 border-bottom bg-white d-flex justify-content-between align-items-center">
                   <div className="d-flex align-items-center">
                     {!showSidebar && (
-                      <button 
+                      <button
                         className="btn btn-outline-secondary btn-sm me-2"
-                        onClick={() => navigate('/chatbot')}
+                        onClick={() => setIsMobileSidebarOpen(true)}
                       >
-                        <ChevronLeft size={16} />
+                        <Menu size={16} />
                       </button>
                     )}
-                    
-                    <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary bg-opacity-10 p-2 me-2">
-                      <Bot className="text-primary" size={20} />
+                    <div className="flex-shrink-0 me-2">
+                      <div className="rounded-circle bg-primary bg-opacity-10 p-2">
+                        <Bot className="text-primary" size={20} />
+                      </div>
                     </div>
-                    
                     <div>
-                      <h5 className="mb-0">
-                        {activeConversation.course_title 
-                          ? `${activeConversation.course_title} Assistant` 
+                      <h5 className="mb-0 fw-bold">
+                        {activeConversation.course_title
+                          ? `${activeConversation.course_title} Assistant`
                           : 'Smart LMS Assistant'}
                       </h5>
                       <div className="text-muted small">
@@ -285,82 +350,93 @@ const ChatbotPage: React.FC = () => {
                       </div>
                     </div>
                   </div>
-                  
-                  {!showSidebar && (
-                    <button 
-                      className="btn btn-primary btn-sm"
-                      onClick={() => handleStartNewConversation()}
-                      disabled={isStarting}
-                    >
-                      {isStarting ? (
-                        <span className="spinner-border spinner-border-sm\" role="status\" aria-hidden="true"></span>
-                      ) : (
-                        <>
-                          <Plus size={16} className="me-1" />
-                          New Chat
-                        </>
-                      )}
-                    </button>
-                  )}
+                  <button
+                    className="btn btn-primary btn-sm"
+                    onClick={() => handleStartNewConversation()}
+                    disabled={isStarting}
+                  >
+                    {isStarting ? (
+                      <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                    ) : (
+                      <>
+                        <Plus size={16} className="me-1" />
+                        New Chat
+                      </>
+                    )}
+                  </button>
                 </div>
-                
-                <div className="chat-messages p-4" style={{ height: 'calc(70vh - 130px)', overflowY: 'auto' }}>
+                <div
+                  className="p-4 bg-light flex-grow-1"
+                  style={{ overflowY: 'auto' }}
+                >
                   {messages.map(message => (
-                    <div 
+                    <div
                       key={message.id}
-                      className={`d-flex mb-3 ${message.sender_type === 'user' ? 'justify-content-end' : 'justify-content-start'}`}
+                      className={`d-flex mb-3 ${
+                        message.sender_type === 'user' ? 'justify-content-end' : 'justify-content-start'
+                      }`}
                     >
                       {message.sender_type === 'bot' && (
-                        <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary bg-opacity-10 p-2 me-2 align-self-end">
-                          <Bot className="text-primary\" size={16} />
+                        <div className="flex-shrink-0 me-2">
+                          <div className="rounded-circle bg-primary bg-opacity-10 p-2">
+                            <Bot className="text-primary" size={16} />
+                          </div>
                         </div>
                       )}
-                      
-                      <div 
-                        className={`message-content ${message.sender_type === 'user' ? 'bg-primary text-white' : 'bg-light'} rounded p-3 ${message.sender_type === 'user' ? 'ms-5' : 'me-5'}`}
-                        style={{ maxWidth: '75%' }}
+                      <div
+                        className={`p-3 rounded-3 shadow-sm ${
+                          message.sender_type === 'user' ? 'bg-primary text-white' : 'bg-white border'
+                        }`}
+                        style={{ maxWidth: '70%', wordBreak: 'break-word' }}
                       >
-                        <div>{message.message}</div>
-                        <div className={`text-${message.sender_type === 'user' ? 'white-50' : 'muted'} d-flex align-items-center justify-content-end small mt-1`} style={{ fontSize: '0.7rem' }}>
+                        <div className="mb-1">{message.message}</div>
+                        <div
+                          className={`small text-${
+                            message.sender_type === 'user' ? 'white-50' : 'muted'
+                          } d-flex align-items-center justify-content-end`}
+                          style={{ fontSize: '0.75rem' }}
+                        >
                           <Clock size={10} className="me-1" />
-                          {new Date(message.created_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                          {new Date(message.created_at).toLocaleTimeString([], {
+                            hour: '2-digit',
+                            minute: '2-digit',
+                          })}
                         </div>
                       </div>
-                      
                       {message.sender_type === 'user' && (
-                        <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary p-2 ms-2 text-white align-self-end">
-                          <User size={16} />
+                        <div className="flex-shrink-0 ms-2">
+                          <div className="rounded-circle bg-primary text-white p-2">
+                            <User size={16} />
+                          </div>
                         </div>
                       )}
                     </div>
                   ))}
                   <div ref={messagesEndRef}></div>
                 </div>
-                
                 {error && (
-                  <div className="alert alert-danger mx-3" role="alert">
+                  <div className="alert alert-danger mx-4 mt-2" role="alert">
                     <AlertCircle size={18} className="me-2" />
                     {error}
                   </div>
                 )}
-                
-                <div className="p-3 border-top">
-                  <form onSubmit={handleSendMessage} className="d-flex">
-                    <input 
-                      type="text" 
-                      className="form-control"
-                      placeholder="Type your message here..."
+                <div className="p-3 border-top bg-white">
+                  <form onSubmit={handleSendMessage} className="input-group">
+                    <input
+                      type="text"
+                      className="form-control rounded-start"
+                      placeholder="Type your message..."
                       value={newMessage}
-                      onChange={(e) => setNewMessage(e.target.value)}
-                      disabled={isSending}
+                      onChange={e => setNewMessage(e.target.value)}
+                      disabled={isSending || isDeleting}
                     />
-                    <button 
-                      type="submit" 
-                      className="btn btn-primary ms-2"
-                      disabled={isSending || !newMessage.trim()}
+                    <button
+                      type="submit"
+                      className="btn btn-primary rounded-end"
+                      disabled={isSending || !newMessage.trim() || isDeleting}
                     >
                       {isSending ? (
-                        <span className="spinner-border spinner-border-sm\" role="status\" aria-hidden="true"></span>
+                        <span className="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
                       ) : (
                         <Send size={16} />
                       )}
@@ -369,48 +445,48 @@ const ChatbotPage: React.FC = () => {
                 </div>
               </>
             ) : (
-              <div className="d-flex flex-column justify-content-center align-items-center h-100 p-4">
+              <div className="d-flex flex-column justify-content-center align-items-center h-100 p-4 text-center bg-light">
                 <Bot size={64} className="text-primary mb-3" />
-                <h4 className="mb-2">Smart LMS Assistant</h4>
-                <p className="text-muted text-center mb-4">
+                <h4 className="mb-2 fw-bold text-primary">Smart LMS Assistant</h4>
+                <p className="text-muted mb-4 mx-auto" style={{ maxWidth: '500px' }}>
                   Start a conversation with our AI assistant to get help with your courses, assignments, or any questions about the platform.
                 </p>
-                <div>
-                  <button 
-                    className="btn btn-primary btn-lg"
-                    onClick={() => handleStartNewConversation()}
-                    disabled={isStarting}
-                  >
-                    {isStarting ? (
-                      <>
-                        <span className="spinner-border spinner-border-sm me-2\" role="status\" aria-hidden="true"></span>
-                        Starting conversation...
-                      </>
-                    ) : (
-                      <>
-                        <MessageSquare size={20} className="me-2" />
-                        Start New Conversation
-                      </>
-                    )}
-                  </button>
-                </div>
+                <button
+                  className="btn btn-primary btn-lg"
+                  onClick={() => handleStartNewConversation()}
+                  disabled={isStarting}
+                >
+                  {isStarting ? (
+                    <>
+                      <span className="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+                      Starting...
+                    </>
+                  ) : (
+                    <>
+                      <MessageSquare size={20} className="me-2" />
+                      Start New Conversation
+                    </>
+                  )}
+                </button>
               </div>
             )}
           </div>
         </div>
       </div>
-      
+
       {!activeConversation && (
-        <div className="row mt-4">
-          <div className="col-md-4 mb-4">
-            <div className="card border-0 shadow-sm h-100">
+        <div className="row mt-4 g-4">
+          <div className="col-md-4">
+            <div className="card border-0 shadow h-100" style={{ borderRadius: '15px' }}>
               <div className="card-body">
-                <div className="d-flex mb-3">
-                  <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary bg-opacity-10 p-3 me-3">
-                    <BookOpen className="text-primary" size={24} />
+                <div className="d-flex mb-3 align-items-center">
+                  <div className="flex-shrink-0 me-3">
+                    <div className="rounded-circle bg-primary bg-opacity-10 p-3">
+                      <BookOpen className="text-primary" size={24} />
+                    </div>
                   </div>
                   <div>
-                    <h5 className="card-title">Course Help</h5>
+                    <h5 className="card-title fw-bold mb-1">Course Help</h5>
                     <p className="card-text text-muted small">
                       Get assistance with specific course material, assignments, and quizzes.
                     </p>
@@ -424,23 +500,24 @@ const ChatbotPage: React.FC = () => {
               </div>
             </div>
           </div>
-          
-          <div className="col-md-4 mb-4">
-            <div className="card border-0 shadow-sm h-100">
+          <div className="col-md-4">
+            <div className="card border-0 shadow h-100" style={{ borderRadius: '15px' }}>
               <div className="card-body">
-                <div className="d-flex mb-3">
-                  <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-success bg-opacity-10 p-3 me-3">
-                    <Bot className="text-success" size={24} />
+                <div className="d-flex mb-3 align-items-center">
+                  <div className="flex-shrink-0 me-3">
+                    <div className="rounded-circle bg-success bg-opacity-10 p-3">
+                      <Bot className="text-success" size={24} />
+                    </div>
                   </div>
                   <div>
-                    <h5 className="card-title">AI Assistant</h5>
+                    <h5 className="card-title fw-bold mb-1">AI Assistant</h5>
                     <p className="card-text text-muted small">
                       Our chatbot can answer general questions about the platform and provide study tips.
                     </p>
                   </div>
                 </div>
                 <div className="text-end">
-                  <button 
+                  <button
                     className="btn btn-outline-success btn-sm"
                     onClick={() => handleStartNewConversation()}
                   >
@@ -450,16 +527,17 @@ const ChatbotPage: React.FC = () => {
               </div>
             </div>
           </div>
-          
-          <div className="col-md-4 mb-4">
-            <div className="card border-0 shadow-sm h-100">
+          <div className="col-md-4">
+            <div className="card border-0 shadow h-100" style={{ borderRadius: '15px' }}>
               <div className="card-body">
-                <div className="d-flex mb-3">
-                  <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-warning bg-opacity-10 p-3 me-3">
-                    <Users className="text-warning" size={24} />
+                <div className="d-flex mb-3 align-items-center">
+                  <div className="flex-shrink-0 me-3">
+                    <div className="rounded-circle bg-warning bg-opacity-10 p-3">
+                      <Users className="text-warning" size={24} />
+                    </div>
                   </div>
                   <div>
-                    <h5 className="card-title">Peer Support</h5>
+                    <h5 className="card-title fw-bold mb-1">Peer Support</h5>
                     <p className="card-text text-muted small">
                       Need more personalized help? Check your mentoring connections.
                     </p>
@@ -480,7 +558,7 @@ const ChatbotPage: React.FC = () => {
 };
 
 // Add the missing Users component
-const Users: React.FC<{ size: number, className: string }> = ({ size, className }) => {
+const Users: React.FC<{ size: number; className: string }> = ({ size, className }) => {
   return <span className={className} style={{ width: size, height: size, display: 'inline-block' }}>👥</span>;
 };
 

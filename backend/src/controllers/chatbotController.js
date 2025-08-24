@@ -1,4 +1,5 @@
 import { db } from '../database/db.js';
+import { classifyIntent, getResponseForIntent } from '../utils/chatbotNLP.js';
 
 // Start a new chatbot conversation
 export const startConversation = async (req, res) => {
@@ -122,50 +123,58 @@ export const sendMessage = async (req, res) => {
       created_at: new Date()
     });
     
-    // Generate bot response based on the course context
-    let botResponse;
-    
-    // In a real implementation, this would use an AI/NLP service
-    // For demo, we'll use some hardcoded responses based on keywords
-    
+    // Try to classify intent using the trained model
     const lowerCaseMessage = message.toLowerCase();
     let responseText;
+    let intent = await classifyIntent(lowerCaseMessage);
     
-    // Check for course-specific context
-    if (conversation.course_id) {
-      const course = await db('courses').where('id', conversation.course_id).first();
-      
-      if (lowerCaseMessage.includes('quiz') || lowerCaseMessage.includes('test')) {
-        responseText = `The next quiz for ${course.title} will be available soon. Make sure you've completed all the required readings and practice exercises.`;
-      } else if (lowerCaseMessage.includes('assignment') || lowerCaseMessage.includes('homework')) {
-        responseText = `For the current assignment in ${course.title}, focus on applying the concepts we've covered in the recent lessons. Remember to check the rubric for grading criteria.`;
-      } else if (lowerCaseMessage.includes('deadline') || lowerCaseMessage.includes('due date')) {
-        responseText = `The next deadline for ${course.title} is this Friday at 11:59 PM. You can find all deadlines in the course calendar.`;
-      } else {
-        responseText = `I'm here to help with any questions about ${course.title}. You can ask about assignments, quizzes, deadlines, or specific topics covered in the course.`;
-      }
+    if (intent) {
+      responseText = await getResponseForIntent(intent);
+      // Store intent in message_metadata for analytics
+      await db('chatbot_messages').insert({
+        conversation_id,
+        sender_type: 'bot',
+        message: responseText,
+        message_metadata: JSON.stringify({ intent }),
+        created_at: new Date()
+      });
     } else {
-      // General responses
-      if (lowerCaseMessage.includes('hello') || lowerCaseMessage.includes('hi')) {
-        responseText = `Hello! How can I assist you with your studies today?`;
-      } else if (lowerCaseMessage.includes('course') && lowerCaseMessage.includes('enroll')) {
-        responseText = `To enroll in a course, go to the Courses page, find the course you're interested in, and click the Enroll button. Let me know if you need help finding a specific course.`;
-      } else if (lowerCaseMessage.includes('password')) {
-        responseText = `You can change your password in the Profile settings. Go to your profile page and click on the Change Password option.`;
-      } else if (lowerCaseMessage.includes('mentor') || lowerCaseMessage.includes('mentoring')) {
-        responseText = `Our peer mentoring program matches high-performing students with those who might need additional support. Check your Dashboard or the Mentoring section to see your current mentoring relationships.`;
+      // Fallback to rule-based responses
+      if (conversation.course_id) {
+        const course = await db('courses').where('id', conversation.course_id).first();
+        
+        if (lowerCaseMessage.includes('quiz') || lowerCaseMessage.includes('test')) {
+          responseText = `The next quiz for ${course.title} will be available soon. Make sure you've completed all the required readings and practice exercises.`;
+        } else if (lowerCaseMessage.includes('assignment') || lowerCaseMessage.includes('homework')) {
+          responseText = `For the current assignment in ${course.title}, focus on applying the concepts we've covered in the recent lessons. Remember to check the rubric for grading criteria.`;
+        } else if (lowerCaseMessage.includes('deadline') || lowerCaseMessage.includes('due date')) {
+          responseText = `The next deadline for ${course.title} is this Friday at 11:59 PM. You can find all deadlines in the course calendar.`;
+        } else {
+          responseText = `I'm here to help with any questions about ${course.title}. You can ask about assignments, quizzes, deadlines, or specific topics covered in the course.`;
+        }
       } else {
-        responseText = `I'm your Smart LMS assistant. I can help with questions about courses, assignments, quizzes, and using the platform. What would you like to know more about?`;
+        // General responses
+        if (lowerCaseMessage.includes('hello') || lowerCaseMessage.includes('hi')) {
+          responseText = `Hello! How can I assist you with your studies today?`;
+        } else if (lowerCaseMessage.includes('course') && lowerCaseMessage.includes('enroll')) {
+          responseText = `To enroll in a course, go to the Courses page, find the course you're interested in, and click the Enroll button. Let me know if you need help finding a specific course.`;
+        } else if (lowerCaseMessage.includes('password')) {
+          responseText = `You can change your password in the Profile settings. Go to your profile page and click on the Change Password option.`;
+        } else if (lowerCaseMessage.includes('mentor') || lowerCaseMessage.includes('mentoring')) {
+          responseText = `Our peer mentoring program matches high-performing students with those who might need additional support. Check your Dashboard or the Mentoring section to see your current mentoring relationships.`;
+        } else {
+          responseText = `I'm your Smart LMS assistant. I can help with questions about courses, assignments, quizzes, and using the platform. What would you like to know more about?`;
+        }
       }
+      
+      // Store bot response without intent (rule-based)
+      await db('chatbot_messages').insert({
+        conversation_id,
+        sender_type: 'bot',
+        message: responseText,
+        created_at: new Date()
+      });
     }
-    
-    // Store bot response
-    const [botMessageId] = await db('chatbot_messages').insert({
-      conversation_id,
-      sender_type: 'bot',
-      message: responseText,
-      created_at: new Date()
-    });
     
     // Get updated messages
     const messages = await db('chatbot_messages')
@@ -260,6 +269,43 @@ export const getConversation = async (req, res) => {
     });
   } catch (error) {
     console.error(error);
+    res.status(500).json({
+      success: false,
+      error: 'Server error'
+    });
+  }
+};
+
+export const deleteConversation = async (req, res) => {
+  try {
+    const conversationId = req.params.id;
+
+    // Verify conversation exists and belongs to the user
+    const conversation = await db('chatbot_conversations')
+      .where({
+        id: conversationId,
+        user_id: req.user.id
+      })
+      .first();
+
+    if (!conversation) {
+      return res.status(404).json({
+        success: false,
+        error: 'Conversation not found or unauthorized'
+      });
+    }
+
+    // Delete the conversation (messages are automatically deleted due to ON DELETE CASCADE)
+    await db('chatbot_conversations')
+      .where('id', conversationId)
+      .del();
+
+    res.status(200).json({
+      success: true,
+      message: 'Conversation deleted successfully'
+    });
+  } catch (error) {
+    console.error('Error deleting conversation:', error);
     res.status(500).json({
       success: false,
       error: 'Server error'

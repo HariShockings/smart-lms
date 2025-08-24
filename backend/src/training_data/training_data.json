@@ -1,0 +1,40 @@
+[
+  {
+    "intent": "reset_password",
+    "patterns": [
+      "how to reset my password",
+      "change password",
+      "forgot my password",
+      "reset password instructions"
+    ],
+    "responses": [
+      "To reset your password, go to the Profile settings and click 'Change Password'. Follow the instructions there.",
+      "Visit the Profile page and select 'Change Password' to reset your password."
+    ]
+  },
+  {
+    "intent": "next_quiz",
+    "patterns": [
+      "when is the next quiz",
+      "quiz schedule",
+      "upcoming test",
+      "when's the next test"
+    ],
+    "responses": [
+      "Let me check the course schedule for the next quiz. Please provide the course name or ID if you're in a specific course.",
+      "The next quiz details can be found in the course calendar. Which course are you asking about?"
+    ]
+  },
+  {
+    "intent": "enroll_course",
+    "patterns": [
+      "how to enroll in a course",
+      "sign up for a course",
+      "join a course"
+    ],
+    "responses": [
+      "To enroll in a course, go to the Courses page, find the course you're interested in, and click the Enroll button.",
+      "Navigate to the Courses section and select 'Enroll' on the desired course."
+    ]
+  }
+]

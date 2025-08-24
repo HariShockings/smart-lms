@@ -18,6 +18,7 @@ import messagesRoutes from './routes/messages.js';
 import settingsRoutes from './routes/settings.js';
 import helpRoutes from './routes/help.js';
 import { errorHandler } from './middlewares/errorHandler.js';
+import { loadTrainingData } from './utils/chatbotNLP.js';
 
 // Load environment variables
 dotenv.config();
@@ -66,6 +67,16 @@ app.get('/api/health', (req, res) => {
 app.use(errorHandler);
 
 // Start server
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+const startServer = async () => {
+  try {
+    await loadTrainingData(); // Train or load the classifier
+    app.listen(PORT, () => {
+      console.log(`Server running on port ${PORT}`);
+    });
+  } catch (error) {
+    console.error('Failed to start server:', error);
+    process.exit(1); // Exit with failure code to alert the issue
+  }
+};
+
+startServer();

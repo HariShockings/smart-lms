@@ -201,6 +201,24 @@ export const mentoringAPI = {
     apiCall(`/mentoring/mentors/check/${courseId}`),
 };
 
+// Chatbot API calls
+export const chatbotAPI = {
+  startConversation: (courseId?: string) =>
+    apiCall('/chatbot/start', {
+      method: 'POST',
+      body: JSON.stringify({ course_id: courseId || null }),
+    }),
+  sendMessage: (conversationId: string, message: string) =>
+    apiCall('/chatbot/message', {
+      method: 'POST',
+      body: JSON.stringify({ conversation_id: conversationId, message }),
+    }),
+  getConversations: () => apiCall('/chatbot/conversations'),
+  getConversation: (conversationId: string) => apiCall(`/chatbot/conversations/${conversationId}`),
+  deleteConversation: (conversationId: string) =>
+    apiCall(`/chatbot/conversations/${conversationId}`, { method: 'DELETE' }),
+};
+
 export default {
   calendar: calendarAPI,
   grades: gradesAPI,
@@ -213,4 +231,5 @@ export default {
   course: courseAPI,
   assignment: assignmentAPI,
   quiz: quizAPI,
+  chatbot: chatbotAPI,
 };
