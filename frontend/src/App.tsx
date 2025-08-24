@@ -21,6 +21,17 @@ import ChatbotPage from './pages/chatbot/ChatbotPage';
 import NotFoundPage from './pages/NotFoundPage';
 import LoadingSpinner from './components/ui/LoadingSpinner';
 
+// New pages
+import CalendarPage from './pages/calendar/CalendarPage';
+import GradesPage from './pages/grades/GradesPage';
+import MessagesPage from './pages/messages/MessagesPage';
+import SettingsPage from './pages/settings/SettingsPage';
+import HelpPage from './pages/help/HelpPage';
+import AssignmentsPage from './pages/teacher/AssignmentsPage';
+import TeacherStudentsPage from './pages/teacher/StudentsPage';
+import AnalyticsPage from './pages/teacher/AnalyticsPage';
+import ReportsPage from './pages/admin/ReportsPage';
+
 function App() {
   const [isLoading, setIsLoading] = useState(true);
 
@@ -68,6 +79,30 @@ function App() {
           {/* Profile Routes */}
           <Route path="/profile" element={<ProfilePage />} />
           
+          {/* Student/Teacher Routes */}
+          <Route path="/calendar" element={<CalendarPage />} />
+          <Route path="/grades" element={<GradesPage />} />
+          <Route path="/messages" element={<MessagesPage />} />
+          <Route path="/settings" element={<SettingsPage />} />
+          <Route path="/help" element={<HelpPage />} />
+          
+          {/* Teacher Routes */}
+          <Route path="/assignments" element={
+            <ProtectedRoute requiredRole="teacher">
+              <AssignmentsPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/students" element={
+            <ProtectedRoute requiredRole="teacher">
+              <TeacherStudentsPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/analytics" element={
+            <ProtectedRoute requiredRole="teacher">
+              <AnalyticsPage />
+            </ProtectedRoute>
+          } />
+          
           {/* Admin Routes */}
           <Route path="/admin/students" element={
             <ProtectedRoute requiredRole="admin">
@@ -77,6 +112,11 @@ function App() {
           <Route path="/admin/teachers" element={
             <ProtectedRoute requiredRole="admin">
               <TeachersPage />
+            </ProtectedRoute>
+          } />
+          <Route path="/admin/reports" element={
+            <ProtectedRoute requiredRole="admin">
+              <ReportsPage />
             </ProtectedRoute>
           } />
         </Route>

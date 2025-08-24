@@ -227,7 +227,7 @@ const ChatbotPage: React.FC = () => {
                         className={`list-group-item list-group-item-action border-0 py-3 ${activeConversation?.id === conversation.id ? 'active' : ''}`}
                       >
                         <div className="d-flex">
-                          <div className="rounded-circle bg-primary bg-opacity-10 p-2 me-3">
+                          <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary bg-opacity-10 p-2 me-3">
                             <Bot className="text-primary" size={20} />
                           </div>
                           <div className="overflow-hidden">
@@ -270,7 +270,7 @@ const ChatbotPage: React.FC = () => {
                       </button>
                     )}
                     
-                    <div className="rounded-circle bg-primary bg-opacity-10 p-2 me-2">
+                    <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary bg-opacity-10 p-2 me-2">
                       <Bot className="text-primary" size={20} />
                     </div>
                     
@@ -311,7 +311,7 @@ const ChatbotPage: React.FC = () => {
                       className={`d-flex mb-3 ${message.sender_type === 'user' ? 'justify-content-end' : 'justify-content-start'}`}
                     >
                       {message.sender_type === 'bot' && (
-                        <div className="rounded-circle bg-primary bg-opacity-10 p-2 me-2 align-self-end">
+                        <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary bg-opacity-10 p-2 me-2 align-self-end">
                           <Bot className="text-primary\" size={16} />
                         </div>
                       )}
@@ -328,7 +328,7 @@ const ChatbotPage: React.FC = () => {
                       </div>
                       
                       {message.sender_type === 'user' && (
-                        <div className="rounded-circle bg-primary p-2 ms-2 text-white align-self-end">
+                        <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary p-2 ms-2 text-white align-self-end">
                           <User size={16} />
                         </div>
                       )}
@@ -406,7 +406,7 @@ const ChatbotPage: React.FC = () => {
             <div className="card border-0 shadow-sm h-100">
               <div className="card-body">
                 <div className="d-flex mb-3">
-                  <div className="rounded-circle bg-primary bg-opacity-10 p-3 me-3">
+                  <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-primary bg-opacity-10 p-3 me-3">
                     <BookOpen className="text-primary" size={24} />
                   </div>
                   <div>
@@ -429,7 +429,7 @@ const ChatbotPage: React.FC = () => {
             <div className="card border-0 shadow-sm h-100">
               <div className="card-body">
                 <div className="d-flex mb-3">
-                  <div className="rounded-circle bg-success bg-opacity-10 p-3 me-3">
+                  <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-success bg-opacity-10 p-3 me-3">
                     <Bot className="text-success" size={24} />
                   </div>
                   <div>
@@ -455,7 +455,7 @@ const ChatbotPage: React.FC = () => {
             <div className="card border-0 shadow-sm h-100">
               <div className="card-body">
                 <div className="d-flex mb-3">
-                  <div className="rounded-circle bg-warning bg-opacity-10 p-3 me-3">
+                  <div className="d-flex align-items-center h-25 w-auto rounded-circle bg-warning bg-opacity-10 p-3 me-3">
                     <Users className="text-warning" size={24} />
                   </div>
                   <div>
