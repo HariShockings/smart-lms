@@ -1,0 +1,100 @@
+[
+  {
+    "intent": "list_courses",
+    "patterns": [
+      "show all courses",
+      "list available courses",
+      "what courses are there",
+      "course list",
+      "available courses"
+    ],
+    "responses": [
+      "Let me fetch the list of available courses for you.",
+      "Here are the courses currently available in the system."
+    ]
+  },
+  {
+    "intent": "course_assignments",
+    "patterns": [
+      "assignments for course 1",
+      "what assignments in course 2",
+      "course 3 assignments",
+      "show assignments for course",
+      "list assignments in course 1"
+    ],
+    "responses": [
+      "Here are the assignments for the specified course.",
+      "Let me check the assignments for that course."
+    ]
+  },
+  {
+    "intent": "user_grades",
+    "patterns": [
+      "grades for user 3",
+      "show my grades for user 4",
+      "user 5 grades",
+      "check grades for user",
+      "my grades user 7"
+    ],
+    "responses": [
+      "Fetching grades for the specified user.",
+      "Here are the grades for the user you mentioned."
+    ]
+  },
+  {
+    "intent": "ai_prediction",
+    "patterns": [
+      "ai prediction for user 3",
+      "predicted grades for user 4",
+      "user 5 performance prediction",
+      "show ai prediction for user",
+      "prediction for user 7"
+    ],
+    "responses": [
+      "Let me check the AI predictions for that user.",
+      "Here are the AI-predicted grades and performance levels."
+    ]
+  },
+  {
+    "intent": "course_announcements",
+    "patterns": [
+      "announcements for course 1",
+      "course 2 announcements",
+      "show announcements for course 3",
+      "what’s new in course 1",
+      "course announcements"
+    ],
+    "responses": [
+      "Here are the latest announcements for the specified course.",
+      "Let me fetch the announcements for that course."
+    ]
+  },
+  {
+    "intent": "calendar_events",
+    "patterns": [
+      "show calendar events",
+      "upcoming events",
+      "what’s on the calendar",
+      "list events",
+      "course calendar"
+    ],
+    "responses": [
+      "Here are the upcoming events from the calendar.",
+      "Let me check the calendar for scheduled events."
+    ]
+  },
+  {
+    "intent": "mentor_requests",
+    "patterns": [
+      "mentor requests for user 3",
+      "show mentor requests for user 4",
+      "user 5 mentor status",
+      "check mentor requests for user",
+      "my mentor requests user 7"
+    ],
+    "responses": [
+      "Fetching mentor request status for the specified user.",
+      "Here are the mentor requests for the user."
+    ]
+  }
+]

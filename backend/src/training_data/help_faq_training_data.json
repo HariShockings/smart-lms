@@ -1,0 +1,212 @@
+[
+  {
+    "intent": "access_help_page",
+    "patterns": [
+      "how to get help",
+      "where is the help page",
+      "find help on platform",
+      "how do I get support",
+      "help section"
+    ],
+    "responses": [
+      "You can access the Help page by logging in and navigating to the 'Help' section from the main menu. It contains guides and FAQs for using the platform.",
+      "Go to the Help page via the navigation menu after logging in to find support resources and frequently asked questions."
+    ]
+  },
+  {
+    "intent": "login_issues",
+    "patterns": [
+      "can't log in",
+      "login not working",
+      "trouble signing in",
+      "login error",
+      "forgot login details"
+    ],
+    "responses": [
+      "If you can't log in, ensure you're using the correct email and password. Try resetting your password from the Login page by clicking 'Forgot Password'.",
+      "Visit the Login page and use the 'Forgot Password' link to reset your credentials if you're having trouble signing in."
+    ]
+  },
+  {
+    "intent": "navigate_dashboard",
+    "patterns": [
+      "how to use dashboard",
+      "what is on the dashboard",
+      "navigate dashboard",
+      "dashboard features",
+      "how to get to dashboard"
+    ],
+    "responses": [
+      "The Dashboard page provides an overview of your courses, progress, and notifications. Access it by logging in and clicking 'Dashboard' in the main menu.",
+      "After logging in, select 'Dashboard' from the navigation menu to view your enrolled courses, recent activities, and quick links."
+    ]
+  },
+  {
+    "intent": "course_creation",
+    "patterns": [
+      "how to create a course",
+      "make a new course",
+      "add a course",
+      "create course steps",
+      "how do I set up a course"
+    ],
+    "responses": [
+      "To create a course, go to the Courses section and click 'Create Course'. You must have teacher or admin privileges to access this feature.",
+      "Navigate to the Courses page and select 'Create Course' to set up a new course. Ensure you have the appropriate permissions (teacher or admin role)."
+    ]
+  },
+  {
+    "intent": "access_calendar",
+    "patterns": [
+      "where is the calendar",
+      "how to view calendar",
+      "find course schedule",
+      "calendar page",
+      "event schedule"
+    ],
+    "responses": [
+      "The Calendar page shows your course schedules and events. Access it by clicking 'Calendar' in the navigation menu after logging in.",
+      "Go to the Calendar section from the main menu to view upcoming quizzes, assignments, and other course-related events."
+    ]
+  },
+  {
+    "intent": "check_grades",
+    "patterns": [
+      "how to see my grades",
+      "check grades",
+      "view my scores",
+      "where are my grades",
+      "grade report"
+    ],
+    "responses": [
+      "To check your grades, navigate to the Grades page from the main menu. It displays your scores for quizzes and assignments in your enrolled courses.",
+      "Go to the Grades section after logging in to view your performance across all courses."
+    ]
+  },
+  {
+    "intent": "send_messages",
+    "patterns": [
+      "how to send a message",
+      "contact teacher",
+      "message other students",
+      "use messages page",
+      "how to chat with mentor"
+    ],
+    "responses": [
+      "To send messages, go to the Messages page from the navigation menu. You can contact teachers, mentors, or other students from there.",
+      "Navigate to the Messages section to send messages to your teachers or peers. For mentoring chats, visit the Mentoring section."
+    ]
+  },
+  {
+    "intent": "update_settings",
+    "patterns": [
+      "how to change settings",
+      "update profile settings",
+      "modify account settings",
+      "where are settings",
+      "change notification preferences"
+    ],
+    "responses": [
+      "To update your settings, go to the Settings page via the navigation menu. You can modify your profile, notifications, and other preferences there.",
+      "Access the Settings page from the main menu to change your account details or notification settings."
+    ]
+  },
+  {
+    "intent": "use_chatbot",
+    "patterns": [
+      "how to use chatbot",
+      "access chatbot",
+      "talk to chatbot",
+      "where is the chatbot",
+      "chatbot help"
+    ],
+    "responses": [
+      "The Chatbot is available on the Chatbot page, accessible from the main menu. Use it to ask questions about courses or platform features.",
+      "Navigate to the Chatbot section to interact with the AI assistant for quick answers to your questions."
+    ]
+  },
+  {
+    "intent": "admin_features",
+    "patterns": [
+      "what can admins do",
+      "admin tools",
+      "manage students as admin",
+      "admin reports",
+      "how to use admin features"
+    ],
+    "responses": [
+      "Admins can manage students and teachers via the Admin section, accessible with admin privileges. Go to 'Admin/Students', 'Admin/Teachers', or 'Admin/Reports' from the menu.",
+      "With admin access, you can oversee student and teacher accounts and generate reports from the Admin section in the navigation menu."
+    ]
+  },
+  {
+    "intent": "teacher_assignments",
+    "patterns": [
+      "how to create assignments",
+      "add assignment as teacher",
+      "manage assignments",
+      "teacher assignment page",
+      "how to grade assignments"
+    ],
+    "responses": [
+      "Teachers can create and manage assignments on the Assignments page, accessible via the navigation menu with teacher privileges.",
+      "Go to the Assignments section as a teacher to create, manage, or grade student assignments."
+    ]
+  },
+  {
+    "intent": "view_analytics",
+    "patterns": [
+      "how to see analytics",
+      "teacher analytics",
+      "view course analytics",
+      "student progress report",
+      "where is analytics page"
+    ],
+    "responses": [
+      "Teachers can view course and student analytics on the Analytics page, accessible from the navigation menu with teacher privileges.",
+      "Navigate to the Analytics section as a teacher to see detailed reports on student progress and course performance."
+    ]
+  },
+  {
+    "intent": "troubleshoot_loading",
+    "patterns": [
+      "page not loading",
+      "why is the site slow",
+      "loading spinner stuck",
+      "app not responding",
+      "fix loading issues"
+    ],
+    "responses": [
+      "If the page is stuck on the loading spinner, try refreshing the browser or clearing your cache. Ensure you have a stable internet connection.",
+      "For loading issues, refresh the page or check your internet connection. If the problem persists, contact support via the Help page."
+    ]
+  },
+  {
+    "intent": "course_progress",
+    "patterns": [
+      "track course progress",
+      "how to see my course progress",
+      "check my progress",
+      "course completion status",
+      "where to see progress"
+    ],
+    "responses": [
+      "You can track your course progress on the Dashboard or Course Details page, which shows your completion status for quizzes and assignments.",
+      "Go to the Course Details page for a specific course to view your progress, including completed assignments and quizzes."
+    ]
+  },
+  {
+    "intent": "mentoring_support",
+    "patterns": [
+      "how to get mentoring",
+      "access mentoring dashboard",
+      "talk to a mentor",
+      "mentoring help",
+      "where is mentoring section"
+    ],
+    "responses": [
+      "Access the Mentoring Dashboard from the navigation menu to connect with mentors or start a mentoring chat.",
+      "Go to the Mentoring section to view available mentors and initiate a chat for personalized support."
+    ]
+  }
+]

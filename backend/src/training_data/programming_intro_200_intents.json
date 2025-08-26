@@ -1,0 +1,2702 @@
+[
+  {
+    "intent": "what_is_programming_1",
+    "patterns": [
+      "what is programming",
+      "explain programming",
+      "define programming",
+      "tell me about programming",
+      "what does programming mean"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_2",
+    "patterns": [
+      "what is programming 1",
+      "explain programming 1",
+      "define programming 1",
+      "tell me about programming 1",
+      "what does programming mean 1"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_3",
+    "patterns": [
+      "what is programming 2",
+      "explain programming 2",
+      "define programming 2",
+      "tell me about programming 2",
+      "what does programming mean 2"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_4",
+    "patterns": [
+      "what is programming 3",
+      "explain programming 3",
+      "define programming 3",
+      "tell me about programming 3",
+      "what does programming mean 3"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_5",
+    "patterns": [
+      "what is programming 4",
+      "explain programming 4",
+      "define programming 4",
+      "tell me about programming 4",
+      "what does programming mean 4"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_6",
+    "patterns": [
+      "what is programming 5",
+      "explain programming 5",
+      "define programming 5",
+      "tell me about programming 5",
+      "what does programming mean 5"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_7",
+    "patterns": [
+      "what is programming 6",
+      "explain programming 6",
+      "define programming 6",
+      "tell me about programming 6",
+      "what does programming mean 6"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_8",
+    "patterns": [
+      "what is programming 7",
+      "explain programming 7",
+      "define programming 7",
+      "tell me about programming 7",
+      "what does programming mean 7"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_9",
+    "patterns": [
+      "what is programming 8",
+      "explain programming 8",
+      "define programming 8",
+      "tell me about programming 8",
+      "what does programming mean 8"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_10",
+    "patterns": [
+      "what is programming 9",
+      "explain programming 9",
+      "define programming 9",
+      "tell me about programming 9",
+      "what does programming mean 9"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_11",
+    "patterns": [
+      "what is programming 10",
+      "explain programming 10",
+      "define programming 10",
+      "tell me about programming 10",
+      "what does programming mean 10"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_12",
+    "patterns": [
+      "what is programming 11",
+      "explain programming 11",
+      "define programming 11",
+      "tell me about programming 11",
+      "what does programming mean 11"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_13",
+    "patterns": [
+      "what is programming 12",
+      "explain programming 12",
+      "define programming 12",
+      "tell me about programming 12",
+      "what does programming mean 12"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_14",
+    "patterns": [
+      "what is programming 13",
+      "explain programming 13",
+      "define programming 13",
+      "tell me about programming 13",
+      "what does programming mean 13"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_15",
+    "patterns": [
+      "what is programming 14",
+      "explain programming 14",
+      "define programming 14",
+      "tell me about programming 14",
+      "what does programming mean 14"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_16",
+    "patterns": [
+      "what is programming 15",
+      "explain programming 15",
+      "define programming 15",
+      "tell me about programming 15",
+      "what does programming mean 15"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_17",
+    "patterns": [
+      "what is programming 16",
+      "explain programming 16",
+      "define programming 16",
+      "tell me about programming 16",
+      "what does programming mean 16"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_18",
+    "patterns": [
+      "what is programming 17",
+      "explain programming 17",
+      "define programming 17",
+      "tell me about programming 17",
+      "what does programming mean 17"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_19",
+    "patterns": [
+      "what is programming 18",
+      "explain programming 18",
+      "define programming 18",
+      "tell me about programming 18",
+      "what does programming mean 18"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "what_is_programming_20",
+    "patterns": [
+      "what is programming 19",
+      "explain programming 19",
+      "define programming 19",
+      "tell me about programming 19",
+      "what does programming mean 19"
+    ],
+    "responses": [
+      "Programming is giving instructions to a computer to perform tasks.",
+      "It's the process of writing code to solve problems or create applications.",
+      "Programming means telling the computer what to do using a language it understands."
+    ]
+  },
+  {
+    "intent": "why_learn_programming_1",
+    "patterns": [
+      "why should i learn programming",
+      "importance of programming",
+      "benefits of coding",
+      "why coding",
+      "is programming useful"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_2",
+    "patterns": [
+      "why should i learn programming 1",
+      "importance of programming 1",
+      "benefits of coding 1",
+      "why coding 1",
+      "is programming useful 1"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_3",
+    "patterns": [
+      "why should i learn programming 2",
+      "importance of programming 2",
+      "benefits of coding 2",
+      "why coding 2",
+      "is programming useful 2"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_4",
+    "patterns": [
+      "why should i learn programming 3",
+      "importance of programming 3",
+      "benefits of coding 3",
+      "why coding 3",
+      "is programming useful 3"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_5",
+    "patterns": [
+      "why should i learn programming 4",
+      "importance of programming 4",
+      "benefits of coding 4",
+      "why coding 4",
+      "is programming useful 4"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_6",
+    "patterns": [
+      "why should i learn programming 5",
+      "importance of programming 5",
+      "benefits of coding 5",
+      "why coding 5",
+      "is programming useful 5"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_7",
+    "patterns": [
+      "why should i learn programming 6",
+      "importance of programming 6",
+      "benefits of coding 6",
+      "why coding 6",
+      "is programming useful 6"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_8",
+    "patterns": [
+      "why should i learn programming 7",
+      "importance of programming 7",
+      "benefits of coding 7",
+      "why coding 7",
+      "is programming useful 7"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_9",
+    "patterns": [
+      "why should i learn programming 8",
+      "importance of programming 8",
+      "benefits of coding 8",
+      "why coding 8",
+      "is programming useful 8"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_10",
+    "patterns": [
+      "why should i learn programming 9",
+      "importance of programming 9",
+      "benefits of coding 9",
+      "why coding 9",
+      "is programming useful 9"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_11",
+    "patterns": [
+      "why should i learn programming 10",
+      "importance of programming 10",
+      "benefits of coding 10",
+      "why coding 10",
+      "is programming useful 10"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_12",
+    "patterns": [
+      "why should i learn programming 11",
+      "importance of programming 11",
+      "benefits of coding 11",
+      "why coding 11",
+      "is programming useful 11"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_13",
+    "patterns": [
+      "why should i learn programming 12",
+      "importance of programming 12",
+      "benefits of coding 12",
+      "why coding 12",
+      "is programming useful 12"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_14",
+    "patterns": [
+      "why should i learn programming 13",
+      "importance of programming 13",
+      "benefits of coding 13",
+      "why coding 13",
+      "is programming useful 13"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_15",
+    "patterns": [
+      "why should i learn programming 14",
+      "importance of programming 14",
+      "benefits of coding 14",
+      "why coding 14",
+      "is programming useful 14"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_16",
+    "patterns": [
+      "why should i learn programming 15",
+      "importance of programming 15",
+      "benefits of coding 15",
+      "why coding 15",
+      "is programming useful 15"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_17",
+    "patterns": [
+      "why should i learn programming 16",
+      "importance of programming 16",
+      "benefits of coding 16",
+      "why coding 16",
+      "is programming useful 16"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_18",
+    "patterns": [
+      "why should i learn programming 17",
+      "importance of programming 17",
+      "benefits of coding 17",
+      "why coding 17",
+      "is programming useful 17"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_19",
+    "patterns": [
+      "why should i learn programming 18",
+      "importance of programming 18",
+      "benefits of coding 18",
+      "why coding 18",
+      "is programming useful 18"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "why_learn_programming_20",
+    "patterns": [
+      "why should i learn programming 19",
+      "importance of programming 19",
+      "benefits of coding 19",
+      "why coding 19",
+      "is programming useful 19"
+    ],
+    "responses": [
+      "Programming helps you solve problems and build amazing things.",
+      "It improves logical thinking and opens many career opportunities.",
+      "Programming is the future – everything runs on code today!"
+    ]
+  },
+  {
+    "intent": "first_program_1",
+    "patterns": [
+      "write my first program",
+      "hello world example",
+      "first code",
+      "simple program example",
+      "basic code example"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_2",
+    "patterns": [
+      "write my first program 1",
+      "hello world example 1",
+      "first code 1",
+      "simple program example 1",
+      "basic code example 1"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_3",
+    "patterns": [
+      "write my first program 2",
+      "hello world example 2",
+      "first code 2",
+      "simple program example 2",
+      "basic code example 2"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_4",
+    "patterns": [
+      "write my first program 3",
+      "hello world example 3",
+      "first code 3",
+      "simple program example 3",
+      "basic code example 3"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_5",
+    "patterns": [
+      "write my first program 4",
+      "hello world example 4",
+      "first code 4",
+      "simple program example 4",
+      "basic code example 4"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_6",
+    "patterns": [
+      "write my first program 5",
+      "hello world example 5",
+      "first code 5",
+      "simple program example 5",
+      "basic code example 5"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_7",
+    "patterns": [
+      "write my first program 6",
+      "hello world example 6",
+      "first code 6",
+      "simple program example 6",
+      "basic code example 6"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_8",
+    "patterns": [
+      "write my first program 7",
+      "hello world example 7",
+      "first code 7",
+      "simple program example 7",
+      "basic code example 7"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_9",
+    "patterns": [
+      "write my first program 8",
+      "hello world example 8",
+      "first code 8",
+      "simple program example 8",
+      "basic code example 8"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_10",
+    "patterns": [
+      "write my first program 9",
+      "hello world example 9",
+      "first code 9",
+      "simple program example 9",
+      "basic code example 9"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_11",
+    "patterns": [
+      "write my first program 10",
+      "hello world example 10",
+      "first code 10",
+      "simple program example 10",
+      "basic code example 10"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_12",
+    "patterns": [
+      "write my first program 11",
+      "hello world example 11",
+      "first code 11",
+      "simple program example 11",
+      "basic code example 11"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_13",
+    "patterns": [
+      "write my first program 12",
+      "hello world example 12",
+      "first code 12",
+      "simple program example 12",
+      "basic code example 12"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_14",
+    "patterns": [
+      "write my first program 13",
+      "hello world example 13",
+      "first code 13",
+      "simple program example 13",
+      "basic code example 13"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_15",
+    "patterns": [
+      "write my first program 14",
+      "hello world example 14",
+      "first code 14",
+      "simple program example 14",
+      "basic code example 14"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_16",
+    "patterns": [
+      "write my first program 15",
+      "hello world example 15",
+      "first code 15",
+      "simple program example 15",
+      "basic code example 15"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_17",
+    "patterns": [
+      "write my first program 16",
+      "hello world example 16",
+      "first code 16",
+      "simple program example 16",
+      "basic code example 16"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_18",
+    "patterns": [
+      "write my first program 17",
+      "hello world example 17",
+      "first code 17",
+      "simple program example 17",
+      "basic code example 17"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_19",
+    "patterns": [
+      "write my first program 18",
+      "hello world example 18",
+      "first code 18",
+      "simple program example 18",
+      "basic code example 18"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "first_program_20",
+    "patterns": [
+      "write my first program 19",
+      "hello world example 19",
+      "first code 19",
+      "simple program example 19",
+      "basic code example 19"
+    ],
+    "responses": [
+      "The first program is usually 'Hello, World!'. In Python, you write: print('Hello, World!')",
+      "In C, your first program is usually Hello World.",
+      "Hello World is the tradition for starting programming."
+    ]
+  },
+  {
+    "intent": "languages_1",
+    "patterns": [
+      "what are programming languages",
+      "list programming languages",
+      "types of coding languages",
+      "examples of programming languages",
+      "different languages in programming"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_2",
+    "patterns": [
+      "what are programming languages 1",
+      "list programming languages 1",
+      "types of coding languages 1",
+      "examples of programming languages 1",
+      "different languages in programming 1"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_3",
+    "patterns": [
+      "what are programming languages 2",
+      "list programming languages 2",
+      "types of coding languages 2",
+      "examples of programming languages 2",
+      "different languages in programming 2"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_4",
+    "patterns": [
+      "what are programming languages 3",
+      "list programming languages 3",
+      "types of coding languages 3",
+      "examples of programming languages 3",
+      "different languages in programming 3"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_5",
+    "patterns": [
+      "what are programming languages 4",
+      "list programming languages 4",
+      "types of coding languages 4",
+      "examples of programming languages 4",
+      "different languages in programming 4"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_6",
+    "patterns": [
+      "what are programming languages 5",
+      "list programming languages 5",
+      "types of coding languages 5",
+      "examples of programming languages 5",
+      "different languages in programming 5"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_7",
+    "patterns": [
+      "what are programming languages 6",
+      "list programming languages 6",
+      "types of coding languages 6",
+      "examples of programming languages 6",
+      "different languages in programming 6"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_8",
+    "patterns": [
+      "what are programming languages 7",
+      "list programming languages 7",
+      "types of coding languages 7",
+      "examples of programming languages 7",
+      "different languages in programming 7"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_9",
+    "patterns": [
+      "what are programming languages 8",
+      "list programming languages 8",
+      "types of coding languages 8",
+      "examples of programming languages 8",
+      "different languages in programming 8"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_10",
+    "patterns": [
+      "what are programming languages 9",
+      "list programming languages 9",
+      "types of coding languages 9",
+      "examples of programming languages 9",
+      "different languages in programming 9"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_11",
+    "patterns": [
+      "what are programming languages 10",
+      "list programming languages 10",
+      "types of coding languages 10",
+      "examples of programming languages 10",
+      "different languages in programming 10"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_12",
+    "patterns": [
+      "what are programming languages 11",
+      "list programming languages 11",
+      "types of coding languages 11",
+      "examples of programming languages 11",
+      "different languages in programming 11"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_13",
+    "patterns": [
+      "what are programming languages 12",
+      "list programming languages 12",
+      "types of coding languages 12",
+      "examples of programming languages 12",
+      "different languages in programming 12"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_14",
+    "patterns": [
+      "what are programming languages 13",
+      "list programming languages 13",
+      "types of coding languages 13",
+      "examples of programming languages 13",
+      "different languages in programming 13"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_15",
+    "patterns": [
+      "what are programming languages 14",
+      "list programming languages 14",
+      "types of coding languages 14",
+      "examples of programming languages 14",
+      "different languages in programming 14"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_16",
+    "patterns": [
+      "what are programming languages 15",
+      "list programming languages 15",
+      "types of coding languages 15",
+      "examples of programming languages 15",
+      "different languages in programming 15"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_17",
+    "patterns": [
+      "what are programming languages 16",
+      "list programming languages 16",
+      "types of coding languages 16",
+      "examples of programming languages 16",
+      "different languages in programming 16"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_18",
+    "patterns": [
+      "what are programming languages 17",
+      "list programming languages 17",
+      "types of coding languages 17",
+      "examples of programming languages 17",
+      "different languages in programming 17"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_19",
+    "patterns": [
+      "what are programming languages 18",
+      "list programming languages 18",
+      "types of coding languages 18",
+      "examples of programming languages 18",
+      "different languages in programming 18"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "languages_20",
+    "patterns": [
+      "what are programming languages 19",
+      "list programming languages 19",
+      "types of coding languages 19",
+      "examples of programming languages 19",
+      "different languages in programming 19"
+    ],
+    "responses": [
+      "Common programming languages are Python, Java, C++, JavaScript, and C.",
+      "There are many languages: Python for beginners, Java for large apps, C for system programming.",
+      "Programming languages are tools to communicate with the computer."
+    ]
+  },
+  {
+    "intent": "python_intro_1",
+    "patterns": [
+      "what is python",
+      "python basics",
+      "learn python",
+      "is python good for beginners",
+      "python programming intro"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_2",
+    "patterns": [
+      "what is python 1",
+      "python basics 1",
+      "learn python 1",
+      "is python good for beginners 1",
+      "python programming intro 1"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_3",
+    "patterns": [
+      "what is python 2",
+      "python basics 2",
+      "learn python 2",
+      "is python good for beginners 2",
+      "python programming intro 2"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_4",
+    "patterns": [
+      "what is python 3",
+      "python basics 3",
+      "learn python 3",
+      "is python good for beginners 3",
+      "python programming intro 3"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_5",
+    "patterns": [
+      "what is python 4",
+      "python basics 4",
+      "learn python 4",
+      "is python good for beginners 4",
+      "python programming intro 4"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_6",
+    "patterns": [
+      "what is python 5",
+      "python basics 5",
+      "learn python 5",
+      "is python good for beginners 5",
+      "python programming intro 5"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_7",
+    "patterns": [
+      "what is python 6",
+      "python basics 6",
+      "learn python 6",
+      "is python good for beginners 6",
+      "python programming intro 6"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_8",
+    "patterns": [
+      "what is python 7",
+      "python basics 7",
+      "learn python 7",
+      "is python good for beginners 7",
+      "python programming intro 7"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_9",
+    "patterns": [
+      "what is python 8",
+      "python basics 8",
+      "learn python 8",
+      "is python good for beginners 8",
+      "python programming intro 8"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_10",
+    "patterns": [
+      "what is python 9",
+      "python basics 9",
+      "learn python 9",
+      "is python good for beginners 9",
+      "python programming intro 9"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_11",
+    "patterns": [
+      "what is python 10",
+      "python basics 10",
+      "learn python 10",
+      "is python good for beginners 10",
+      "python programming intro 10"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_12",
+    "patterns": [
+      "what is python 11",
+      "python basics 11",
+      "learn python 11",
+      "is python good for beginners 11",
+      "python programming intro 11"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_13",
+    "patterns": [
+      "what is python 12",
+      "python basics 12",
+      "learn python 12",
+      "is python good for beginners 12",
+      "python programming intro 12"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_14",
+    "patterns": [
+      "what is python 13",
+      "python basics 13",
+      "learn python 13",
+      "is python good for beginners 13",
+      "python programming intro 13"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_15",
+    "patterns": [
+      "what is python 14",
+      "python basics 14",
+      "learn python 14",
+      "is python good for beginners 14",
+      "python programming intro 14"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_16",
+    "patterns": [
+      "what is python 15",
+      "python basics 15",
+      "learn python 15",
+      "is python good for beginners 15",
+      "python programming intro 15"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_17",
+    "patterns": [
+      "what is python 16",
+      "python basics 16",
+      "learn python 16",
+      "is python good for beginners 16",
+      "python programming intro 16"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_18",
+    "patterns": [
+      "what is python 17",
+      "python basics 17",
+      "learn python 17",
+      "is python good for beginners 17",
+      "python programming intro 17"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_19",
+    "patterns": [
+      "what is python 18",
+      "python basics 18",
+      "learn python 18",
+      "is python good for beginners 18",
+      "python programming intro 18"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "python_intro_20",
+    "patterns": [
+      "what is python 19",
+      "python basics 19",
+      "learn python 19",
+      "is python good for beginners 19",
+      "python programming intro 19"
+    ],
+    "responses": [
+      "Python is a beginner-friendly language with simple syntax.",
+      "Python is widely used in AI, data science, and web development.",
+      "Python is easy to read and write, perfect for starters."
+    ]
+  },
+  {
+    "intent": "variables_1",
+    "patterns": [
+      "what are variables",
+      "explain variables",
+      "variables in programming",
+      "define variable",
+      "how do variables work"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_2",
+    "patterns": [
+      "what are variables 1",
+      "explain variables 1",
+      "variables in programming 1",
+      "define variable 1",
+      "how do variables work 1"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_3",
+    "patterns": [
+      "what are variables 2",
+      "explain variables 2",
+      "variables in programming 2",
+      "define variable 2",
+      "how do variables work 2"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_4",
+    "patterns": [
+      "what are variables 3",
+      "explain variables 3",
+      "variables in programming 3",
+      "define variable 3",
+      "how do variables work 3"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_5",
+    "patterns": [
+      "what are variables 4",
+      "explain variables 4",
+      "variables in programming 4",
+      "define variable 4",
+      "how do variables work 4"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_6",
+    "patterns": [
+      "what are variables 5",
+      "explain variables 5",
+      "variables in programming 5",
+      "define variable 5",
+      "how do variables work 5"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_7",
+    "patterns": [
+      "what are variables 6",
+      "explain variables 6",
+      "variables in programming 6",
+      "define variable 6",
+      "how do variables work 6"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_8",
+    "patterns": [
+      "what are variables 7",
+      "explain variables 7",
+      "variables in programming 7",
+      "define variable 7",
+      "how do variables work 7"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_9",
+    "patterns": [
+      "what are variables 8",
+      "explain variables 8",
+      "variables in programming 8",
+      "define variable 8",
+      "how do variables work 8"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_10",
+    "patterns": [
+      "what are variables 9",
+      "explain variables 9",
+      "variables in programming 9",
+      "define variable 9",
+      "how do variables work 9"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_11",
+    "patterns": [
+      "what are variables 10",
+      "explain variables 10",
+      "variables in programming 10",
+      "define variable 10",
+      "how do variables work 10"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_12",
+    "patterns": [
+      "what are variables 11",
+      "explain variables 11",
+      "variables in programming 11",
+      "define variable 11",
+      "how do variables work 11"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_13",
+    "patterns": [
+      "what are variables 12",
+      "explain variables 12",
+      "variables in programming 12",
+      "define variable 12",
+      "how do variables work 12"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_14",
+    "patterns": [
+      "what are variables 13",
+      "explain variables 13",
+      "variables in programming 13",
+      "define variable 13",
+      "how do variables work 13"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_15",
+    "patterns": [
+      "what are variables 14",
+      "explain variables 14",
+      "variables in programming 14",
+      "define variable 14",
+      "how do variables work 14"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_16",
+    "patterns": [
+      "what are variables 15",
+      "explain variables 15",
+      "variables in programming 15",
+      "define variable 15",
+      "how do variables work 15"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_17",
+    "patterns": [
+      "what are variables 16",
+      "explain variables 16",
+      "variables in programming 16",
+      "define variable 16",
+      "how do variables work 16"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_18",
+    "patterns": [
+      "what are variables 17",
+      "explain variables 17",
+      "variables in programming 17",
+      "define variable 17",
+      "how do variables work 17"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_19",
+    "patterns": [
+      "what are variables 18",
+      "explain variables 18",
+      "variables in programming 18",
+      "define variable 18",
+      "how do variables work 18"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "variables_20",
+    "patterns": [
+      "what are variables 19",
+      "explain variables 19",
+      "variables in programming 19",
+      "define variable 19",
+      "how do variables work 19"
+    ],
+    "responses": [
+      "Variables are used to store data in a program.",
+      "They are like containers that hold information.",
+      "For example: x = 10 stores the value 10 in variable x."
+    ]
+  },
+  {
+    "intent": "loops_1",
+    "patterns": [
+      "what are loops",
+      "explain loops",
+      "loops in programming",
+      "define loop",
+      "examples of loops"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_2",
+    "patterns": [
+      "what are loops 1",
+      "explain loops 1",
+      "loops in programming 1",
+      "define loop 1",
+      "examples of loops 1"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_3",
+    "patterns": [
+      "what are loops 2",
+      "explain loops 2",
+      "loops in programming 2",
+      "define loop 2",
+      "examples of loops 2"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_4",
+    "patterns": [
+      "what are loops 3",
+      "explain loops 3",
+      "loops in programming 3",
+      "define loop 3",
+      "examples of loops 3"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_5",
+    "patterns": [
+      "what are loops 4",
+      "explain loops 4",
+      "loops in programming 4",
+      "define loop 4",
+      "examples of loops 4"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_6",
+    "patterns": [
+      "what are loops 5",
+      "explain loops 5",
+      "loops in programming 5",
+      "define loop 5",
+      "examples of loops 5"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_7",
+    "patterns": [
+      "what are loops 6",
+      "explain loops 6",
+      "loops in programming 6",
+      "define loop 6",
+      "examples of loops 6"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_8",
+    "patterns": [
+      "what are loops 7",
+      "explain loops 7",
+      "loops in programming 7",
+      "define loop 7",
+      "examples of loops 7"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_9",
+    "patterns": [
+      "what are loops 8",
+      "explain loops 8",
+      "loops in programming 8",
+      "define loop 8",
+      "examples of loops 8"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_10",
+    "patterns": [
+      "what are loops 9",
+      "explain loops 9",
+      "loops in programming 9",
+      "define loop 9",
+      "examples of loops 9"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_11",
+    "patterns": [
+      "what are loops 10",
+      "explain loops 10",
+      "loops in programming 10",
+      "define loop 10",
+      "examples of loops 10"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_12",
+    "patterns": [
+      "what are loops 11",
+      "explain loops 11",
+      "loops in programming 11",
+      "define loop 11",
+      "examples of loops 11"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_13",
+    "patterns": [
+      "what are loops 12",
+      "explain loops 12",
+      "loops in programming 12",
+      "define loop 12",
+      "examples of loops 12"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_14",
+    "patterns": [
+      "what are loops 13",
+      "explain loops 13",
+      "loops in programming 13",
+      "define loop 13",
+      "examples of loops 13"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_15",
+    "patterns": [
+      "what are loops 14",
+      "explain loops 14",
+      "loops in programming 14",
+      "define loop 14",
+      "examples of loops 14"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_16",
+    "patterns": [
+      "what are loops 15",
+      "explain loops 15",
+      "loops in programming 15",
+      "define loop 15",
+      "examples of loops 15"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_17",
+    "patterns": [
+      "what are loops 16",
+      "explain loops 16",
+      "loops in programming 16",
+      "define loop 16",
+      "examples of loops 16"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_18",
+    "patterns": [
+      "what are loops 17",
+      "explain loops 17",
+      "loops in programming 17",
+      "define loop 17",
+      "examples of loops 17"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_19",
+    "patterns": [
+      "what are loops 18",
+      "explain loops 18",
+      "loops in programming 18",
+      "define loop 18",
+      "examples of loops 18"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "loops_20",
+    "patterns": [
+      "what are loops 19",
+      "explain loops 19",
+      "loops in programming 19",
+      "define loop 19",
+      "examples of loops 19"
+    ],
+    "responses": [
+      "Loops repeat actions until a condition is met.",
+      "In Python: for i in range(5): print(i)",
+      "Loops help us execute code multiple times easily."
+    ]
+  },
+  {
+    "intent": "conditionals_1",
+    "patterns": [
+      "what are conditionals",
+      "if else statement",
+      "decision making in programming",
+      "explain if statement",
+      "examples of conditionals"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_2",
+    "patterns": [
+      "what are conditionals 1",
+      "if else statement 1",
+      "decision making in programming 1",
+      "explain if statement 1",
+      "examples of conditionals 1"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_3",
+    "patterns": [
+      "what are conditionals 2",
+      "if else statement 2",
+      "decision making in programming 2",
+      "explain if statement 2",
+      "examples of conditionals 2"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_4",
+    "patterns": [
+      "what are conditionals 3",
+      "if else statement 3",
+      "decision making in programming 3",
+      "explain if statement 3",
+      "examples of conditionals 3"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_5",
+    "patterns": [
+      "what are conditionals 4",
+      "if else statement 4",
+      "decision making in programming 4",
+      "explain if statement 4",
+      "examples of conditionals 4"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_6",
+    "patterns": [
+      "what are conditionals 5",
+      "if else statement 5",
+      "decision making in programming 5",
+      "explain if statement 5",
+      "examples of conditionals 5"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_7",
+    "patterns": [
+      "what are conditionals 6",
+      "if else statement 6",
+      "decision making in programming 6",
+      "explain if statement 6",
+      "examples of conditionals 6"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_8",
+    "patterns": [
+      "what are conditionals 7",
+      "if else statement 7",
+      "decision making in programming 7",
+      "explain if statement 7",
+      "examples of conditionals 7"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_9",
+    "patterns": [
+      "what are conditionals 8",
+      "if else statement 8",
+      "decision making in programming 8",
+      "explain if statement 8",
+      "examples of conditionals 8"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_10",
+    "patterns": [
+      "what are conditionals 9",
+      "if else statement 9",
+      "decision making in programming 9",
+      "explain if statement 9",
+      "examples of conditionals 9"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_11",
+    "patterns": [
+      "what are conditionals 10",
+      "if else statement 10",
+      "decision making in programming 10",
+      "explain if statement 10",
+      "examples of conditionals 10"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_12",
+    "patterns": [
+      "what are conditionals 11",
+      "if else statement 11",
+      "decision making in programming 11",
+      "explain if statement 11",
+      "examples of conditionals 11"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_13",
+    "patterns": [
+      "what are conditionals 12",
+      "if else statement 12",
+      "decision making in programming 12",
+      "explain if statement 12",
+      "examples of conditionals 12"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_14",
+    "patterns": [
+      "what are conditionals 13",
+      "if else statement 13",
+      "decision making in programming 13",
+      "explain if statement 13",
+      "examples of conditionals 13"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_15",
+    "patterns": [
+      "what are conditionals 14",
+      "if else statement 14",
+      "decision making in programming 14",
+      "explain if statement 14",
+      "examples of conditionals 14"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_16",
+    "patterns": [
+      "what are conditionals 15",
+      "if else statement 15",
+      "decision making in programming 15",
+      "explain if statement 15",
+      "examples of conditionals 15"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_17",
+    "patterns": [
+      "what are conditionals 16",
+      "if else statement 16",
+      "decision making in programming 16",
+      "explain if statement 16",
+      "examples of conditionals 16"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_18",
+    "patterns": [
+      "what are conditionals 17",
+      "if else statement 17",
+      "decision making in programming 17",
+      "explain if statement 17",
+      "examples of conditionals 17"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_19",
+    "patterns": [
+      "what are conditionals 18",
+      "if else statement 18",
+      "decision making in programming 18",
+      "explain if statement 18",
+      "examples of conditionals 18"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "conditionals_20",
+    "patterns": [
+      "what are conditionals 19",
+      "if else statement 19",
+      "decision making in programming 19",
+      "explain if statement 19",
+      "examples of conditionals 19"
+    ],
+    "responses": [
+      "Conditionals let the program make decisions.",
+      "In Python: if x > 10: print('big') else: print('small')",
+      "They control the flow of a program."
+    ]
+  },
+  {
+    "intent": "functions_1",
+    "patterns": [
+      "what are functions",
+      "define function",
+      "function in programming",
+      "why use functions",
+      "examples of functions"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_2",
+    "patterns": [
+      "what are functions 1",
+      "define function 1",
+      "function in programming 1",
+      "why use functions 1",
+      "examples of functions 1"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_3",
+    "patterns": [
+      "what are functions 2",
+      "define function 2",
+      "function in programming 2",
+      "why use functions 2",
+      "examples of functions 2"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_4",
+    "patterns": [
+      "what are functions 3",
+      "define function 3",
+      "function in programming 3",
+      "why use functions 3",
+      "examples of functions 3"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_5",
+    "patterns": [
+      "what are functions 4",
+      "define function 4",
+      "function in programming 4",
+      "why use functions 4",
+      "examples of functions 4"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_6",
+    "patterns": [
+      "what are functions 5",
+      "define function 5",
+      "function in programming 5",
+      "why use functions 5",
+      "examples of functions 5"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_7",
+    "patterns": [
+      "what are functions 6",
+      "define function 6",
+      "function in programming 6",
+      "why use functions 6",
+      "examples of functions 6"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_8",
+    "patterns": [
+      "what are functions 7",
+      "define function 7",
+      "function in programming 7",
+      "why use functions 7",
+      "examples of functions 7"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_9",
+    "patterns": [
+      "what are functions 8",
+      "define function 8",
+      "function in programming 8",
+      "why use functions 8",
+      "examples of functions 8"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_10",
+    "patterns": [
+      "what are functions 9",
+      "define function 9",
+      "function in programming 9",
+      "why use functions 9",
+      "examples of functions 9"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_11",
+    "patterns": [
+      "what are functions 10",
+      "define function 10",
+      "function in programming 10",
+      "why use functions 10",
+      "examples of functions 10"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_12",
+    "patterns": [
+      "what are functions 11",
+      "define function 11",
+      "function in programming 11",
+      "why use functions 11",
+      "examples of functions 11"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_13",
+    "patterns": [
+      "what are functions 12",
+      "define function 12",
+      "function in programming 12",
+      "why use functions 12",
+      "examples of functions 12"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_14",
+    "patterns": [
+      "what are functions 13",
+      "define function 13",
+      "function in programming 13",
+      "why use functions 13",
+      "examples of functions 13"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_15",
+    "patterns": [
+      "what are functions 14",
+      "define function 14",
+      "function in programming 14",
+      "why use functions 14",
+      "examples of functions 14"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_16",
+    "patterns": [
+      "what are functions 15",
+      "define function 15",
+      "function in programming 15",
+      "why use functions 15",
+      "examples of functions 15"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_17",
+    "patterns": [
+      "what are functions 16",
+      "define function 16",
+      "function in programming 16",
+      "why use functions 16",
+      "examples of functions 16"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_18",
+    "patterns": [
+      "what are functions 17",
+      "define function 17",
+      "function in programming 17",
+      "why use functions 17",
+      "examples of functions 17"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_19",
+    "patterns": [
+      "what are functions 18",
+      "define function 18",
+      "function in programming 18",
+      "why use functions 18",
+      "examples of functions 18"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  },
+  {
+    "intent": "functions_20",
+    "patterns": [
+      "what are functions 19",
+      "define function 19",
+      "function in programming 19",
+      "why use functions 19",
+      "examples of functions 19"
+    ],
+    "responses": [
+      "Functions are reusable blocks of code.",
+      "They make programs organized and reduce repetition.",
+      "In Python: def greet(): print('Hello!')"
+    ]
+  }
+]

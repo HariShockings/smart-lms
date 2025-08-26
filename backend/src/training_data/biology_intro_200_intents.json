@@ -1,0 +1,3002 @@
+[
+  {
+    "intent": "what_is_biology_1",
+    "patterns": [
+      "what is biology",
+      "define biology",
+      "explain biology",
+      "meaning of biology",
+      "introduction to biology"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_2",
+    "patterns": [
+      "what is biology 1",
+      "define biology 1",
+      "explain biology 1",
+      "meaning of biology 1",
+      "introduction to biology 1"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_3",
+    "patterns": [
+      "what is biology 2",
+      "define biology 2",
+      "explain biology 2",
+      "meaning of biology 2",
+      "introduction to biology 2"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_4",
+    "patterns": [
+      "what is biology 3",
+      "define biology 3",
+      "explain biology 3",
+      "meaning of biology 3",
+      "introduction to biology 3"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_5",
+    "patterns": [
+      "what is biology 4",
+      "define biology 4",
+      "explain biology 4",
+      "meaning of biology 4",
+      "introduction to biology 4"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_6",
+    "patterns": [
+      "what is biology 5",
+      "define biology 5",
+      "explain biology 5",
+      "meaning of biology 5",
+      "introduction to biology 5"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_7",
+    "patterns": [
+      "what is biology 6",
+      "define biology 6",
+      "explain biology 6",
+      "meaning of biology 6",
+      "introduction to biology 6"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_8",
+    "patterns": [
+      "what is biology 7",
+      "define biology 7",
+      "explain biology 7",
+      "meaning of biology 7",
+      "introduction to biology 7"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_9",
+    "patterns": [
+      "what is biology 8",
+      "define biology 8",
+      "explain biology 8",
+      "meaning of biology 8",
+      "introduction to biology 8"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_10",
+    "patterns": [
+      "what is biology 9",
+      "define biology 9",
+      "explain biology 9",
+      "meaning of biology 9",
+      "introduction to biology 9"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_11",
+    "patterns": [
+      "what is biology 10",
+      "define biology 10",
+      "explain biology 10",
+      "meaning of biology 10",
+      "introduction to biology 10"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_12",
+    "patterns": [
+      "what is biology 11",
+      "define biology 11",
+      "explain biology 11",
+      "meaning of biology 11",
+      "introduction to biology 11"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_13",
+    "patterns": [
+      "what is biology 12",
+      "define biology 12",
+      "explain biology 12",
+      "meaning of biology 12",
+      "introduction to biology 12"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_14",
+    "patterns": [
+      "what is biology 13",
+      "define biology 13",
+      "explain biology 13",
+      "meaning of biology 13",
+      "introduction to biology 13"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_15",
+    "patterns": [
+      "what is biology 14",
+      "define biology 14",
+      "explain biology 14",
+      "meaning of biology 14",
+      "introduction to biology 14"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_16",
+    "patterns": [
+      "what is biology 15",
+      "define biology 15",
+      "explain biology 15",
+      "meaning of biology 15",
+      "introduction to biology 15"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_17",
+    "patterns": [
+      "what is biology 16",
+      "define biology 16",
+      "explain biology 16",
+      "meaning of biology 16",
+      "introduction to biology 16"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_18",
+    "patterns": [
+      "what is biology 17",
+      "define biology 17",
+      "explain biology 17",
+      "meaning of biology 17",
+      "introduction to biology 17"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_19",
+    "patterns": [
+      "what is biology 18",
+      "define biology 18",
+      "explain biology 18",
+      "meaning of biology 18",
+      "introduction to biology 18"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "what_is_biology_20",
+    "patterns": [
+      "what is biology 19",
+      "define biology 19",
+      "explain biology 19",
+      "meaning of biology 19",
+      "introduction to biology 19"
+    ],
+    "responses": [
+      "Biology is the study of living organisms and their interactions with the environment.",
+      "It is the science of life and living things.",
+      "Biology explains how living organisms function, grow, and evolve."
+    ]
+  },
+  {
+    "intent": "cell_1",
+    "patterns": [
+      "what is a cell",
+      "define cell",
+      "cell in biology",
+      "explain cell",
+      "basic unit of life"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_2",
+    "patterns": [
+      "what is a cell 1",
+      "define cell 1",
+      "cell in biology 1",
+      "explain cell 1",
+      "basic unit of life 1"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_3",
+    "patterns": [
+      "what is a cell 2",
+      "define cell 2",
+      "cell in biology 2",
+      "explain cell 2",
+      "basic unit of life 2"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_4",
+    "patterns": [
+      "what is a cell 3",
+      "define cell 3",
+      "cell in biology 3",
+      "explain cell 3",
+      "basic unit of life 3"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_5",
+    "patterns": [
+      "what is a cell 4",
+      "define cell 4",
+      "cell in biology 4",
+      "explain cell 4",
+      "basic unit of life 4"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_6",
+    "patterns": [
+      "what is a cell 5",
+      "define cell 5",
+      "cell in biology 5",
+      "explain cell 5",
+      "basic unit of life 5"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_7",
+    "patterns": [
+      "what is a cell 6",
+      "define cell 6",
+      "cell in biology 6",
+      "explain cell 6",
+      "basic unit of life 6"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_8",
+    "patterns": [
+      "what is a cell 7",
+      "define cell 7",
+      "cell in biology 7",
+      "explain cell 7",
+      "basic unit of life 7"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_9",
+    "patterns": [
+      "what is a cell 8",
+      "define cell 8",
+      "cell in biology 8",
+      "explain cell 8",
+      "basic unit of life 8"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_10",
+    "patterns": [
+      "what is a cell 9",
+      "define cell 9",
+      "cell in biology 9",
+      "explain cell 9",
+      "basic unit of life 9"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_11",
+    "patterns": [
+      "what is a cell 10",
+      "define cell 10",
+      "cell in biology 10",
+      "explain cell 10",
+      "basic unit of life 10"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_12",
+    "patterns": [
+      "what is a cell 11",
+      "define cell 11",
+      "cell in biology 11",
+      "explain cell 11",
+      "basic unit of life 11"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_13",
+    "patterns": [
+      "what is a cell 12",
+      "define cell 12",
+      "cell in biology 12",
+      "explain cell 12",
+      "basic unit of life 12"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_14",
+    "patterns": [
+      "what is a cell 13",
+      "define cell 13",
+      "cell in biology 13",
+      "explain cell 13",
+      "basic unit of life 13"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_15",
+    "patterns": [
+      "what is a cell 14",
+      "define cell 14",
+      "cell in biology 14",
+      "explain cell 14",
+      "basic unit of life 14"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_16",
+    "patterns": [
+      "what is a cell 15",
+      "define cell 15",
+      "cell in biology 15",
+      "explain cell 15",
+      "basic unit of life 15"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_17",
+    "patterns": [
+      "what is a cell 16",
+      "define cell 16",
+      "cell in biology 16",
+      "explain cell 16",
+      "basic unit of life 16"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_18",
+    "patterns": [
+      "what is a cell 17",
+      "define cell 17",
+      "cell in biology 17",
+      "explain cell 17",
+      "basic unit of life 17"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_19",
+    "patterns": [
+      "what is a cell 18",
+      "define cell 18",
+      "cell in biology 18",
+      "explain cell 18",
+      "basic unit of life 18"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_20",
+    "patterns": [
+      "what is a cell 19",
+      "define cell 19",
+      "cell in biology 19",
+      "explain cell 19",
+      "basic unit of life 19"
+    ],
+    "responses": [
+      "The cell is the basic structural and functional unit of life.",
+      "All living organisms are made of cells.",
+      "Cells are the building blocks of life."
+    ]
+  },
+  {
+    "intent": "cell_types_1",
+    "patterns": [
+      "types of cells",
+      "what are prokaryotic cells",
+      "eukaryotic cells",
+      "different cell types",
+      "cell classification"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_2",
+    "patterns": [
+      "types of cells 1",
+      "what are prokaryotic cells 1",
+      "eukaryotic cells 1",
+      "different cell types 1",
+      "cell classification 1"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_3",
+    "patterns": [
+      "types of cells 2",
+      "what are prokaryotic cells 2",
+      "eukaryotic cells 2",
+      "different cell types 2",
+      "cell classification 2"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_4",
+    "patterns": [
+      "types of cells 3",
+      "what are prokaryotic cells 3",
+      "eukaryotic cells 3",
+      "different cell types 3",
+      "cell classification 3"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_5",
+    "patterns": [
+      "types of cells 4",
+      "what are prokaryotic cells 4",
+      "eukaryotic cells 4",
+      "different cell types 4",
+      "cell classification 4"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_6",
+    "patterns": [
+      "types of cells 5",
+      "what are prokaryotic cells 5",
+      "eukaryotic cells 5",
+      "different cell types 5",
+      "cell classification 5"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_7",
+    "patterns": [
+      "types of cells 6",
+      "what are prokaryotic cells 6",
+      "eukaryotic cells 6",
+      "different cell types 6",
+      "cell classification 6"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_8",
+    "patterns": [
+      "types of cells 7",
+      "what are prokaryotic cells 7",
+      "eukaryotic cells 7",
+      "different cell types 7",
+      "cell classification 7"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_9",
+    "patterns": [
+      "types of cells 8",
+      "what are prokaryotic cells 8",
+      "eukaryotic cells 8",
+      "different cell types 8",
+      "cell classification 8"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_10",
+    "patterns": [
+      "types of cells 9",
+      "what are prokaryotic cells 9",
+      "eukaryotic cells 9",
+      "different cell types 9",
+      "cell classification 9"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_11",
+    "patterns": [
+      "types of cells 10",
+      "what are prokaryotic cells 10",
+      "eukaryotic cells 10",
+      "different cell types 10",
+      "cell classification 10"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_12",
+    "patterns": [
+      "types of cells 11",
+      "what are prokaryotic cells 11",
+      "eukaryotic cells 11",
+      "different cell types 11",
+      "cell classification 11"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_13",
+    "patterns": [
+      "types of cells 12",
+      "what are prokaryotic cells 12",
+      "eukaryotic cells 12",
+      "different cell types 12",
+      "cell classification 12"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_14",
+    "patterns": [
+      "types of cells 13",
+      "what are prokaryotic cells 13",
+      "eukaryotic cells 13",
+      "different cell types 13",
+      "cell classification 13"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_15",
+    "patterns": [
+      "types of cells 14",
+      "what are prokaryotic cells 14",
+      "eukaryotic cells 14",
+      "different cell types 14",
+      "cell classification 14"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_16",
+    "patterns": [
+      "types of cells 15",
+      "what are prokaryotic cells 15",
+      "eukaryotic cells 15",
+      "different cell types 15",
+      "cell classification 15"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_17",
+    "patterns": [
+      "types of cells 16",
+      "what are prokaryotic cells 16",
+      "eukaryotic cells 16",
+      "different cell types 16",
+      "cell classification 16"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_18",
+    "patterns": [
+      "types of cells 17",
+      "what are prokaryotic cells 17",
+      "eukaryotic cells 17",
+      "different cell types 17",
+      "cell classification 17"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_19",
+    "patterns": [
+      "types of cells 18",
+      "what are prokaryotic cells 18",
+      "eukaryotic cells 18",
+      "different cell types 18",
+      "cell classification 18"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "cell_types_20",
+    "patterns": [
+      "types of cells 19",
+      "what are prokaryotic cells 19",
+      "eukaryotic cells 19",
+      "different cell types 19",
+      "cell classification 19"
+    ],
+    "responses": [
+      "Cells are classified into prokaryotic and eukaryotic.",
+      "Prokaryotic cells lack a nucleus, eukaryotic cells have one.",
+      "Cell types differ based on their structure and function."
+    ]
+  },
+  {
+    "intent": "genetics_1",
+    "patterns": [
+      "what is genetics",
+      "define genetics",
+      "study of genes",
+      "genetics basics",
+      "genetics in biology"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_2",
+    "patterns": [
+      "what is genetics 1",
+      "define genetics 1",
+      "study of genes 1",
+      "genetics basics 1",
+      "genetics in biology 1"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_3",
+    "patterns": [
+      "what is genetics 2",
+      "define genetics 2",
+      "study of genes 2",
+      "genetics basics 2",
+      "genetics in biology 2"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_4",
+    "patterns": [
+      "what is genetics 3",
+      "define genetics 3",
+      "study of genes 3",
+      "genetics basics 3",
+      "genetics in biology 3"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_5",
+    "patterns": [
+      "what is genetics 4",
+      "define genetics 4",
+      "study of genes 4",
+      "genetics basics 4",
+      "genetics in biology 4"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_6",
+    "patterns": [
+      "what is genetics 5",
+      "define genetics 5",
+      "study of genes 5",
+      "genetics basics 5",
+      "genetics in biology 5"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_7",
+    "patterns": [
+      "what is genetics 6",
+      "define genetics 6",
+      "study of genes 6",
+      "genetics basics 6",
+      "genetics in biology 6"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_8",
+    "patterns": [
+      "what is genetics 7",
+      "define genetics 7",
+      "study of genes 7",
+      "genetics basics 7",
+      "genetics in biology 7"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_9",
+    "patterns": [
+      "what is genetics 8",
+      "define genetics 8",
+      "study of genes 8",
+      "genetics basics 8",
+      "genetics in biology 8"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_10",
+    "patterns": [
+      "what is genetics 9",
+      "define genetics 9",
+      "study of genes 9",
+      "genetics basics 9",
+      "genetics in biology 9"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_11",
+    "patterns": [
+      "what is genetics 10",
+      "define genetics 10",
+      "study of genes 10",
+      "genetics basics 10",
+      "genetics in biology 10"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_12",
+    "patterns": [
+      "what is genetics 11",
+      "define genetics 11",
+      "study of genes 11",
+      "genetics basics 11",
+      "genetics in biology 11"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_13",
+    "patterns": [
+      "what is genetics 12",
+      "define genetics 12",
+      "study of genes 12",
+      "genetics basics 12",
+      "genetics in biology 12"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_14",
+    "patterns": [
+      "what is genetics 13",
+      "define genetics 13",
+      "study of genes 13",
+      "genetics basics 13",
+      "genetics in biology 13"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_15",
+    "patterns": [
+      "what is genetics 14",
+      "define genetics 14",
+      "study of genes 14",
+      "genetics basics 14",
+      "genetics in biology 14"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_16",
+    "patterns": [
+      "what is genetics 15",
+      "define genetics 15",
+      "study of genes 15",
+      "genetics basics 15",
+      "genetics in biology 15"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_17",
+    "patterns": [
+      "what is genetics 16",
+      "define genetics 16",
+      "study of genes 16",
+      "genetics basics 16",
+      "genetics in biology 16"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_18",
+    "patterns": [
+      "what is genetics 17",
+      "define genetics 17",
+      "study of genes 17",
+      "genetics basics 17",
+      "genetics in biology 17"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_19",
+    "patterns": [
+      "what is genetics 18",
+      "define genetics 18",
+      "study of genes 18",
+      "genetics basics 18",
+      "genetics in biology 18"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "genetics_20",
+    "patterns": [
+      "what is genetics 19",
+      "define genetics 19",
+      "study of genes 19",
+      "genetics basics 19",
+      "genetics in biology 19"
+    ],
+    "responses": [
+      "Genetics is the study of genes and heredity.",
+      "It explains how traits are passed from parents to offspring.",
+      "Genetics is a key branch of biology."
+    ]
+  },
+  {
+    "intent": "dna_1",
+    "patterns": [
+      "what is dna",
+      "define dna",
+      "explain dna",
+      "structure of dna",
+      "function of dna"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_2",
+    "patterns": [
+      "what is dna 1",
+      "define dna 1",
+      "explain dna 1",
+      "structure of dna 1",
+      "function of dna 1"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_3",
+    "patterns": [
+      "what is dna 2",
+      "define dna 2",
+      "explain dna 2",
+      "structure of dna 2",
+      "function of dna 2"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_4",
+    "patterns": [
+      "what is dna 3",
+      "define dna 3",
+      "explain dna 3",
+      "structure of dna 3",
+      "function of dna 3"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_5",
+    "patterns": [
+      "what is dna 4",
+      "define dna 4",
+      "explain dna 4",
+      "structure of dna 4",
+      "function of dna 4"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_6",
+    "patterns": [
+      "what is dna 5",
+      "define dna 5",
+      "explain dna 5",
+      "structure of dna 5",
+      "function of dna 5"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_7",
+    "patterns": [
+      "what is dna 6",
+      "define dna 6",
+      "explain dna 6",
+      "structure of dna 6",
+      "function of dna 6"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_8",
+    "patterns": [
+      "what is dna 7",
+      "define dna 7",
+      "explain dna 7",
+      "structure of dna 7",
+      "function of dna 7"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_9",
+    "patterns": [
+      "what is dna 8",
+      "define dna 8",
+      "explain dna 8",
+      "structure of dna 8",
+      "function of dna 8"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_10",
+    "patterns": [
+      "what is dna 9",
+      "define dna 9",
+      "explain dna 9",
+      "structure of dna 9",
+      "function of dna 9"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_11",
+    "patterns": [
+      "what is dna 10",
+      "define dna 10",
+      "explain dna 10",
+      "structure of dna 10",
+      "function of dna 10"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_12",
+    "patterns": [
+      "what is dna 11",
+      "define dna 11",
+      "explain dna 11",
+      "structure of dna 11",
+      "function of dna 11"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_13",
+    "patterns": [
+      "what is dna 12",
+      "define dna 12",
+      "explain dna 12",
+      "structure of dna 12",
+      "function of dna 12"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_14",
+    "patterns": [
+      "what is dna 13",
+      "define dna 13",
+      "explain dna 13",
+      "structure of dna 13",
+      "function of dna 13"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_15",
+    "patterns": [
+      "what is dna 14",
+      "define dna 14",
+      "explain dna 14",
+      "structure of dna 14",
+      "function of dna 14"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_16",
+    "patterns": [
+      "what is dna 15",
+      "define dna 15",
+      "explain dna 15",
+      "structure of dna 15",
+      "function of dna 15"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_17",
+    "patterns": [
+      "what is dna 16",
+      "define dna 16",
+      "explain dna 16",
+      "structure of dna 16",
+      "function of dna 16"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_18",
+    "patterns": [
+      "what is dna 17",
+      "define dna 17",
+      "explain dna 17",
+      "structure of dna 17",
+      "function of dna 17"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_19",
+    "patterns": [
+      "what is dna 18",
+      "define dna 18",
+      "explain dna 18",
+      "structure of dna 18",
+      "function of dna 18"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "dna_20",
+    "patterns": [
+      "what is dna 19",
+      "define dna 19",
+      "explain dna 19",
+      "structure of dna 19",
+      "function of dna 19"
+    ],
+    "responses": [
+      "DNA stands for Deoxyribonucleic Acid, it carries genetic information.",
+      "DNA contains instructions for growth and reproduction.",
+      "DNA is shaped like a double helix."
+    ]
+  },
+  {
+    "intent": "photosynthesis_1",
+    "patterns": [
+      "what is photosynthesis",
+      "define photosynthesis",
+      "explain photosynthesis",
+      "process of photosynthesis",
+      "photosynthesis function"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_2",
+    "patterns": [
+      "what is photosynthesis 1",
+      "define photosynthesis 1",
+      "explain photosynthesis 1",
+      "process of photosynthesis 1",
+      "photosynthesis function 1"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_3",
+    "patterns": [
+      "what is photosynthesis 2",
+      "define photosynthesis 2",
+      "explain photosynthesis 2",
+      "process of photosynthesis 2",
+      "photosynthesis function 2"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_4",
+    "patterns": [
+      "what is photosynthesis 3",
+      "define photosynthesis 3",
+      "explain photosynthesis 3",
+      "process of photosynthesis 3",
+      "photosynthesis function 3"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_5",
+    "patterns": [
+      "what is photosynthesis 4",
+      "define photosynthesis 4",
+      "explain photosynthesis 4",
+      "process of photosynthesis 4",
+      "photosynthesis function 4"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_6",
+    "patterns": [
+      "what is photosynthesis 5",
+      "define photosynthesis 5",
+      "explain photosynthesis 5",
+      "process of photosynthesis 5",
+      "photosynthesis function 5"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_7",
+    "patterns": [
+      "what is photosynthesis 6",
+      "define photosynthesis 6",
+      "explain photosynthesis 6",
+      "process of photosynthesis 6",
+      "photosynthesis function 6"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_8",
+    "patterns": [
+      "what is photosynthesis 7",
+      "define photosynthesis 7",
+      "explain photosynthesis 7",
+      "process of photosynthesis 7",
+      "photosynthesis function 7"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_9",
+    "patterns": [
+      "what is photosynthesis 8",
+      "define photosynthesis 8",
+      "explain photosynthesis 8",
+      "process of photosynthesis 8",
+      "photosynthesis function 8"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_10",
+    "patterns": [
+      "what is photosynthesis 9",
+      "define photosynthesis 9",
+      "explain photosynthesis 9",
+      "process of photosynthesis 9",
+      "photosynthesis function 9"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_11",
+    "patterns": [
+      "what is photosynthesis 10",
+      "define photosynthesis 10",
+      "explain photosynthesis 10",
+      "process of photosynthesis 10",
+      "photosynthesis function 10"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_12",
+    "patterns": [
+      "what is photosynthesis 11",
+      "define photosynthesis 11",
+      "explain photosynthesis 11",
+      "process of photosynthesis 11",
+      "photosynthesis function 11"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_13",
+    "patterns": [
+      "what is photosynthesis 12",
+      "define photosynthesis 12",
+      "explain photosynthesis 12",
+      "process of photosynthesis 12",
+      "photosynthesis function 12"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_14",
+    "patterns": [
+      "what is photosynthesis 13",
+      "define photosynthesis 13",
+      "explain photosynthesis 13",
+      "process of photosynthesis 13",
+      "photosynthesis function 13"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_15",
+    "patterns": [
+      "what is photosynthesis 14",
+      "define photosynthesis 14",
+      "explain photosynthesis 14",
+      "process of photosynthesis 14",
+      "photosynthesis function 14"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_16",
+    "patterns": [
+      "what is photosynthesis 15",
+      "define photosynthesis 15",
+      "explain photosynthesis 15",
+      "process of photosynthesis 15",
+      "photosynthesis function 15"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_17",
+    "patterns": [
+      "what is photosynthesis 16",
+      "define photosynthesis 16",
+      "explain photosynthesis 16",
+      "process of photosynthesis 16",
+      "photosynthesis function 16"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_18",
+    "patterns": [
+      "what is photosynthesis 17",
+      "define photosynthesis 17",
+      "explain photosynthesis 17",
+      "process of photosynthesis 17",
+      "photosynthesis function 17"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_19",
+    "patterns": [
+      "what is photosynthesis 18",
+      "define photosynthesis 18",
+      "explain photosynthesis 18",
+      "process of photosynthesis 18",
+      "photosynthesis function 18"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "photosynthesis_20",
+    "patterns": [
+      "what is photosynthesis 19",
+      "define photosynthesis 19",
+      "explain photosynthesis 19",
+      "process of photosynthesis 19",
+      "photosynthesis function 19"
+    ],
+    "responses": [
+      "Photosynthesis is the process where plants make food using sunlight, water, and carbon dioxide.",
+      "It produces oxygen and glucose.",
+      "Photosynthesis occurs in the chloroplasts of plant cells."
+    ]
+  },
+  {
+    "intent": "respiration_1",
+    "patterns": [
+      "what is respiration",
+      "define respiration",
+      "cellular respiration",
+      "respiration in biology",
+      "types of respiration"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_2",
+    "patterns": [
+      "what is respiration 1",
+      "define respiration 1",
+      "cellular respiration 1",
+      "respiration in biology 1",
+      "types of respiration 1"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_3",
+    "patterns": [
+      "what is respiration 2",
+      "define respiration 2",
+      "cellular respiration 2",
+      "respiration in biology 2",
+      "types of respiration 2"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_4",
+    "patterns": [
+      "what is respiration 3",
+      "define respiration 3",
+      "cellular respiration 3",
+      "respiration in biology 3",
+      "types of respiration 3"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_5",
+    "patterns": [
+      "what is respiration 4",
+      "define respiration 4",
+      "cellular respiration 4",
+      "respiration in biology 4",
+      "types of respiration 4"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_6",
+    "patterns": [
+      "what is respiration 5",
+      "define respiration 5",
+      "cellular respiration 5",
+      "respiration in biology 5",
+      "types of respiration 5"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_7",
+    "patterns": [
+      "what is respiration 6",
+      "define respiration 6",
+      "cellular respiration 6",
+      "respiration in biology 6",
+      "types of respiration 6"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_8",
+    "patterns": [
+      "what is respiration 7",
+      "define respiration 7",
+      "cellular respiration 7",
+      "respiration in biology 7",
+      "types of respiration 7"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_9",
+    "patterns": [
+      "what is respiration 8",
+      "define respiration 8",
+      "cellular respiration 8",
+      "respiration in biology 8",
+      "types of respiration 8"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_10",
+    "patterns": [
+      "what is respiration 9",
+      "define respiration 9",
+      "cellular respiration 9",
+      "respiration in biology 9",
+      "types of respiration 9"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_11",
+    "patterns": [
+      "what is respiration 10",
+      "define respiration 10",
+      "cellular respiration 10",
+      "respiration in biology 10",
+      "types of respiration 10"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_12",
+    "patterns": [
+      "what is respiration 11",
+      "define respiration 11",
+      "cellular respiration 11",
+      "respiration in biology 11",
+      "types of respiration 11"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_13",
+    "patterns": [
+      "what is respiration 12",
+      "define respiration 12",
+      "cellular respiration 12",
+      "respiration in biology 12",
+      "types of respiration 12"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_14",
+    "patterns": [
+      "what is respiration 13",
+      "define respiration 13",
+      "cellular respiration 13",
+      "respiration in biology 13",
+      "types of respiration 13"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_15",
+    "patterns": [
+      "what is respiration 14",
+      "define respiration 14",
+      "cellular respiration 14",
+      "respiration in biology 14",
+      "types of respiration 14"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_16",
+    "patterns": [
+      "what is respiration 15",
+      "define respiration 15",
+      "cellular respiration 15",
+      "respiration in biology 15",
+      "types of respiration 15"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_17",
+    "patterns": [
+      "what is respiration 16",
+      "define respiration 16",
+      "cellular respiration 16",
+      "respiration in biology 16",
+      "types of respiration 16"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_18",
+    "patterns": [
+      "what is respiration 17",
+      "define respiration 17",
+      "cellular respiration 17",
+      "respiration in biology 17",
+      "types of respiration 17"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_19",
+    "patterns": [
+      "what is respiration 18",
+      "define respiration 18",
+      "cellular respiration 18",
+      "respiration in biology 18",
+      "types of respiration 18"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "respiration_20",
+    "patterns": [
+      "what is respiration 19",
+      "define respiration 19",
+      "cellular respiration 19",
+      "respiration in biology 19",
+      "types of respiration 19"
+    ],
+    "responses": [
+      "Respiration is the process of breaking down glucose to release energy.",
+      "It can be aerobic or anaerobic.",
+      "Respiration provides energy for cell activities."
+    ]
+  },
+  {
+    "intent": "evolution_1",
+    "patterns": [
+      "what is evolution",
+      "define evolution",
+      "explain evolution",
+      "theory of evolution",
+      "evolution in biology"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_2",
+    "patterns": [
+      "what is evolution 1",
+      "define evolution 1",
+      "explain evolution 1",
+      "theory of evolution 1",
+      "evolution in biology 1"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_3",
+    "patterns": [
+      "what is evolution 2",
+      "define evolution 2",
+      "explain evolution 2",
+      "theory of evolution 2",
+      "evolution in biology 2"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_4",
+    "patterns": [
+      "what is evolution 3",
+      "define evolution 3",
+      "explain evolution 3",
+      "theory of evolution 3",
+      "evolution in biology 3"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_5",
+    "patterns": [
+      "what is evolution 4",
+      "define evolution 4",
+      "explain evolution 4",
+      "theory of evolution 4",
+      "evolution in biology 4"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_6",
+    "patterns": [
+      "what is evolution 5",
+      "define evolution 5",
+      "explain evolution 5",
+      "theory of evolution 5",
+      "evolution in biology 5"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_7",
+    "patterns": [
+      "what is evolution 6",
+      "define evolution 6",
+      "explain evolution 6",
+      "theory of evolution 6",
+      "evolution in biology 6"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_8",
+    "patterns": [
+      "what is evolution 7",
+      "define evolution 7",
+      "explain evolution 7",
+      "theory of evolution 7",
+      "evolution in biology 7"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_9",
+    "patterns": [
+      "what is evolution 8",
+      "define evolution 8",
+      "explain evolution 8",
+      "theory of evolution 8",
+      "evolution in biology 8"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_10",
+    "patterns": [
+      "what is evolution 9",
+      "define evolution 9",
+      "explain evolution 9",
+      "theory of evolution 9",
+      "evolution in biology 9"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_11",
+    "patterns": [
+      "what is evolution 10",
+      "define evolution 10",
+      "explain evolution 10",
+      "theory of evolution 10",
+      "evolution in biology 10"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_12",
+    "patterns": [
+      "what is evolution 11",
+      "define evolution 11",
+      "explain evolution 11",
+      "theory of evolution 11",
+      "evolution in biology 11"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_13",
+    "patterns": [
+      "what is evolution 12",
+      "define evolution 12",
+      "explain evolution 12",
+      "theory of evolution 12",
+      "evolution in biology 12"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_14",
+    "patterns": [
+      "what is evolution 13",
+      "define evolution 13",
+      "explain evolution 13",
+      "theory of evolution 13",
+      "evolution in biology 13"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_15",
+    "patterns": [
+      "what is evolution 14",
+      "define evolution 14",
+      "explain evolution 14",
+      "theory of evolution 14",
+      "evolution in biology 14"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_16",
+    "patterns": [
+      "what is evolution 15",
+      "define evolution 15",
+      "explain evolution 15",
+      "theory of evolution 15",
+      "evolution in biology 15"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_17",
+    "patterns": [
+      "what is evolution 16",
+      "define evolution 16",
+      "explain evolution 16",
+      "theory of evolution 16",
+      "evolution in biology 16"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_18",
+    "patterns": [
+      "what is evolution 17",
+      "define evolution 17",
+      "explain evolution 17",
+      "theory of evolution 17",
+      "evolution in biology 17"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_19",
+    "patterns": [
+      "what is evolution 18",
+      "define evolution 18",
+      "explain evolution 18",
+      "theory of evolution 18",
+      "evolution in biology 18"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "evolution_20",
+    "patterns": [
+      "what is evolution 19",
+      "define evolution 19",
+      "explain evolution 19",
+      "theory of evolution 19",
+      "evolution in biology 19"
+    ],
+    "responses": [
+      "Evolution is the process by which organisms change over generations.",
+      "It explains the diversity of life on Earth.",
+      "Charles Darwin proposed the theory of natural selection."
+    ]
+  },
+  {
+    "intent": "ecosystem_1",
+    "patterns": [
+      "what is ecosystem",
+      "define ecosystem",
+      "explain ecosystem",
+      "components of ecosystem",
+      "ecosystem meaning"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_2",
+    "patterns": [
+      "what is ecosystem 1",
+      "define ecosystem 1",
+      "explain ecosystem 1",
+      "components of ecosystem 1",
+      "ecosystem meaning 1"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_3",
+    "patterns": [
+      "what is ecosystem 2",
+      "define ecosystem 2",
+      "explain ecosystem 2",
+      "components of ecosystem 2",
+      "ecosystem meaning 2"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_4",
+    "patterns": [
+      "what is ecosystem 3",
+      "define ecosystem 3",
+      "explain ecosystem 3",
+      "components of ecosystem 3",
+      "ecosystem meaning 3"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_5",
+    "patterns": [
+      "what is ecosystem 4",
+      "define ecosystem 4",
+      "explain ecosystem 4",
+      "components of ecosystem 4",
+      "ecosystem meaning 4"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_6",
+    "patterns": [
+      "what is ecosystem 5",
+      "define ecosystem 5",
+      "explain ecosystem 5",
+      "components of ecosystem 5",
+      "ecosystem meaning 5"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_7",
+    "patterns": [
+      "what is ecosystem 6",
+      "define ecosystem 6",
+      "explain ecosystem 6",
+      "components of ecosystem 6",
+      "ecosystem meaning 6"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_8",
+    "patterns": [
+      "what is ecosystem 7",
+      "define ecosystem 7",
+      "explain ecosystem 7",
+      "components of ecosystem 7",
+      "ecosystem meaning 7"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_9",
+    "patterns": [
+      "what is ecosystem 8",
+      "define ecosystem 8",
+      "explain ecosystem 8",
+      "components of ecosystem 8",
+      "ecosystem meaning 8"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_10",
+    "patterns": [
+      "what is ecosystem 9",
+      "define ecosystem 9",
+      "explain ecosystem 9",
+      "components of ecosystem 9",
+      "ecosystem meaning 9"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_11",
+    "patterns": [
+      "what is ecosystem 10",
+      "define ecosystem 10",
+      "explain ecosystem 10",
+      "components of ecosystem 10",
+      "ecosystem meaning 10"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_12",
+    "patterns": [
+      "what is ecosystem 11",
+      "define ecosystem 11",
+      "explain ecosystem 11",
+      "components of ecosystem 11",
+      "ecosystem meaning 11"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_13",
+    "patterns": [
+      "what is ecosystem 12",
+      "define ecosystem 12",
+      "explain ecosystem 12",
+      "components of ecosystem 12",
+      "ecosystem meaning 12"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_14",
+    "patterns": [
+      "what is ecosystem 13",
+      "define ecosystem 13",
+      "explain ecosystem 13",
+      "components of ecosystem 13",
+      "ecosystem meaning 13"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_15",
+    "patterns": [
+      "what is ecosystem 14",
+      "define ecosystem 14",
+      "explain ecosystem 14",
+      "components of ecosystem 14",
+      "ecosystem meaning 14"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_16",
+    "patterns": [
+      "what is ecosystem 15",
+      "define ecosystem 15",
+      "explain ecosystem 15",
+      "components of ecosystem 15",
+      "ecosystem meaning 15"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_17",
+    "patterns": [
+      "what is ecosystem 16",
+      "define ecosystem 16",
+      "explain ecosystem 16",
+      "components of ecosystem 16",
+      "ecosystem meaning 16"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_18",
+    "patterns": [
+      "what is ecosystem 17",
+      "define ecosystem 17",
+      "explain ecosystem 17",
+      "components of ecosystem 17",
+      "ecosystem meaning 17"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_19",
+    "patterns": [
+      "what is ecosystem 18",
+      "define ecosystem 18",
+      "explain ecosystem 18",
+      "components of ecosystem 18",
+      "ecosystem meaning 18"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "ecosystem_20",
+    "patterns": [
+      "what is ecosystem 19",
+      "define ecosystem 19",
+      "explain ecosystem 19",
+      "components of ecosystem 19",
+      "ecosystem meaning 19"
+    ],
+    "responses": [
+      "An ecosystem is a community of living organisms and their environment.",
+      "It includes both biotic and abiotic factors.",
+      "Examples: forest, desert, pond."
+    ]
+  },
+  {
+    "intent": "human_body_systems_1",
+    "patterns": [
+      "systems of human body",
+      "major human systems",
+      "body systems in biology",
+      "examples of body systems",
+      "different human systems"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_2",
+    "patterns": [
+      "systems of human body 1",
+      "major human systems 1",
+      "body systems in biology 1",
+      "examples of body systems 1",
+      "different human systems 1"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_3",
+    "patterns": [
+      "systems of human body 2",
+      "major human systems 2",
+      "body systems in biology 2",
+      "examples of body systems 2",
+      "different human systems 2"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_4",
+    "patterns": [
+      "systems of human body 3",
+      "major human systems 3",
+      "body systems in biology 3",
+      "examples of body systems 3",
+      "different human systems 3"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_5",
+    "patterns": [
+      "systems of human body 4",
+      "major human systems 4",
+      "body systems in biology 4",
+      "examples of body systems 4",
+      "different human systems 4"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_6",
+    "patterns": [
+      "systems of human body 5",
+      "major human systems 5",
+      "body systems in biology 5",
+      "examples of body systems 5",
+      "different human systems 5"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_7",
+    "patterns": [
+      "systems of human body 6",
+      "major human systems 6",
+      "body systems in biology 6",
+      "examples of body systems 6",
+      "different human systems 6"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_8",
+    "patterns": [
+      "systems of human body 7",
+      "major human systems 7",
+      "body systems in biology 7",
+      "examples of body systems 7",
+      "different human systems 7"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_9",
+    "patterns": [
+      "systems of human body 8",
+      "major human systems 8",
+      "body systems in biology 8",
+      "examples of body systems 8",
+      "different human systems 8"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_10",
+    "patterns": [
+      "systems of human body 9",
+      "major human systems 9",
+      "body systems in biology 9",
+      "examples of body systems 9",
+      "different human systems 9"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_11",
+    "patterns": [
+      "systems of human body 10",
+      "major human systems 10",
+      "body systems in biology 10",
+      "examples of body systems 10",
+      "different human systems 10"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_12",
+    "patterns": [
+      "systems of human body 11",
+      "major human systems 11",
+      "body systems in biology 11",
+      "examples of body systems 11",
+      "different human systems 11"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_13",
+    "patterns": [
+      "systems of human body 12",
+      "major human systems 12",
+      "body systems in biology 12",
+      "examples of body systems 12",
+      "different human systems 12"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_14",
+    "patterns": [
+      "systems of human body 13",
+      "major human systems 13",
+      "body systems in biology 13",
+      "examples of body systems 13",
+      "different human systems 13"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_15",
+    "patterns": [
+      "systems of human body 14",
+      "major human systems 14",
+      "body systems in biology 14",
+      "examples of body systems 14",
+      "different human systems 14"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_16",
+    "patterns": [
+      "systems of human body 15",
+      "major human systems 15",
+      "body systems in biology 15",
+      "examples of body systems 15",
+      "different human systems 15"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_17",
+    "patterns": [
+      "systems of human body 16",
+      "major human systems 16",
+      "body systems in biology 16",
+      "examples of body systems 16",
+      "different human systems 16"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_18",
+    "patterns": [
+      "systems of human body 17",
+      "major human systems 17",
+      "body systems in biology 17",
+      "examples of body systems 17",
+      "different human systems 17"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_19",
+    "patterns": [
+      "systems of human body 18",
+      "major human systems 18",
+      "body systems in biology 18",
+      "examples of body systems 18",
+      "different human systems 18"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  },
+  {
+    "intent": "human_body_systems_20",
+    "patterns": [
+      "systems of human body 19",
+      "major human systems 19",
+      "body systems in biology 19",
+      "examples of body systems 19",
+      "different human systems 19"
+    ],
+    "responses": [
+      "The human body has systems like circulatory, respiratory, digestive, and nervous.",
+      "Each system performs a specific function for survival.",
+      "Body systems work together to maintain life."
+    ]
+  }
+]

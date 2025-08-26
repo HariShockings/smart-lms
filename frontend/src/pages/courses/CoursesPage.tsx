@@ -18,14 +18,15 @@ import LoadingSpinner from '../../components/ui/LoadingSpinner';
 interface Course {
   id: number;
   title: string;
-  description: string;
+  description: string | null;
   cover_image: string | null;
-  status: 'draft' | 'published' | 'archived';
+  status: 'published' | 'draft' | 'archived';
   start_date: string;
   end_date: string;
   created_at: string;
   instructor_first_name: string;
   instructor_last_name: string;
+  isEnrolled: boolean;
 }
 
 const CoursesPage: React.FC = () => {
@@ -35,7 +36,6 @@ const CoursesPage: React.FC = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [searchTerm, setSearchTerm] = useState('');
-  const [statusFilter, setStatusFilter] = useState('all');
 
   const apiUrl = import.meta.env.VITE_API_URL;
 
@@ -45,14 +45,9 @@ const CoursesPage: React.FC = () => {
       setError(null);
 
       try {
-        let endpoint = '/courses';
-        if (user?.role === 'student') {
-          // For students, we might want to show both enrolled and available courses
-          // For now, let's show all published courses
-          endpoint = '/courses?status=published';
-        }
-
+        const endpoint = user?.role === 'teacher' ? '/courses' : '/courses/published';
         const response = await axios.get(`${apiUrl}${endpoint}`);
+        console.log('Courses API response:', response.data.data); // Debug log
         setCourses(response.data.data);
         setFilteredCourses(response.data.data);
       } catch (err: any) {
@@ -66,7 +61,7 @@ const CoursesPage: React.FC = () => {
     fetchCourses();
   }, [apiUrl, user]);
 
-  // Filter courses based on search term and status
+  // Filter courses based on search term
   useEffect(() => {
     let filtered = courses;
 
@@ -74,18 +69,13 @@ const CoursesPage: React.FC = () => {
     if (searchTerm) {
       filtered = filtered.filter(course =>
         course.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        course.description.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        (course.description && course.description.toLowerCase().includes(searchTerm.toLowerCase())) ||
         `${course.instructor_first_name} ${course.instructor_last_name}`.toLowerCase().includes(searchTerm.toLowerCase())
       );
     }
 
-    // Filter by status
-    if (statusFilter !== 'all') {
-      filtered = filtered.filter(course => course.status === statusFilter);
-    }
-
     setFilteredCourses(filtered);
-  }, [courses, searchTerm, statusFilter]);
+  }, [courses, searchTerm]);
 
   const getStatusBadge = (status: string) => {
     switch (status) {
@@ -96,7 +86,7 @@ const CoursesPage: React.FC = () => {
       case 'archived':
         return <span className="badge bg-secondary">Archived</span>;
       default:
-        return <span className="badge bg-secondary">Unknown</span>;
+        return <span className="badge bg-secondary">{status}</span>;
     }
   };
 
@@ -108,13 +98,11 @@ const CoursesPage: React.FC = () => {
     <div className="container-fluid py-4 fade-in">
       <div className="d-flex justify-content-between align-items-center mb-4">
         <div>
-          <h1 className="h3 mb-1">
-            {user?.role === 'student' ? 'Available Courses' : 'My Courses'}
-          </h1>
+          <h1 className="h3 mb-1">Courses</h1>
           <p className="text-muted mb-0">
             {user?.role === 'student' 
-              ? 'Discover and enroll in courses' 
-              : 'Manage your courses and content'}
+              ? 'Browse and enroll in available courses' 
+              : 'Manage your courses'}
           </p>
         </div>
 
@@ -133,7 +121,7 @@ const CoursesPage: React.FC = () => {
         </div>
       )}
 
-      {/* Search and Filter Bar */}
+      {/* Search Bar */}
       <div className="card border-0 shadow-sm mb-4">
         <div className="card-body">
           <div className="row g-3">
@@ -152,22 +140,7 @@ const CoursesPage: React.FC = () => {
               </div>
             </div>
 
-            {(user?.role === 'teacher' || user?.role === 'admin') && (
-              <div className="col-md-3">
-                <select
-                  className="form-select"
-                  value={statusFilter}
-                  onChange={(e) => setStatusFilter(e.target.value)}
-                >
-                  <option value="all">All Status</option>
-                  <option value="published">Published</option>
-                  <option value="draft">Draft</option>
-                  <option value="archived">Archived</option>
-                </select>
-              </div>
-            )}
-
-            <div className="col-md-3">
+            <div className="col-md-6">
               <div className="d-flex align-items-center text-muted">
                 <Filter size={16} className="me-1" />
                 {filteredCourses.length} course{filteredCourses.length !== 1 ? 's' : ''} found
@@ -183,14 +156,14 @@ const CoursesPage: React.FC = () => {
           <div className="card-body text-center py-5">
             <BookOpen size={48} className="text-muted mb-3" />
             <h5 className="mb-2">
-              {searchTerm || statusFilter !== 'all' ? 'No courses match your criteria' : 'No courses available'}
+              {searchTerm ? 'No courses match your criteria' : user?.role === 'student' ? 'No published courses available' : 'No courses available'}
             </h5>
             <p className="text-muted mb-4">
               {user?.role === 'student' 
                 ? 'Check back later for new courses or adjust your search criteria.'
                 : 'Get started by creating your first course.'}
             </p>
-            {(user?.role === 'teacher' || user?.role === 'admin') && !searchTerm && statusFilter === 'all' && (
+            {(user?.role === 'teacher' || user?.role === 'admin') && !searchTerm && (
               <Link to="/courses/create" className="btn btn-primary">
                 <Plus size={16} className="me-1" />
                 Create Your First Course
@@ -219,9 +192,9 @@ const CoursesPage: React.FC = () => {
                   </div>
 
                   <p className="card-text text-muted flex-grow-1">
-                    {course.description.length > 120
-                      ? `${course.description.substring(0, 120)}...`
-                      : course.description}
+                    {(course.description ?? '').length > 120
+                      ? `${(course.description ?? '').substring(0, 120)}...`
+                      : (course.description ?? 'No description available')}
                   </p>
 
                   <div className="mt-auto">
@@ -275,30 +248,6 @@ const CoursesPage: React.FC = () => {
                 </div>
                 <h4 className="mb-1">{courses.length}</h4>
                 <div className="text-muted">Total Courses</div>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-4">
-            <div className="card border-0 shadow-sm">
-              <div className="card-body text-center">
-                <div className="rounded-circle bg-success bg-opacity-10 p-3 mx-auto mb-3" style={{ width: 'fit-content' }}>
-                  <BookOpen className="text-success" size={24} />
-                </div>
-                <h4 className="mb-1">{courses.filter(c => c.status === 'published').length}</h4>
-                <div className="text-muted">Published</div>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-4">
-            <div className="card border-0 shadow-sm">
-              <div className="card-body text-center">
-                <div className="rounded-circle bg-warning bg-opacity-10 p-3 mx-auto mb-3" style={{ width: 'fit-content' }}>
-                  <Users className="text-warning" size={24} />
-                </div>
-                <h4 className="mb-1">{courses.filter(c => c.status === 'draft').length}</h4>
-                <div className="text-muted">Drafts</div>
               </div>
             </div>
           </div>

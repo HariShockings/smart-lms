@@ -1,10 +1,12 @@
+import axios from 'axios';
+
 const API_BASE_URL = 'http://localhost:5000/api';
 
 // Generic API call function
-async function apiCall(endpoint: string, options: RequestInit = {}) {
+async function apiCall(endpoint, options = {}) {
   const token = localStorage.getItem('token');
   
-  const config: RequestInit = {
+  const config = {
     ...options,
     headers: {
       ...(options.body instanceof FormData ? {} : { 'Content-Type': 'application/json' }),
@@ -14,40 +16,30 @@ async function apiCall(endpoint: string, options: RequestInit = {}) {
   };
 
   try {
-    const response = await fetch(`${API_BASE_URL}${endpoint}`, config);
-    
-    // Log raw response for debugging
-    console.log(`Raw response for ${endpoint}:`, { status: response.status, ok: response.ok });
-
-    if (!response.ok) {
-      const errorData = await response.json().catch(() => ({}));
-      if (response.status === 401 && errorData.error === 'Token expired') {
-        localStorage.removeItem('token');
-        window.location.href = '/login';
-        throw new Error('Session expired. Please log in again.');
-      }
-      throw new Error(errorData.error || `HTTP error! status: ${response.status}`);
-    }
-    
-    const json = await response.json();
-    console.log(`Parsed JSON for ${endpoint}:`, json);
-    return json;
+    const response = await axios(`${API_BASE_URL}${endpoint}`, config);
+    console.log(`API response for ${endpoint}:`, response.data); // Debug log
+    return response.data;
   } catch (error) {
     console.error(`API call to ${endpoint} failed:`, error);
-    throw error;
+    if (error.response?.status === 401 && error.response?.data?.error === 'Token expired') {
+      localStorage.removeItem('token');
+      window.location.href = '/login';
+      throw new Error('Session expired. Please log in again.');
+    }
+    throw error.response?.data?.error || `HTTP error! status: ${error.response?.status}`;
   }
 }
 
 // Calendar API calls
 export const calendarAPI = {
   getEvents: () => apiCall('/calendar'),
-  getEventsByRange: (startDate: string, endDate: string) => 
+  getEventsByRange: (startDate, endDate) => 
     apiCall(`/calendar/range?startDate=${startDate}&endDate=${endDate}`),
-  createEvent: (eventData: any) => 
+  createEvent: (eventData) => 
     apiCall('/calendar', { method: 'POST', body: JSON.stringify(eventData) }),
-  updateEvent: (id: string, eventData: any) => 
+  updateEvent: (id, eventData) => 
     apiCall(`/calendar/${id}`, { method: 'PUT', body: JSON.stringify(eventData) }),
-  deleteEvent: (id: string) => 
+  deleteEvent: (id) => 
     apiCall(`/calendar/${id}`, { method: 'DELETE' }),
   getAllEvents: () => apiCall('/calendar/debug/all'),
 };
@@ -55,10 +47,10 @@ export const calendarAPI = {
 // Grades API calls
 export const gradesAPI = {
   getGrades: () => apiCall('/grades'),
-  getGradesByCourse: (courseId: string) => 
+  getGradesByCourse: (courseId) => 
     apiCall(`/grades/course/${courseId}`),
   getGradeSummary: () => apiCall('/grades/summary'),
-  getGradesByType: (type: string) => 
+  getGradesByType: (type) => 
     apiCall(`/grades/type/${type}`),
   getGradeStats: () => apiCall('/grades/stats'),
 };
@@ -66,30 +58,30 @@ export const gradesAPI = {
 // Messages API calls
 export const messagesAPI = {
   getConversations: () => apiCall('/messages/conversations'),
-  getConversation: (otherUserId: string) => 
+  getConversation: (otherUserId) => 
     apiCall(`/messages/conversation/${otherUserId}`),
-  sendMessage: (formData: FormData) => 
+  sendMessage: (formData) => 
     apiCall('/messages', { 
       method: 'POST', 
       body: formData,
     }),
-  markAsRead: (messageId: string) => 
+  markAsRead: (messageId) => 
     apiCall(`/messages/${messageId}/read`, { method: 'PUT' }),
   getUnreadCount: () => apiCall('/messages/unread/count'),
-  deleteMessage: (messageId: string) => 
+  deleteMessage: (messageId) => 
     apiCall(`/messages/${messageId}`, { method: 'DELETE' }),
-  searchUsers: (params: { query: string }) => 
+  searchUsers: (params) => 
     apiCall(`/messages/users/search?query=${encodeURIComponent(params.query)}`),
 };
 
 // Settings API calls
 export const settingsAPI = {
   getSettings: () => apiCall('/settings'),
-  updateSettings: (settingsData: any) => 
+  updateSettings: (settingsData) => 
     apiCall('/settings', { method: 'PUT', body: JSON.stringify(settingsData) }),
-  updateSetting: (setting: string, value: any) => 
+  updateSetting: (setting, value) => 
     apiCall(`/settings/${setting}`, { method: 'PATCH', body: JSON.stringify({ value }) }),
-  updatePreference: (key: string, value: any) => 
+  updatePreference: (key, value) => 
     apiCall(`/settings/preferences/${key}`, { method: 'PATCH', body: JSON.stringify({ value }) }),
   resetSettings: () => 
     apiCall('/settings/reset', { method: 'POST' }),
@@ -99,7 +91,7 @@ export const settingsAPI = {
 
 // Help API calls
 export const helpAPI = {
-  getArticles: (params: { category?: string; search?: string; limit?: number; offset?: number } = {}) => {
+  getArticles: (params = {}) => {
     const searchParams = new URLSearchParams();
     if (params.category) searchParams.append('category', params.category);
     if (params.search) searchParams.append('search', params.search);
@@ -109,11 +101,11 @@ export const helpAPI = {
     const queryString = searchParams.toString();
     return apiCall(`/help${queryString ? `?${queryString}` : ''}`);
   },
-  getArticle: (id: string) => apiCall(`/help/${id}`),
+  getArticle: (id) => apiCall(`/help/${id}`),
   getCategories: () => apiCall('/help/categories/list'),
-  getPopularArticles: (limit?: number) => 
+  getPopularArticles: (limit) => 
     apiCall(`/help/popular/list${limit ? `?limit=${limit}` : ''}`),
-  searchArticles: (query: string, category?: string, limit?: number) => {
+  searchArticles: (query, category, limit) => {
     const searchParams = new URLSearchParams({ q: query });
     if (category) searchParams.append('category', category);
     if (limit) searchParams.append('limit', limit.toString());
@@ -124,62 +116,62 @@ export const helpAPI = {
 
 // Auth API calls
 export const authAPI = {
-  login: (credentials: any) => 
+  login: (credentials) => 
     apiCall('/auth/login', { method: 'POST', body: JSON.stringify(credentials) }),
-  register: (userData: any) => 
+  register: (userData) => 
     apiCall('/auth/register', { method: 'POST', body: JSON.stringify(userData) }),
 };
 
 // User API calls
 export const userAPI = {
   getProfile: () => apiCall('/users/profile'),
-  updateProfile: (profileData: any) => 
+  updateProfile: (profileData) => 
     apiCall('/users/profile', { method: 'PUT', body: JSON.stringify(profileData) }),
 };
 
 // Course API calls
 export const courseAPI = {
   getCourses: () => apiCall('/courses'),
-  getCourse: (id: string) => apiCall(`/courses/${id}`),
-  createCourse: (courseData: any) => 
+  getCourse: (id) => apiCall(`/courses/${id}`),
+  createCourse: (courseData) => 
     apiCall('/courses', { method: 'POST', body: JSON.stringify(courseData) }),
-  updateCourse: (id: string, courseData: any) => 
+  updateCourse: (id, courseData) => 
     apiCall(`/courses/${id}`, { method: 'PUT', body: JSON.stringify(courseData) }),
-  deleteCourse: (id: string) => 
+  deleteCourse: (id) => 
     apiCall(`/courses/${id}`, { method: 'DELETE' }),
 };
 
 // Assignment API calls
 export const assignmentAPI = {
   getAssignments: () => apiCall('/assignments'),
-  getAssignment: (id: string) => apiCall(`/assignments/${id}`),
-  createAssignment: (assignmentData: any) => 
+  getAssignment: (id) => apiCall(`/assignments/${id}`),
+  createAssignment: (assignmentData) => 
     apiCall('/assignments', { method: 'POST', body: JSON.stringify(assignmentData) }),
-  updateAssignment: (id: string, assignmentData: any) => 
+  updateAssignment: (id, assignmentData) => 
     apiCall(`/assignments/${id}`, { method: 'PUT', body: JSON.stringify(assignmentData) }),
-  deleteAssignment: (id: string) => 
+  deleteAssignment: (id) => 
     apiCall(`/assignments/${id}`, { method: 'DELETE' }),
 };
 
 // Quiz API calls
 export const quizAPI = {
   getQuizzes: () => apiCall('/quizzes'),
-  getQuiz: (id: string) => apiCall(`/quizzes/${id}`),
-  createQuiz: (quizData: any) => 
+  getQuiz: (id) => apiCall(`/quizzes/${id}`),
+  createQuiz: (quizData) => 
     apiCall('/quizzes', { method: 'POST', body: JSON.stringify(quizData) }),
-  updateQuiz: (id: string, quizData: any) => 
+  updateQuiz: (id, quizData) => 
     apiCall(`/quizzes/${id}`, { method: 'PUT', body: JSON.stringify(quizData) }),
-  deleteQuiz: (id: string) => 
+  deleteQuiz: (id) => 
     apiCall(`/quizzes/${id}`, { method: 'DELETE' }),
 };
 
 // Mentoring API calls
 export const mentoringAPI = {
   getMentorships: () => apiCall('/mentoring'),
-  getMentorship: (id: string) => apiCall(`/mentoring/${id}`),
-  sendMessage: (mentorshipId: string, messageData: any) => 
+  getMentorship: (id) => apiCall(`/mentoring/${id}`),
+  sendMessage: (mentorshipId, messageData) => 
     apiCall(`/mentoring/${mentorshipId}/messages`, { method: 'POST', body: JSON.stringify(messageData) }),
-  getMentorRequests: (params: { status?: string; course_id?: string } = {}) => {
+  getMentorRequests: (params = {}) => {
     const searchParams = new URLSearchParams();
     if (params.status) searchParams.append('status', params.status);
     if (params.course_id) searchParams.append('course_id', params.course_id);
@@ -187,35 +179,35 @@ export const mentoringAPI = {
     const queryString = searchParams.toString();
     return apiCall(`/mentoring/requests/all${queryString ? `?${queryString}` : ''}`);
   },
-  createMentorRequest: (requestData: any) => 
+  createMentorRequest: (requestData) => 
     apiCall('/mentoring/requests', { method: 'POST', body: JSON.stringify(requestData) }),
-  acceptMentorRequest: (requestId: string, mentorNotes: string) => 
+  acceptMentorRequest: (requestId, mentorNotes) => 
     apiCall(`/mentoring/requests/${requestId}/accept`, { method: 'PUT', body: JSON.stringify({ mentor_notes: mentorNotes }) }),
-  getAvailableMentors: (courseId: string) => 
+  getAvailableMentors: (courseId) => 
     apiCall(`/mentoring/mentors/${courseId}`),
-  updateMentorshipStatus: (mentorshipId: string, statusData: any) => 
+  updateMentorshipStatus: (mentorshipId, statusData) => 
     apiCall(`/mentoring/${mentorshipId}/status`, { method: 'PUT', body: JSON.stringify(statusData) }),
-  rateMentorship: (mentorshipId: string, ratingData: any) => 
+  rateMentorship: (mentorshipId, ratingData) => 
     apiCall(`/mentoring/${mentorshipId}/rate`, { method: 'POST', body: JSON.stringify(ratingData) }),
-  checkMentorEligibility: (courseId: string) => 
+  checkMentorEligibility: (courseId) => 
     apiCall(`/mentoring/mentors/check/${courseId}`),
 };
 
 // Chatbot API calls
 export const chatbotAPI = {
-  startConversation: (courseId?: string) =>
+  startConversation: (courseId) =>
     apiCall('/chatbot/start', {
       method: 'POST',
       body: JSON.stringify({ course_id: courseId || null }),
     }),
-  sendMessage: (conversationId: string, message: string) =>
+  sendMessage: (conversationId, message) =>
     apiCall('/chatbot/message', {
       method: 'POST',
       body: JSON.stringify({ conversation_id: conversationId, message }),
     }),
   getConversations: () => apiCall('/chatbot/conversations'),
-  getConversation: (conversationId: string) => apiCall(`/chatbot/conversations/${conversationId}`),
-  deleteConversation: (conversationId: string) =>
+  getConversation: (conversationId) => apiCall(`/chatbot/conversations/${conversationId}`),
+  deleteConversation: (conversationId) =>
     apiCall(`/chatbot/conversations/${conversationId}`, { method: 'DELETE' }),
 };
 

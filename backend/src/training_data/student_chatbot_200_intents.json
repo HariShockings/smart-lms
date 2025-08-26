@@ -1,0 +1,4402 @@
+[
+  {
+    "intent": "greeting_1",
+    "patterns": [
+      "hi",
+      "hey",
+      "hello",
+      "yo",
+      "heyyy",
+      "wassup",
+      "what's up",
+      "sup",
+      "hiya",
+      "hey there"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_2",
+    "patterns": [
+      "hi 1",
+      "hey 1",
+      "hello 1",
+      "yo 1",
+      "heyyy 1",
+      "wassup 1",
+      "what's up 1",
+      "sup 1",
+      "hiya 1",
+      "hey there 1"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_3",
+    "patterns": [
+      "hi 2",
+      "hey 2",
+      "hello 2",
+      "yo 2",
+      "heyyy 2",
+      "wassup 2",
+      "what's up 2",
+      "sup 2",
+      "hiya 2",
+      "hey there 2"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_4",
+    "patterns": [
+      "hi 3",
+      "hey 3",
+      "hello 3",
+      "yo 3",
+      "heyyy 3",
+      "wassup 3",
+      "what's up 3",
+      "sup 3",
+      "hiya 3",
+      "hey there 3"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_5",
+    "patterns": [
+      "hi 4",
+      "hey 4",
+      "hello 4",
+      "yo 4",
+      "heyyy 4",
+      "wassup 4",
+      "what's up 4",
+      "sup 4",
+      "hiya 4",
+      "hey there 4"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_6",
+    "patterns": [
+      "hi 5",
+      "hey 5",
+      "hello 5",
+      "yo 5",
+      "heyyy 5",
+      "wassup 5",
+      "what's up 5",
+      "sup 5",
+      "hiya 5",
+      "hey there 5"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_7",
+    "patterns": [
+      "hi 6",
+      "hey 6",
+      "hello 6",
+      "yo 6",
+      "heyyy 6",
+      "wassup 6",
+      "what's up 6",
+      "sup 6",
+      "hiya 6",
+      "hey there 6"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_8",
+    "patterns": [
+      "hi 7",
+      "hey 7",
+      "hello 7",
+      "yo 7",
+      "heyyy 7",
+      "wassup 7",
+      "what's up 7",
+      "sup 7",
+      "hiya 7",
+      "hey there 7"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_9",
+    "patterns": [
+      "hi 8",
+      "hey 8",
+      "hello 8",
+      "yo 8",
+      "heyyy 8",
+      "wassup 8",
+      "what's up 8",
+      "sup 8",
+      "hiya 8",
+      "hey there 8"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_10",
+    "patterns": [
+      "hi 9",
+      "hey 9",
+      "hello 9",
+      "yo 9",
+      "heyyy 9",
+      "wassup 9",
+      "what's up 9",
+      "sup 9",
+      "hiya 9",
+      "hey there 9"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_11",
+    "patterns": [
+      "hi 10",
+      "hey 10",
+      "hello 10",
+      "yo 10",
+      "heyyy 10",
+      "wassup 10",
+      "what's up 10",
+      "sup 10",
+      "hiya 10",
+      "hey there 10"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_12",
+    "patterns": [
+      "hi 11",
+      "hey 11",
+      "hello 11",
+      "yo 11",
+      "heyyy 11",
+      "wassup 11",
+      "what's up 11",
+      "sup 11",
+      "hiya 11",
+      "hey there 11"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_13",
+    "patterns": [
+      "hi 12",
+      "hey 12",
+      "hello 12",
+      "yo 12",
+      "heyyy 12",
+      "wassup 12",
+      "what's up 12",
+      "sup 12",
+      "hiya 12",
+      "hey there 12"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_14",
+    "patterns": [
+      "hi 13",
+      "hey 13",
+      "hello 13",
+      "yo 13",
+      "heyyy 13",
+      "wassup 13",
+      "what's up 13",
+      "sup 13",
+      "hiya 13",
+      "hey there 13"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_15",
+    "patterns": [
+      "hi 14",
+      "hey 14",
+      "hello 14",
+      "yo 14",
+      "heyyy 14",
+      "wassup 14",
+      "what's up 14",
+      "sup 14",
+      "hiya 14",
+      "hey there 14"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_16",
+    "patterns": [
+      "hi 15",
+      "hey 15",
+      "hello 15",
+      "yo 15",
+      "heyyy 15",
+      "wassup 15",
+      "what's up 15",
+      "sup 15",
+      "hiya 15",
+      "hey there 15"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_17",
+    "patterns": [
+      "hi 16",
+      "hey 16",
+      "hello 16",
+      "yo 16",
+      "heyyy 16",
+      "wassup 16",
+      "what's up 16",
+      "sup 16",
+      "hiya 16",
+      "hey there 16"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_18",
+    "patterns": [
+      "hi 17",
+      "hey 17",
+      "hello 17",
+      "yo 17",
+      "heyyy 17",
+      "wassup 17",
+      "what's up 17",
+      "sup 17",
+      "hiya 17",
+      "hey there 17"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_19",
+    "patterns": [
+      "hi 18",
+      "hey 18",
+      "hello 18",
+      "yo 18",
+      "heyyy 18",
+      "wassup 18",
+      "what's up 18",
+      "sup 18",
+      "hiya 18",
+      "hey there 18"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "greeting_20",
+    "patterns": [
+      "hi 19",
+      "hey 19",
+      "hello 19",
+      "yo 19",
+      "heyyy 19",
+      "wassup 19",
+      "what's up 19",
+      "sup 19",
+      "hiya 19",
+      "hey there 19"
+    ],
+    "responses": [
+      "Hey! How's it going?",
+      "Hello there! 😊",
+      "Yo! What's up?",
+      "Hey hey! How are you?",
+      "Hiya! 👋"
+    ]
+  },
+  {
+    "intent": "goodbye_1",
+    "patterns": [
+      "bye",
+      "goodbye",
+      "see ya",
+      "catch you later",
+      "peace out",
+      "ttyl",
+      "cya",
+      "laters",
+      "take care",
+      "bye bye"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_2",
+    "patterns": [
+      "bye 1",
+      "goodbye 1",
+      "see ya 1",
+      "catch you later 1",
+      "peace out 1",
+      "ttyl 1",
+      "cya 1",
+      "laters 1",
+      "take care 1",
+      "bye bye 1"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_3",
+    "patterns": [
+      "bye 2",
+      "goodbye 2",
+      "see ya 2",
+      "catch you later 2",
+      "peace out 2",
+      "ttyl 2",
+      "cya 2",
+      "laters 2",
+      "take care 2",
+      "bye bye 2"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_4",
+    "patterns": [
+      "bye 3",
+      "goodbye 3",
+      "see ya 3",
+      "catch you later 3",
+      "peace out 3",
+      "ttyl 3",
+      "cya 3",
+      "laters 3",
+      "take care 3",
+      "bye bye 3"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_5",
+    "patterns": [
+      "bye 4",
+      "goodbye 4",
+      "see ya 4",
+      "catch you later 4",
+      "peace out 4",
+      "ttyl 4",
+      "cya 4",
+      "laters 4",
+      "take care 4",
+      "bye bye 4"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_6",
+    "patterns": [
+      "bye 5",
+      "goodbye 5",
+      "see ya 5",
+      "catch you later 5",
+      "peace out 5",
+      "ttyl 5",
+      "cya 5",
+      "laters 5",
+      "take care 5",
+      "bye bye 5"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_7",
+    "patterns": [
+      "bye 6",
+      "goodbye 6",
+      "see ya 6",
+      "catch you later 6",
+      "peace out 6",
+      "ttyl 6",
+      "cya 6",
+      "laters 6",
+      "take care 6",
+      "bye bye 6"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_8",
+    "patterns": [
+      "bye 7",
+      "goodbye 7",
+      "see ya 7",
+      "catch you later 7",
+      "peace out 7",
+      "ttyl 7",
+      "cya 7",
+      "laters 7",
+      "take care 7",
+      "bye bye 7"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_9",
+    "patterns": [
+      "bye 8",
+      "goodbye 8",
+      "see ya 8",
+      "catch you later 8",
+      "peace out 8",
+      "ttyl 8",
+      "cya 8",
+      "laters 8",
+      "take care 8",
+      "bye bye 8"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_10",
+    "patterns": [
+      "bye 9",
+      "goodbye 9",
+      "see ya 9",
+      "catch you later 9",
+      "peace out 9",
+      "ttyl 9",
+      "cya 9",
+      "laters 9",
+      "take care 9",
+      "bye bye 9"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_11",
+    "patterns": [
+      "bye 10",
+      "goodbye 10",
+      "see ya 10",
+      "catch you later 10",
+      "peace out 10",
+      "ttyl 10",
+      "cya 10",
+      "laters 10",
+      "take care 10",
+      "bye bye 10"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_12",
+    "patterns": [
+      "bye 11",
+      "goodbye 11",
+      "see ya 11",
+      "catch you later 11",
+      "peace out 11",
+      "ttyl 11",
+      "cya 11",
+      "laters 11",
+      "take care 11",
+      "bye bye 11"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_13",
+    "patterns": [
+      "bye 12",
+      "goodbye 12",
+      "see ya 12",
+      "catch you later 12",
+      "peace out 12",
+      "ttyl 12",
+      "cya 12",
+      "laters 12",
+      "take care 12",
+      "bye bye 12"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_14",
+    "patterns": [
+      "bye 13",
+      "goodbye 13",
+      "see ya 13",
+      "catch you later 13",
+      "peace out 13",
+      "ttyl 13",
+      "cya 13",
+      "laters 13",
+      "take care 13",
+      "bye bye 13"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_15",
+    "patterns": [
+      "bye 14",
+      "goodbye 14",
+      "see ya 14",
+      "catch you later 14",
+      "peace out 14",
+      "ttyl 14",
+      "cya 14",
+      "laters 14",
+      "take care 14",
+      "bye bye 14"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_16",
+    "patterns": [
+      "bye 15",
+      "goodbye 15",
+      "see ya 15",
+      "catch you later 15",
+      "peace out 15",
+      "ttyl 15",
+      "cya 15",
+      "laters 15",
+      "take care 15",
+      "bye bye 15"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_17",
+    "patterns": [
+      "bye 16",
+      "goodbye 16",
+      "see ya 16",
+      "catch you later 16",
+      "peace out 16",
+      "ttyl 16",
+      "cya 16",
+      "laters 16",
+      "take care 16",
+      "bye bye 16"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_18",
+    "patterns": [
+      "bye 17",
+      "goodbye 17",
+      "see ya 17",
+      "catch you later 17",
+      "peace out 17",
+      "ttyl 17",
+      "cya 17",
+      "laters 17",
+      "take care 17",
+      "bye bye 17"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_19",
+    "patterns": [
+      "bye 18",
+      "goodbye 18",
+      "see ya 18",
+      "catch you later 18",
+      "peace out 18",
+      "ttyl 18",
+      "cya 18",
+      "laters 18",
+      "take care 18",
+      "bye bye 18"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "goodbye_20",
+    "patterns": [
+      "bye 19",
+      "goodbye 19",
+      "see ya 19",
+      "catch you later 19",
+      "peace out 19",
+      "ttyl 19",
+      "cya 19",
+      "laters 19",
+      "take care 19",
+      "bye bye 19"
+    ],
+    "responses": [
+      "See ya later! 👋",
+      "Bye bye! Take care 😊",
+      "Catch you later!",
+      "Peace out ✌️",
+      "TTYL!"
+    ]
+  },
+  {
+    "intent": "thanks_1",
+    "patterns": [
+      "thanks",
+      "thank you",
+      "thx",
+      "ty",
+      "thanx",
+      "appreciate it",
+      "cheers",
+      "grateful",
+      "many thanks",
+      "big thanks"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_2",
+    "patterns": [
+      "thanks 1",
+      "thank you 1",
+      "thx 1",
+      "ty 1",
+      "thanx 1",
+      "appreciate it 1",
+      "cheers 1",
+      "grateful 1",
+      "many thanks 1",
+      "big thanks 1"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_3",
+    "patterns": [
+      "thanks 2",
+      "thank you 2",
+      "thx 2",
+      "ty 2",
+      "thanx 2",
+      "appreciate it 2",
+      "cheers 2",
+      "grateful 2",
+      "many thanks 2",
+      "big thanks 2"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_4",
+    "patterns": [
+      "thanks 3",
+      "thank you 3",
+      "thx 3",
+      "ty 3",
+      "thanx 3",
+      "appreciate it 3",
+      "cheers 3",
+      "grateful 3",
+      "many thanks 3",
+      "big thanks 3"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_5",
+    "patterns": [
+      "thanks 4",
+      "thank you 4",
+      "thx 4",
+      "ty 4",
+      "thanx 4",
+      "appreciate it 4",
+      "cheers 4",
+      "grateful 4",
+      "many thanks 4",
+      "big thanks 4"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_6",
+    "patterns": [
+      "thanks 5",
+      "thank you 5",
+      "thx 5",
+      "ty 5",
+      "thanx 5",
+      "appreciate it 5",
+      "cheers 5",
+      "grateful 5",
+      "many thanks 5",
+      "big thanks 5"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_7",
+    "patterns": [
+      "thanks 6",
+      "thank you 6",
+      "thx 6",
+      "ty 6",
+      "thanx 6",
+      "appreciate it 6",
+      "cheers 6",
+      "grateful 6",
+      "many thanks 6",
+      "big thanks 6"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_8",
+    "patterns": [
+      "thanks 7",
+      "thank you 7",
+      "thx 7",
+      "ty 7",
+      "thanx 7",
+      "appreciate it 7",
+      "cheers 7",
+      "grateful 7",
+      "many thanks 7",
+      "big thanks 7"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_9",
+    "patterns": [
+      "thanks 8",
+      "thank you 8",
+      "thx 8",
+      "ty 8",
+      "thanx 8",
+      "appreciate it 8",
+      "cheers 8",
+      "grateful 8",
+      "many thanks 8",
+      "big thanks 8"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_10",
+    "patterns": [
+      "thanks 9",
+      "thank you 9",
+      "thx 9",
+      "ty 9",
+      "thanx 9",
+      "appreciate it 9",
+      "cheers 9",
+      "grateful 9",
+      "many thanks 9",
+      "big thanks 9"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_11",
+    "patterns": [
+      "thanks 10",
+      "thank you 10",
+      "thx 10",
+      "ty 10",
+      "thanx 10",
+      "appreciate it 10",
+      "cheers 10",
+      "grateful 10",
+      "many thanks 10",
+      "big thanks 10"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_12",
+    "patterns": [
+      "thanks 11",
+      "thank you 11",
+      "thx 11",
+      "ty 11",
+      "thanx 11",
+      "appreciate it 11",
+      "cheers 11",
+      "grateful 11",
+      "many thanks 11",
+      "big thanks 11"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_13",
+    "patterns": [
+      "thanks 12",
+      "thank you 12",
+      "thx 12",
+      "ty 12",
+      "thanx 12",
+      "appreciate it 12",
+      "cheers 12",
+      "grateful 12",
+      "many thanks 12",
+      "big thanks 12"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_14",
+    "patterns": [
+      "thanks 13",
+      "thank you 13",
+      "thx 13",
+      "ty 13",
+      "thanx 13",
+      "appreciate it 13",
+      "cheers 13",
+      "grateful 13",
+      "many thanks 13",
+      "big thanks 13"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_15",
+    "patterns": [
+      "thanks 14",
+      "thank you 14",
+      "thx 14",
+      "ty 14",
+      "thanx 14",
+      "appreciate it 14",
+      "cheers 14",
+      "grateful 14",
+      "many thanks 14",
+      "big thanks 14"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_16",
+    "patterns": [
+      "thanks 15",
+      "thank you 15",
+      "thx 15",
+      "ty 15",
+      "thanx 15",
+      "appreciate it 15",
+      "cheers 15",
+      "grateful 15",
+      "many thanks 15",
+      "big thanks 15"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_17",
+    "patterns": [
+      "thanks 16",
+      "thank you 16",
+      "thx 16",
+      "ty 16",
+      "thanx 16",
+      "appreciate it 16",
+      "cheers 16",
+      "grateful 16",
+      "many thanks 16",
+      "big thanks 16"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_18",
+    "patterns": [
+      "thanks 17",
+      "thank you 17",
+      "thx 17",
+      "ty 17",
+      "thanx 17",
+      "appreciate it 17",
+      "cheers 17",
+      "grateful 17",
+      "many thanks 17",
+      "big thanks 17"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_19",
+    "patterns": [
+      "thanks 18",
+      "thank you 18",
+      "thx 18",
+      "ty 18",
+      "thanx 18",
+      "appreciate it 18",
+      "cheers 18",
+      "grateful 18",
+      "many thanks 18",
+      "big thanks 18"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "thanks_20",
+    "patterns": [
+      "thanks 19",
+      "thank you 19",
+      "thx 19",
+      "ty 19",
+      "thanx 19",
+      "appreciate it 19",
+      "cheers 19",
+      "grateful 19",
+      "many thanks 19",
+      "big thanks 19"
+    ],
+    "responses": [
+      "You're welcome! 😃",
+      "No problem!",
+      "Anytime! 🙌",
+      "Happy to help!",
+      "Glad I could help."
+    ]
+  },
+  {
+    "intent": "how_are_you_1",
+    "patterns": [
+      "how are you",
+      "how u doing",
+      "what's up",
+      "how r u",
+      "sup bot",
+      "hru",
+      "you good?",
+      "how's it going",
+      "wassup bro",
+      "everything okay?"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_2",
+    "patterns": [
+      "how are you 1",
+      "how u doing 1",
+      "what's up 1",
+      "how r u 1",
+      "sup bot 1",
+      "hru 1",
+      "you good? 1",
+      "how's it going 1",
+      "wassup bro 1",
+      "everything okay? 1"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_3",
+    "patterns": [
+      "how are you 2",
+      "how u doing 2",
+      "what's up 2",
+      "how r u 2",
+      "sup bot 2",
+      "hru 2",
+      "you good? 2",
+      "how's it going 2",
+      "wassup bro 2",
+      "everything okay? 2"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_4",
+    "patterns": [
+      "how are you 3",
+      "how u doing 3",
+      "what's up 3",
+      "how r u 3",
+      "sup bot 3",
+      "hru 3",
+      "you good? 3",
+      "how's it going 3",
+      "wassup bro 3",
+      "everything okay? 3"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_5",
+    "patterns": [
+      "how are you 4",
+      "how u doing 4",
+      "what's up 4",
+      "how r u 4",
+      "sup bot 4",
+      "hru 4",
+      "you good? 4",
+      "how's it going 4",
+      "wassup bro 4",
+      "everything okay? 4"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_6",
+    "patterns": [
+      "how are you 5",
+      "how u doing 5",
+      "what's up 5",
+      "how r u 5",
+      "sup bot 5",
+      "hru 5",
+      "you good? 5",
+      "how's it going 5",
+      "wassup bro 5",
+      "everything okay? 5"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_7",
+    "patterns": [
+      "how are you 6",
+      "how u doing 6",
+      "what's up 6",
+      "how r u 6",
+      "sup bot 6",
+      "hru 6",
+      "you good? 6",
+      "how's it going 6",
+      "wassup bro 6",
+      "everything okay? 6"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_8",
+    "patterns": [
+      "how are you 7",
+      "how u doing 7",
+      "what's up 7",
+      "how r u 7",
+      "sup bot 7",
+      "hru 7",
+      "you good? 7",
+      "how's it going 7",
+      "wassup bro 7",
+      "everything okay? 7"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_9",
+    "patterns": [
+      "how are you 8",
+      "how u doing 8",
+      "what's up 8",
+      "how r u 8",
+      "sup bot 8",
+      "hru 8",
+      "you good? 8",
+      "how's it going 8",
+      "wassup bro 8",
+      "everything okay? 8"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_10",
+    "patterns": [
+      "how are you 9",
+      "how u doing 9",
+      "what's up 9",
+      "how r u 9",
+      "sup bot 9",
+      "hru 9",
+      "you good? 9",
+      "how's it going 9",
+      "wassup bro 9",
+      "everything okay? 9"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_11",
+    "patterns": [
+      "how are you 10",
+      "how u doing 10",
+      "what's up 10",
+      "how r u 10",
+      "sup bot 10",
+      "hru 10",
+      "you good? 10",
+      "how's it going 10",
+      "wassup bro 10",
+      "everything okay? 10"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_12",
+    "patterns": [
+      "how are you 11",
+      "how u doing 11",
+      "what's up 11",
+      "how r u 11",
+      "sup bot 11",
+      "hru 11",
+      "you good? 11",
+      "how's it going 11",
+      "wassup bro 11",
+      "everything okay? 11"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_13",
+    "patterns": [
+      "how are you 12",
+      "how u doing 12",
+      "what's up 12",
+      "how r u 12",
+      "sup bot 12",
+      "hru 12",
+      "you good? 12",
+      "how's it going 12",
+      "wassup bro 12",
+      "everything okay? 12"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_14",
+    "patterns": [
+      "how are you 13",
+      "how u doing 13",
+      "what's up 13",
+      "how r u 13",
+      "sup bot 13",
+      "hru 13",
+      "you good? 13",
+      "how's it going 13",
+      "wassup bro 13",
+      "everything okay? 13"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_15",
+    "patterns": [
+      "how are you 14",
+      "how u doing 14",
+      "what's up 14",
+      "how r u 14",
+      "sup bot 14",
+      "hru 14",
+      "you good? 14",
+      "how's it going 14",
+      "wassup bro 14",
+      "everything okay? 14"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_16",
+    "patterns": [
+      "how are you 15",
+      "how u doing 15",
+      "what's up 15",
+      "how r u 15",
+      "sup bot 15",
+      "hru 15",
+      "you good? 15",
+      "how's it going 15",
+      "wassup bro 15",
+      "everything okay? 15"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_17",
+    "patterns": [
+      "how are you 16",
+      "how u doing 16",
+      "what's up 16",
+      "how r u 16",
+      "sup bot 16",
+      "hru 16",
+      "you good? 16",
+      "how's it going 16",
+      "wassup bro 16",
+      "everything okay? 16"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_18",
+    "patterns": [
+      "how are you 17",
+      "how u doing 17",
+      "what's up 17",
+      "how r u 17",
+      "sup bot 17",
+      "hru 17",
+      "you good? 17",
+      "how's it going 17",
+      "wassup bro 17",
+      "everything okay? 17"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_19",
+    "patterns": [
+      "how are you 18",
+      "how u doing 18",
+      "what's up 18",
+      "how r u 18",
+      "sup bot 18",
+      "hru 18",
+      "you good? 18",
+      "how's it going 18",
+      "wassup bro 18",
+      "everything okay? 18"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "how_are_you_20",
+    "patterns": [
+      "how are you 19",
+      "how u doing 19",
+      "what's up 19",
+      "how r u 19",
+      "sup bot 19",
+      "hru 19",
+      "you good? 19",
+      "how's it going 19",
+      "wassup bro 19",
+      "everything okay? 19"
+    ],
+    "responses": [
+      "I'm doing great, thanks for asking! How about you?",
+      "All good here 😎. How are you?",
+      "Feeling awesome today! 🙌",
+      "I'm fine, what about you?",
+      "Good good 👍"
+    ]
+  },
+  {
+    "intent": "jokes_1",
+    "patterns": [
+      "tell me a joke",
+      "say something funny",
+      "make me laugh",
+      "joke please",
+      "lol give me a joke",
+      "funny joke",
+      "haha tell joke",
+      "give me a meme",
+      "say lol stuff",
+      "fun time"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_2",
+    "patterns": [
+      "tell me a joke 1",
+      "say something funny 1",
+      "make me laugh 1",
+      "joke please 1",
+      "lol give me a joke 1",
+      "funny joke 1",
+      "haha tell joke 1",
+      "give me a meme 1",
+      "say lol stuff 1",
+      "fun time 1"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_3",
+    "patterns": [
+      "tell me a joke 2",
+      "say something funny 2",
+      "make me laugh 2",
+      "joke please 2",
+      "lol give me a joke 2",
+      "funny joke 2",
+      "haha tell joke 2",
+      "give me a meme 2",
+      "say lol stuff 2",
+      "fun time 2"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_4",
+    "patterns": [
+      "tell me a joke 3",
+      "say something funny 3",
+      "make me laugh 3",
+      "joke please 3",
+      "lol give me a joke 3",
+      "funny joke 3",
+      "haha tell joke 3",
+      "give me a meme 3",
+      "say lol stuff 3",
+      "fun time 3"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_5",
+    "patterns": [
+      "tell me a joke 4",
+      "say something funny 4",
+      "make me laugh 4",
+      "joke please 4",
+      "lol give me a joke 4",
+      "funny joke 4",
+      "haha tell joke 4",
+      "give me a meme 4",
+      "say lol stuff 4",
+      "fun time 4"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_6",
+    "patterns": [
+      "tell me a joke 5",
+      "say something funny 5",
+      "make me laugh 5",
+      "joke please 5",
+      "lol give me a joke 5",
+      "funny joke 5",
+      "haha tell joke 5",
+      "give me a meme 5",
+      "say lol stuff 5",
+      "fun time 5"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_7",
+    "patterns": [
+      "tell me a joke 6",
+      "say something funny 6",
+      "make me laugh 6",
+      "joke please 6",
+      "lol give me a joke 6",
+      "funny joke 6",
+      "haha tell joke 6",
+      "give me a meme 6",
+      "say lol stuff 6",
+      "fun time 6"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_8",
+    "patterns": [
+      "tell me a joke 7",
+      "say something funny 7",
+      "make me laugh 7",
+      "joke please 7",
+      "lol give me a joke 7",
+      "funny joke 7",
+      "haha tell joke 7",
+      "give me a meme 7",
+      "say lol stuff 7",
+      "fun time 7"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_9",
+    "patterns": [
+      "tell me a joke 8",
+      "say something funny 8",
+      "make me laugh 8",
+      "joke please 8",
+      "lol give me a joke 8",
+      "funny joke 8",
+      "haha tell joke 8",
+      "give me a meme 8",
+      "say lol stuff 8",
+      "fun time 8"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_10",
+    "patterns": [
+      "tell me a joke 9",
+      "say something funny 9",
+      "make me laugh 9",
+      "joke please 9",
+      "lol give me a joke 9",
+      "funny joke 9",
+      "haha tell joke 9",
+      "give me a meme 9",
+      "say lol stuff 9",
+      "fun time 9"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_11",
+    "patterns": [
+      "tell me a joke 10",
+      "say something funny 10",
+      "make me laugh 10",
+      "joke please 10",
+      "lol give me a joke 10",
+      "funny joke 10",
+      "haha tell joke 10",
+      "give me a meme 10",
+      "say lol stuff 10",
+      "fun time 10"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_12",
+    "patterns": [
+      "tell me a joke 11",
+      "say something funny 11",
+      "make me laugh 11",
+      "joke please 11",
+      "lol give me a joke 11",
+      "funny joke 11",
+      "haha tell joke 11",
+      "give me a meme 11",
+      "say lol stuff 11",
+      "fun time 11"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_13",
+    "patterns": [
+      "tell me a joke 12",
+      "say something funny 12",
+      "make me laugh 12",
+      "joke please 12",
+      "lol give me a joke 12",
+      "funny joke 12",
+      "haha tell joke 12",
+      "give me a meme 12",
+      "say lol stuff 12",
+      "fun time 12"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_14",
+    "patterns": [
+      "tell me a joke 13",
+      "say something funny 13",
+      "make me laugh 13",
+      "joke please 13",
+      "lol give me a joke 13",
+      "funny joke 13",
+      "haha tell joke 13",
+      "give me a meme 13",
+      "say lol stuff 13",
+      "fun time 13"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_15",
+    "patterns": [
+      "tell me a joke 14",
+      "say something funny 14",
+      "make me laugh 14",
+      "joke please 14",
+      "lol give me a joke 14",
+      "funny joke 14",
+      "haha tell joke 14",
+      "give me a meme 14",
+      "say lol stuff 14",
+      "fun time 14"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_16",
+    "patterns": [
+      "tell me a joke 15",
+      "say something funny 15",
+      "make me laugh 15",
+      "joke please 15",
+      "lol give me a joke 15",
+      "funny joke 15",
+      "haha tell joke 15",
+      "give me a meme 15",
+      "say lol stuff 15",
+      "fun time 15"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_17",
+    "patterns": [
+      "tell me a joke 16",
+      "say something funny 16",
+      "make me laugh 16",
+      "joke please 16",
+      "lol give me a joke 16",
+      "funny joke 16",
+      "haha tell joke 16",
+      "give me a meme 16",
+      "say lol stuff 16",
+      "fun time 16"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_18",
+    "patterns": [
+      "tell me a joke 17",
+      "say something funny 17",
+      "make me laugh 17",
+      "joke please 17",
+      "lol give me a joke 17",
+      "funny joke 17",
+      "haha tell joke 17",
+      "give me a meme 17",
+      "say lol stuff 17",
+      "fun time 17"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_19",
+    "patterns": [
+      "tell me a joke 18",
+      "say something funny 18",
+      "make me laugh 18",
+      "joke please 18",
+      "lol give me a joke 18",
+      "funny joke 18",
+      "haha tell joke 18",
+      "give me a meme 18",
+      "say lol stuff 18",
+      "fun time 18"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "jokes_20",
+    "patterns": [
+      "tell me a joke 19",
+      "say something funny 19",
+      "make me laugh 19",
+      "joke please 19",
+      "lol give me a joke 19",
+      "funny joke 19",
+      "haha tell joke 19",
+      "give me a meme 19",
+      "say lol stuff 19",
+      "fun time 19"
+    ],
+    "responses": [
+      "Why don’t skeletons fight each other? Because they don’t have the guts 😂",
+      "What do you call fake spaghetti? An *impasta*! 🍝",
+      "Why can’t your nose be 12 inches long? Because then it would be a foot 👃😂",
+      "I told my computer a joke… but it didn’t laugh. Guess it has no sense of humor 😅",
+      "Why did the math book look sad? Because it had too many problems 📘➕➖"
+    ]
+  },
+  {
+    "intent": "study_help_1",
+    "patterns": [
+      "help me study",
+      "can you help with homework",
+      "study tips",
+      "how to focus",
+      "best way to revise",
+      "teach me",
+      "exam tips",
+      "i need help studying",
+      "any study hacks",
+      "how to prepare for test"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_2",
+    "patterns": [
+      "help me study 1",
+      "can you help with homework 1",
+      "study tips 1",
+      "how to focus 1",
+      "best way to revise 1",
+      "teach me 1",
+      "exam tips 1",
+      "i need help studying 1",
+      "any study hacks 1",
+      "how to prepare for test 1"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_3",
+    "patterns": [
+      "help me study 2",
+      "can you help with homework 2",
+      "study tips 2",
+      "how to focus 2",
+      "best way to revise 2",
+      "teach me 2",
+      "exam tips 2",
+      "i need help studying 2",
+      "any study hacks 2",
+      "how to prepare for test 2"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_4",
+    "patterns": [
+      "help me study 3",
+      "can you help with homework 3",
+      "study tips 3",
+      "how to focus 3",
+      "best way to revise 3",
+      "teach me 3",
+      "exam tips 3",
+      "i need help studying 3",
+      "any study hacks 3",
+      "how to prepare for test 3"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_5",
+    "patterns": [
+      "help me study 4",
+      "can you help with homework 4",
+      "study tips 4",
+      "how to focus 4",
+      "best way to revise 4",
+      "teach me 4",
+      "exam tips 4",
+      "i need help studying 4",
+      "any study hacks 4",
+      "how to prepare for test 4"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_6",
+    "patterns": [
+      "help me study 5",
+      "can you help with homework 5",
+      "study tips 5",
+      "how to focus 5",
+      "best way to revise 5",
+      "teach me 5",
+      "exam tips 5",
+      "i need help studying 5",
+      "any study hacks 5",
+      "how to prepare for test 5"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_7",
+    "patterns": [
+      "help me study 6",
+      "can you help with homework 6",
+      "study tips 6",
+      "how to focus 6",
+      "best way to revise 6",
+      "teach me 6",
+      "exam tips 6",
+      "i need help studying 6",
+      "any study hacks 6",
+      "how to prepare for test 6"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_8",
+    "patterns": [
+      "help me study 7",
+      "can you help with homework 7",
+      "study tips 7",
+      "how to focus 7",
+      "best way to revise 7",
+      "teach me 7",
+      "exam tips 7",
+      "i need help studying 7",
+      "any study hacks 7",
+      "how to prepare for test 7"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_9",
+    "patterns": [
+      "help me study 8",
+      "can you help with homework 8",
+      "study tips 8",
+      "how to focus 8",
+      "best way to revise 8",
+      "teach me 8",
+      "exam tips 8",
+      "i need help studying 8",
+      "any study hacks 8",
+      "how to prepare for test 8"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_10",
+    "patterns": [
+      "help me study 9",
+      "can you help with homework 9",
+      "study tips 9",
+      "how to focus 9",
+      "best way to revise 9",
+      "teach me 9",
+      "exam tips 9",
+      "i need help studying 9",
+      "any study hacks 9",
+      "how to prepare for test 9"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_11",
+    "patterns": [
+      "help me study 10",
+      "can you help with homework 10",
+      "study tips 10",
+      "how to focus 10",
+      "best way to revise 10",
+      "teach me 10",
+      "exam tips 10",
+      "i need help studying 10",
+      "any study hacks 10",
+      "how to prepare for test 10"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_12",
+    "patterns": [
+      "help me study 11",
+      "can you help with homework 11",
+      "study tips 11",
+      "how to focus 11",
+      "best way to revise 11",
+      "teach me 11",
+      "exam tips 11",
+      "i need help studying 11",
+      "any study hacks 11",
+      "how to prepare for test 11"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_13",
+    "patterns": [
+      "help me study 12",
+      "can you help with homework 12",
+      "study tips 12",
+      "how to focus 12",
+      "best way to revise 12",
+      "teach me 12",
+      "exam tips 12",
+      "i need help studying 12",
+      "any study hacks 12",
+      "how to prepare for test 12"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_14",
+    "patterns": [
+      "help me study 13",
+      "can you help with homework 13",
+      "study tips 13",
+      "how to focus 13",
+      "best way to revise 13",
+      "teach me 13",
+      "exam tips 13",
+      "i need help studying 13",
+      "any study hacks 13",
+      "how to prepare for test 13"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_15",
+    "patterns": [
+      "help me study 14",
+      "can you help with homework 14",
+      "study tips 14",
+      "how to focus 14",
+      "best way to revise 14",
+      "teach me 14",
+      "exam tips 14",
+      "i need help studying 14",
+      "any study hacks 14",
+      "how to prepare for test 14"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_16",
+    "patterns": [
+      "help me study 15",
+      "can you help with homework 15",
+      "study tips 15",
+      "how to focus 15",
+      "best way to revise 15",
+      "teach me 15",
+      "exam tips 15",
+      "i need help studying 15",
+      "any study hacks 15",
+      "how to prepare for test 15"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_17",
+    "patterns": [
+      "help me study 16",
+      "can you help with homework 16",
+      "study tips 16",
+      "how to focus 16",
+      "best way to revise 16",
+      "teach me 16",
+      "exam tips 16",
+      "i need help studying 16",
+      "any study hacks 16",
+      "how to prepare for test 16"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_18",
+    "patterns": [
+      "help me study 17",
+      "can you help with homework 17",
+      "study tips 17",
+      "how to focus 17",
+      "best way to revise 17",
+      "teach me 17",
+      "exam tips 17",
+      "i need help studying 17",
+      "any study hacks 17",
+      "how to prepare for test 17"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_19",
+    "patterns": [
+      "help me study 18",
+      "can you help with homework 18",
+      "study tips 18",
+      "how to focus 18",
+      "best way to revise 18",
+      "teach me 18",
+      "exam tips 18",
+      "i need help studying 18",
+      "any study hacks 18",
+      "how to prepare for test 18"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "study_help_20",
+    "patterns": [
+      "help me study 19",
+      "can you help with homework 19",
+      "study tips 19",
+      "how to focus 19",
+      "best way to revise 19",
+      "teach me 19",
+      "exam tips 19",
+      "i need help studying 19",
+      "any study hacks 19",
+      "how to prepare for test 19"
+    ],
+    "responses": [
+      "Best tip: Break your study into small chunks 📚",
+      "Try the Pomodoro technique ⏳ – 25 mins study, 5 mins break!",
+      "Stay hydrated 💧 and take short breaks.",
+      "Focus on one subject at a time.",
+      "Make flashcards for quick revision!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_1",
+    "patterns": [
+      "i'm nervous for exam",
+      "scared of test",
+      "feeling stressed",
+      "anxiety about exam",
+      "exam stress",
+      "i'm panicking",
+      "worried about exam",
+      "can't focus before test",
+      "fear of failing",
+      "exam pressure"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_2",
+    "patterns": [
+      "i'm nervous for exam 1",
+      "scared of test 1",
+      "feeling stressed 1",
+      "anxiety about exam 1",
+      "exam stress 1",
+      "i'm panicking 1",
+      "worried about exam 1",
+      "can't focus before test 1",
+      "fear of failing 1",
+      "exam pressure 1"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_3",
+    "patterns": [
+      "i'm nervous for exam 2",
+      "scared of test 2",
+      "feeling stressed 2",
+      "anxiety about exam 2",
+      "exam stress 2",
+      "i'm panicking 2",
+      "worried about exam 2",
+      "can't focus before test 2",
+      "fear of failing 2",
+      "exam pressure 2"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_4",
+    "patterns": [
+      "i'm nervous for exam 3",
+      "scared of test 3",
+      "feeling stressed 3",
+      "anxiety about exam 3",
+      "exam stress 3",
+      "i'm panicking 3",
+      "worried about exam 3",
+      "can't focus before test 3",
+      "fear of failing 3",
+      "exam pressure 3"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_5",
+    "patterns": [
+      "i'm nervous for exam 4",
+      "scared of test 4",
+      "feeling stressed 4",
+      "anxiety about exam 4",
+      "exam stress 4",
+      "i'm panicking 4",
+      "worried about exam 4",
+      "can't focus before test 4",
+      "fear of failing 4",
+      "exam pressure 4"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_6",
+    "patterns": [
+      "i'm nervous for exam 5",
+      "scared of test 5",
+      "feeling stressed 5",
+      "anxiety about exam 5",
+      "exam stress 5",
+      "i'm panicking 5",
+      "worried about exam 5",
+      "can't focus before test 5",
+      "fear of failing 5",
+      "exam pressure 5"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_7",
+    "patterns": [
+      "i'm nervous for exam 6",
+      "scared of test 6",
+      "feeling stressed 6",
+      "anxiety about exam 6",
+      "exam stress 6",
+      "i'm panicking 6",
+      "worried about exam 6",
+      "can't focus before test 6",
+      "fear of failing 6",
+      "exam pressure 6"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_8",
+    "patterns": [
+      "i'm nervous for exam 7",
+      "scared of test 7",
+      "feeling stressed 7",
+      "anxiety about exam 7",
+      "exam stress 7",
+      "i'm panicking 7",
+      "worried about exam 7",
+      "can't focus before test 7",
+      "fear of failing 7",
+      "exam pressure 7"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_9",
+    "patterns": [
+      "i'm nervous for exam 8",
+      "scared of test 8",
+      "feeling stressed 8",
+      "anxiety about exam 8",
+      "exam stress 8",
+      "i'm panicking 8",
+      "worried about exam 8",
+      "can't focus before test 8",
+      "fear of failing 8",
+      "exam pressure 8"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_10",
+    "patterns": [
+      "i'm nervous for exam 9",
+      "scared of test 9",
+      "feeling stressed 9",
+      "anxiety about exam 9",
+      "exam stress 9",
+      "i'm panicking 9",
+      "worried about exam 9",
+      "can't focus before test 9",
+      "fear of failing 9",
+      "exam pressure 9"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_11",
+    "patterns": [
+      "i'm nervous for exam 10",
+      "scared of test 10",
+      "feeling stressed 10",
+      "anxiety about exam 10",
+      "exam stress 10",
+      "i'm panicking 10",
+      "worried about exam 10",
+      "can't focus before test 10",
+      "fear of failing 10",
+      "exam pressure 10"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_12",
+    "patterns": [
+      "i'm nervous for exam 11",
+      "scared of test 11",
+      "feeling stressed 11",
+      "anxiety about exam 11",
+      "exam stress 11",
+      "i'm panicking 11",
+      "worried about exam 11",
+      "can't focus before test 11",
+      "fear of failing 11",
+      "exam pressure 11"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_13",
+    "patterns": [
+      "i'm nervous for exam 12",
+      "scared of test 12",
+      "feeling stressed 12",
+      "anxiety about exam 12",
+      "exam stress 12",
+      "i'm panicking 12",
+      "worried about exam 12",
+      "can't focus before test 12",
+      "fear of failing 12",
+      "exam pressure 12"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_14",
+    "patterns": [
+      "i'm nervous for exam 13",
+      "scared of test 13",
+      "feeling stressed 13",
+      "anxiety about exam 13",
+      "exam stress 13",
+      "i'm panicking 13",
+      "worried about exam 13",
+      "can't focus before test 13",
+      "fear of failing 13",
+      "exam pressure 13"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_15",
+    "patterns": [
+      "i'm nervous for exam 14",
+      "scared of test 14",
+      "feeling stressed 14",
+      "anxiety about exam 14",
+      "exam stress 14",
+      "i'm panicking 14",
+      "worried about exam 14",
+      "can't focus before test 14",
+      "fear of failing 14",
+      "exam pressure 14"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_16",
+    "patterns": [
+      "i'm nervous for exam 15",
+      "scared of test 15",
+      "feeling stressed 15",
+      "anxiety about exam 15",
+      "exam stress 15",
+      "i'm panicking 15",
+      "worried about exam 15",
+      "can't focus before test 15",
+      "fear of failing 15",
+      "exam pressure 15"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_17",
+    "patterns": [
+      "i'm nervous for exam 16",
+      "scared of test 16",
+      "feeling stressed 16",
+      "anxiety about exam 16",
+      "exam stress 16",
+      "i'm panicking 16",
+      "worried about exam 16",
+      "can't focus before test 16",
+      "fear of failing 16",
+      "exam pressure 16"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_18",
+    "patterns": [
+      "i'm nervous for exam 17",
+      "scared of test 17",
+      "feeling stressed 17",
+      "anxiety about exam 17",
+      "exam stress 17",
+      "i'm panicking 17",
+      "worried about exam 17",
+      "can't focus before test 17",
+      "fear of failing 17",
+      "exam pressure 17"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_19",
+    "patterns": [
+      "i'm nervous for exam 18",
+      "scared of test 18",
+      "feeling stressed 18",
+      "anxiety about exam 18",
+      "exam stress 18",
+      "i'm panicking 18",
+      "worried about exam 18",
+      "can't focus before test 18",
+      "fear of failing 18",
+      "exam pressure 18"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "exam_anxiety_20",
+    "patterns": [
+      "i'm nervous for exam 19",
+      "scared of test 19",
+      "feeling stressed 19",
+      "anxiety about exam 19",
+      "exam stress 19",
+      "i'm panicking 19",
+      "worried about exam 19",
+      "can't focus before test 19",
+      "fear of failing 19",
+      "exam pressure 19"
+    ],
+    "responses": [
+      "Don’t worry, just do your best! 💪",
+      "Take a deep breath, you got this! 🌟",
+      "Remember: exams test what you know, not your worth 💯",
+      "Stay calm and confident 😌",
+      "You’ve studied hard, believe in yourself!"
+    ]
+  },
+  {
+    "intent": "fun_chat_1",
+    "patterns": [
+      "bored",
+      "i'm bored",
+      "let's chat",
+      "talk to me",
+      "say something",
+      "keep me entertained",
+      "i got nothing to do",
+      "what should i do",
+      "fun ideas",
+      "tell me something cool"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_2",
+    "patterns": [
+      "bored 1",
+      "i'm bored 1",
+      "let's chat 1",
+      "talk to me 1",
+      "say something 1",
+      "keep me entertained 1",
+      "i got nothing to do 1",
+      "what should i do 1",
+      "fun ideas 1",
+      "tell me something cool 1"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_3",
+    "patterns": [
+      "bored 2",
+      "i'm bored 2",
+      "let's chat 2",
+      "talk to me 2",
+      "say something 2",
+      "keep me entertained 2",
+      "i got nothing to do 2",
+      "what should i do 2",
+      "fun ideas 2",
+      "tell me something cool 2"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_4",
+    "patterns": [
+      "bored 3",
+      "i'm bored 3",
+      "let's chat 3",
+      "talk to me 3",
+      "say something 3",
+      "keep me entertained 3",
+      "i got nothing to do 3",
+      "what should i do 3",
+      "fun ideas 3",
+      "tell me something cool 3"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_5",
+    "patterns": [
+      "bored 4",
+      "i'm bored 4",
+      "let's chat 4",
+      "talk to me 4",
+      "say something 4",
+      "keep me entertained 4",
+      "i got nothing to do 4",
+      "what should i do 4",
+      "fun ideas 4",
+      "tell me something cool 4"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_6",
+    "patterns": [
+      "bored 5",
+      "i'm bored 5",
+      "let's chat 5",
+      "talk to me 5",
+      "say something 5",
+      "keep me entertained 5",
+      "i got nothing to do 5",
+      "what should i do 5",
+      "fun ideas 5",
+      "tell me something cool 5"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_7",
+    "patterns": [
+      "bored 6",
+      "i'm bored 6",
+      "let's chat 6",
+      "talk to me 6",
+      "say something 6",
+      "keep me entertained 6",
+      "i got nothing to do 6",
+      "what should i do 6",
+      "fun ideas 6",
+      "tell me something cool 6"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_8",
+    "patterns": [
+      "bored 7",
+      "i'm bored 7",
+      "let's chat 7",
+      "talk to me 7",
+      "say something 7",
+      "keep me entertained 7",
+      "i got nothing to do 7",
+      "what should i do 7",
+      "fun ideas 7",
+      "tell me something cool 7"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_9",
+    "patterns": [
+      "bored 8",
+      "i'm bored 8",
+      "let's chat 8",
+      "talk to me 8",
+      "say something 8",
+      "keep me entertained 8",
+      "i got nothing to do 8",
+      "what should i do 8",
+      "fun ideas 8",
+      "tell me something cool 8"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_10",
+    "patterns": [
+      "bored 9",
+      "i'm bored 9",
+      "let's chat 9",
+      "talk to me 9",
+      "say something 9",
+      "keep me entertained 9",
+      "i got nothing to do 9",
+      "what should i do 9",
+      "fun ideas 9",
+      "tell me something cool 9"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_11",
+    "patterns": [
+      "bored 10",
+      "i'm bored 10",
+      "let's chat 10",
+      "talk to me 10",
+      "say something 10",
+      "keep me entertained 10",
+      "i got nothing to do 10",
+      "what should i do 10",
+      "fun ideas 10",
+      "tell me something cool 10"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_12",
+    "patterns": [
+      "bored 11",
+      "i'm bored 11",
+      "let's chat 11",
+      "talk to me 11",
+      "say something 11",
+      "keep me entertained 11",
+      "i got nothing to do 11",
+      "what should i do 11",
+      "fun ideas 11",
+      "tell me something cool 11"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_13",
+    "patterns": [
+      "bored 12",
+      "i'm bored 12",
+      "let's chat 12",
+      "talk to me 12",
+      "say something 12",
+      "keep me entertained 12",
+      "i got nothing to do 12",
+      "what should i do 12",
+      "fun ideas 12",
+      "tell me something cool 12"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_14",
+    "patterns": [
+      "bored 13",
+      "i'm bored 13",
+      "let's chat 13",
+      "talk to me 13",
+      "say something 13",
+      "keep me entertained 13",
+      "i got nothing to do 13",
+      "what should i do 13",
+      "fun ideas 13",
+      "tell me something cool 13"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_15",
+    "patterns": [
+      "bored 14",
+      "i'm bored 14",
+      "let's chat 14",
+      "talk to me 14",
+      "say something 14",
+      "keep me entertained 14",
+      "i got nothing to do 14",
+      "what should i do 14",
+      "fun ideas 14",
+      "tell me something cool 14"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_16",
+    "patterns": [
+      "bored 15",
+      "i'm bored 15",
+      "let's chat 15",
+      "talk to me 15",
+      "say something 15",
+      "keep me entertained 15",
+      "i got nothing to do 15",
+      "what should i do 15",
+      "fun ideas 15",
+      "tell me something cool 15"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_17",
+    "patterns": [
+      "bored 16",
+      "i'm bored 16",
+      "let's chat 16",
+      "talk to me 16",
+      "say something 16",
+      "keep me entertained 16",
+      "i got nothing to do 16",
+      "what should i do 16",
+      "fun ideas 16",
+      "tell me something cool 16"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_18",
+    "patterns": [
+      "bored 17",
+      "i'm bored 17",
+      "let's chat 17",
+      "talk to me 17",
+      "say something 17",
+      "keep me entertained 17",
+      "i got nothing to do 17",
+      "what should i do 17",
+      "fun ideas 17",
+      "tell me something cool 17"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_19",
+    "patterns": [
+      "bored 18",
+      "i'm bored 18",
+      "let's chat 18",
+      "talk to me 18",
+      "say something 18",
+      "keep me entertained 18",
+      "i got nothing to do 18",
+      "what should i do 18",
+      "fun ideas 18",
+      "tell me something cool 18"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "fun_chat_20",
+    "patterns": [
+      "bored 19",
+      "i'm bored 19",
+      "let's chat 19",
+      "talk to me 19",
+      "say something 19",
+      "keep me entertained 19",
+      "i got nothing to do 19",
+      "what should i do 19",
+      "fun ideas 19",
+      "tell me something cool 19"
+    ],
+    "responses": [
+      "Wanna play a quick quiz game? 🎮",
+      "Did you know? Octopuses have 3 hearts 🐙❤️❤️❤️",
+      "Try drawing something random ✏️",
+      "Listen to your favorite music 🎶",
+      "How about I give you a riddle?"
+    ]
+  },
+  {
+    "intent": "motivation_1",
+    "patterns": [
+      "i feel sad",
+      "i need motivation",
+      "cheer me up",
+      "say something positive",
+      "i'm down",
+      "i'm tired of studying",
+      "help me feel better",
+      "encourage me",
+      "say inspiring quote",
+      "lift me up"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_2",
+    "patterns": [
+      "i feel sad 1",
+      "i need motivation 1",
+      "cheer me up 1",
+      "say something positive 1",
+      "i'm down 1",
+      "i'm tired of studying 1",
+      "help me feel better 1",
+      "encourage me 1",
+      "say inspiring quote 1",
+      "lift me up 1"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_3",
+    "patterns": [
+      "i feel sad 2",
+      "i need motivation 2",
+      "cheer me up 2",
+      "say something positive 2",
+      "i'm down 2",
+      "i'm tired of studying 2",
+      "help me feel better 2",
+      "encourage me 2",
+      "say inspiring quote 2",
+      "lift me up 2"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_4",
+    "patterns": [
+      "i feel sad 3",
+      "i need motivation 3",
+      "cheer me up 3",
+      "say something positive 3",
+      "i'm down 3",
+      "i'm tired of studying 3",
+      "help me feel better 3",
+      "encourage me 3",
+      "say inspiring quote 3",
+      "lift me up 3"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_5",
+    "patterns": [
+      "i feel sad 4",
+      "i need motivation 4",
+      "cheer me up 4",
+      "say something positive 4",
+      "i'm down 4",
+      "i'm tired of studying 4",
+      "help me feel better 4",
+      "encourage me 4",
+      "say inspiring quote 4",
+      "lift me up 4"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_6",
+    "patterns": [
+      "i feel sad 5",
+      "i need motivation 5",
+      "cheer me up 5",
+      "say something positive 5",
+      "i'm down 5",
+      "i'm tired of studying 5",
+      "help me feel better 5",
+      "encourage me 5",
+      "say inspiring quote 5",
+      "lift me up 5"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_7",
+    "patterns": [
+      "i feel sad 6",
+      "i need motivation 6",
+      "cheer me up 6",
+      "say something positive 6",
+      "i'm down 6",
+      "i'm tired of studying 6",
+      "help me feel better 6",
+      "encourage me 6",
+      "say inspiring quote 6",
+      "lift me up 6"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_8",
+    "patterns": [
+      "i feel sad 7",
+      "i need motivation 7",
+      "cheer me up 7",
+      "say something positive 7",
+      "i'm down 7",
+      "i'm tired of studying 7",
+      "help me feel better 7",
+      "encourage me 7",
+      "say inspiring quote 7",
+      "lift me up 7"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_9",
+    "patterns": [
+      "i feel sad 8",
+      "i need motivation 8",
+      "cheer me up 8",
+      "say something positive 8",
+      "i'm down 8",
+      "i'm tired of studying 8",
+      "help me feel better 8",
+      "encourage me 8",
+      "say inspiring quote 8",
+      "lift me up 8"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_10",
+    "patterns": [
+      "i feel sad 9",
+      "i need motivation 9",
+      "cheer me up 9",
+      "say something positive 9",
+      "i'm down 9",
+      "i'm tired of studying 9",
+      "help me feel better 9",
+      "encourage me 9",
+      "say inspiring quote 9",
+      "lift me up 9"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_11",
+    "patterns": [
+      "i feel sad 10",
+      "i need motivation 10",
+      "cheer me up 10",
+      "say something positive 10",
+      "i'm down 10",
+      "i'm tired of studying 10",
+      "help me feel better 10",
+      "encourage me 10",
+      "say inspiring quote 10",
+      "lift me up 10"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_12",
+    "patterns": [
+      "i feel sad 11",
+      "i need motivation 11",
+      "cheer me up 11",
+      "say something positive 11",
+      "i'm down 11",
+      "i'm tired of studying 11",
+      "help me feel better 11",
+      "encourage me 11",
+      "say inspiring quote 11",
+      "lift me up 11"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_13",
+    "patterns": [
+      "i feel sad 12",
+      "i need motivation 12",
+      "cheer me up 12",
+      "say something positive 12",
+      "i'm down 12",
+      "i'm tired of studying 12",
+      "help me feel better 12",
+      "encourage me 12",
+      "say inspiring quote 12",
+      "lift me up 12"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_14",
+    "patterns": [
+      "i feel sad 13",
+      "i need motivation 13",
+      "cheer me up 13",
+      "say something positive 13",
+      "i'm down 13",
+      "i'm tired of studying 13",
+      "help me feel better 13",
+      "encourage me 13",
+      "say inspiring quote 13",
+      "lift me up 13"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_15",
+    "patterns": [
+      "i feel sad 14",
+      "i need motivation 14",
+      "cheer me up 14",
+      "say something positive 14",
+      "i'm down 14",
+      "i'm tired of studying 14",
+      "help me feel better 14",
+      "encourage me 14",
+      "say inspiring quote 14",
+      "lift me up 14"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_16",
+    "patterns": [
+      "i feel sad 15",
+      "i need motivation 15",
+      "cheer me up 15",
+      "say something positive 15",
+      "i'm down 15",
+      "i'm tired of studying 15",
+      "help me feel better 15",
+      "encourage me 15",
+      "say inspiring quote 15",
+      "lift me up 15"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_17",
+    "patterns": [
+      "i feel sad 16",
+      "i need motivation 16",
+      "cheer me up 16",
+      "say something positive 16",
+      "i'm down 16",
+      "i'm tired of studying 16",
+      "help me feel better 16",
+      "encourage me 16",
+      "say inspiring quote 16",
+      "lift me up 16"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_18",
+    "patterns": [
+      "i feel sad 17",
+      "i need motivation 17",
+      "cheer me up 17",
+      "say something positive 17",
+      "i'm down 17",
+      "i'm tired of studying 17",
+      "help me feel better 17",
+      "encourage me 17",
+      "say inspiring quote 17",
+      "lift me up 17"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_19",
+    "patterns": [
+      "i feel sad 18",
+      "i need motivation 18",
+      "cheer me up 18",
+      "say something positive 18",
+      "i'm down 18",
+      "i'm tired of studying 18",
+      "help me feel better 18",
+      "encourage me 18",
+      "say inspiring quote 18",
+      "lift me up 18"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "motivation_20",
+    "patterns": [
+      "i feel sad 19",
+      "i need motivation 19",
+      "cheer me up 19",
+      "say something positive 19",
+      "i'm down 19",
+      "i'm tired of studying 19",
+      "help me feel better 19",
+      "encourage me 19",
+      "say inspiring quote 19",
+      "lift me up 19"
+    ],
+    "responses": [
+      "You are stronger than you think 💪",
+      "Don’t quit now, your future self will thank you 🙌",
+      "Every big dream starts with small steps 🌟",
+      "You got this champ!",
+      "Keep going – success is around the corner 🚀"
+    ]
+  },
+  {
+    "intent": "random_fact_1",
+    "patterns": [
+      "tell me a fact",
+      "say random fact",
+      "fun fact please",
+      "something new",
+      "give me info",
+      "i wanna learn something",
+      "teach me something random",
+      "drop a fact",
+      "cool fact",
+      "interesting fact"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_2",
+    "patterns": [
+      "tell me a fact 1",
+      "say random fact 1",
+      "fun fact please 1",
+      "something new 1",
+      "give me info 1",
+      "i wanna learn something 1",
+      "teach me something random 1",
+      "drop a fact 1",
+      "cool fact 1",
+      "interesting fact 1"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_3",
+    "patterns": [
+      "tell me a fact 2",
+      "say random fact 2",
+      "fun fact please 2",
+      "something new 2",
+      "give me info 2",
+      "i wanna learn something 2",
+      "teach me something random 2",
+      "drop a fact 2",
+      "cool fact 2",
+      "interesting fact 2"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_4",
+    "patterns": [
+      "tell me a fact 3",
+      "say random fact 3",
+      "fun fact please 3",
+      "something new 3",
+      "give me info 3",
+      "i wanna learn something 3",
+      "teach me something random 3",
+      "drop a fact 3",
+      "cool fact 3",
+      "interesting fact 3"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_5",
+    "patterns": [
+      "tell me a fact 4",
+      "say random fact 4",
+      "fun fact please 4",
+      "something new 4",
+      "give me info 4",
+      "i wanna learn something 4",
+      "teach me something random 4",
+      "drop a fact 4",
+      "cool fact 4",
+      "interesting fact 4"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_6",
+    "patterns": [
+      "tell me a fact 5",
+      "say random fact 5",
+      "fun fact please 5",
+      "something new 5",
+      "give me info 5",
+      "i wanna learn something 5",
+      "teach me something random 5",
+      "drop a fact 5",
+      "cool fact 5",
+      "interesting fact 5"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_7",
+    "patterns": [
+      "tell me a fact 6",
+      "say random fact 6",
+      "fun fact please 6",
+      "something new 6",
+      "give me info 6",
+      "i wanna learn something 6",
+      "teach me something random 6",
+      "drop a fact 6",
+      "cool fact 6",
+      "interesting fact 6"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_8",
+    "patterns": [
+      "tell me a fact 7",
+      "say random fact 7",
+      "fun fact please 7",
+      "something new 7",
+      "give me info 7",
+      "i wanna learn something 7",
+      "teach me something random 7",
+      "drop a fact 7",
+      "cool fact 7",
+      "interesting fact 7"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_9",
+    "patterns": [
+      "tell me a fact 8",
+      "say random fact 8",
+      "fun fact please 8",
+      "something new 8",
+      "give me info 8",
+      "i wanna learn something 8",
+      "teach me something random 8",
+      "drop a fact 8",
+      "cool fact 8",
+      "interesting fact 8"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_10",
+    "patterns": [
+      "tell me a fact 9",
+      "say random fact 9",
+      "fun fact please 9",
+      "something new 9",
+      "give me info 9",
+      "i wanna learn something 9",
+      "teach me something random 9",
+      "drop a fact 9",
+      "cool fact 9",
+      "interesting fact 9"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_11",
+    "patterns": [
+      "tell me a fact 10",
+      "say random fact 10",
+      "fun fact please 10",
+      "something new 10",
+      "give me info 10",
+      "i wanna learn something 10",
+      "teach me something random 10",
+      "drop a fact 10",
+      "cool fact 10",
+      "interesting fact 10"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_12",
+    "patterns": [
+      "tell me a fact 11",
+      "say random fact 11",
+      "fun fact please 11",
+      "something new 11",
+      "give me info 11",
+      "i wanna learn something 11",
+      "teach me something random 11",
+      "drop a fact 11",
+      "cool fact 11",
+      "interesting fact 11"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_13",
+    "patterns": [
+      "tell me a fact 12",
+      "say random fact 12",
+      "fun fact please 12",
+      "something new 12",
+      "give me info 12",
+      "i wanna learn something 12",
+      "teach me something random 12",
+      "drop a fact 12",
+      "cool fact 12",
+      "interesting fact 12"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_14",
+    "patterns": [
+      "tell me a fact 13",
+      "say random fact 13",
+      "fun fact please 13",
+      "something new 13",
+      "give me info 13",
+      "i wanna learn something 13",
+      "teach me something random 13",
+      "drop a fact 13",
+      "cool fact 13",
+      "interesting fact 13"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_15",
+    "patterns": [
+      "tell me a fact 14",
+      "say random fact 14",
+      "fun fact please 14",
+      "something new 14",
+      "give me info 14",
+      "i wanna learn something 14",
+      "teach me something random 14",
+      "drop a fact 14",
+      "cool fact 14",
+      "interesting fact 14"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_16",
+    "patterns": [
+      "tell me a fact 15",
+      "say random fact 15",
+      "fun fact please 15",
+      "something new 15",
+      "give me info 15",
+      "i wanna learn something 15",
+      "teach me something random 15",
+      "drop a fact 15",
+      "cool fact 15",
+      "interesting fact 15"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_17",
+    "patterns": [
+      "tell me a fact 16",
+      "say random fact 16",
+      "fun fact please 16",
+      "something new 16",
+      "give me info 16",
+      "i wanna learn something 16",
+      "teach me something random 16",
+      "drop a fact 16",
+      "cool fact 16",
+      "interesting fact 16"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_18",
+    "patterns": [
+      "tell me a fact 17",
+      "say random fact 17",
+      "fun fact please 17",
+      "something new 17",
+      "give me info 17",
+      "i wanna learn something 17",
+      "teach me something random 17",
+      "drop a fact 17",
+      "cool fact 17",
+      "interesting fact 17"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_19",
+    "patterns": [
+      "tell me a fact 18",
+      "say random fact 18",
+      "fun fact please 18",
+      "something new 18",
+      "give me info 18",
+      "i wanna learn something 18",
+      "teach me something random 18",
+      "drop a fact 18",
+      "cool fact 18",
+      "interesting fact 18"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  },
+  {
+    "intent": "random_fact_20",
+    "patterns": [
+      "tell me a fact 19",
+      "say random fact 19",
+      "fun fact please 19",
+      "something new 19",
+      "give me info 19",
+      "i wanna learn something 19",
+      "teach me something random 19",
+      "drop a fact 19",
+      "cool fact 19",
+      "interesting fact 19"
+    ],
+    "responses": [
+      "Sharks existed before trees! 🦈🌳",
+      "Bananas are berries, but strawberries aren’t 🍌🍓",
+      "Your stomach gets a new lining every 3-4 days.",
+      "Octopuses have 3 hearts 🐙❤️",
+      "The Eiffel Tower grows taller in summer due to heat expansion 🌞"
+    ]
+  }
+]

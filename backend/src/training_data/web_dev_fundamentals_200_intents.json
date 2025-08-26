@@ -1,0 +1,3002 @@
+[
+  {
+    "intent": "web_dev_fundamentals_1",
+    "patterns": [
+      "explain web development concept 1",
+      "what is topic 1 in web development",
+      "define web development topic 1",
+      "give introduction to web development 1",
+      "meaning of web development topic 1"
+    ],
+    "responses": [
+      "Topic 1 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 1 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_2",
+    "patterns": [
+      "explain web development concept 2",
+      "what is topic 2 in web development",
+      "define web development topic 2",
+      "give introduction to web development 2",
+      "meaning of web development topic 2"
+    ],
+    "responses": [
+      "Topic 2 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 2 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_3",
+    "patterns": [
+      "explain web development concept 3",
+      "what is topic 3 in web development",
+      "define web development topic 3",
+      "give introduction to web development 3",
+      "meaning of web development topic 3"
+    ],
+    "responses": [
+      "Topic 3 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 3 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_4",
+    "patterns": [
+      "explain web development concept 4",
+      "what is topic 4 in web development",
+      "define web development topic 4",
+      "give introduction to web development 4",
+      "meaning of web development topic 4"
+    ],
+    "responses": [
+      "Topic 4 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 4 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_5",
+    "patterns": [
+      "explain web development concept 5",
+      "what is topic 5 in web development",
+      "define web development topic 5",
+      "give introduction to web development 5",
+      "meaning of web development topic 5"
+    ],
+    "responses": [
+      "Topic 5 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 5 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_6",
+    "patterns": [
+      "explain web development concept 6",
+      "what is topic 6 in web development",
+      "define web development topic 6",
+      "give introduction to web development 6",
+      "meaning of web development topic 6"
+    ],
+    "responses": [
+      "Topic 6 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 6 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_7",
+    "patterns": [
+      "explain web development concept 7",
+      "what is topic 7 in web development",
+      "define web development topic 7",
+      "give introduction to web development 7",
+      "meaning of web development topic 7"
+    ],
+    "responses": [
+      "Topic 7 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 7 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_8",
+    "patterns": [
+      "explain web development concept 8",
+      "what is topic 8 in web development",
+      "define web development topic 8",
+      "give introduction to web development 8",
+      "meaning of web development topic 8"
+    ],
+    "responses": [
+      "Topic 8 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 8 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_9",
+    "patterns": [
+      "explain web development concept 9",
+      "what is topic 9 in web development",
+      "define web development topic 9",
+      "give introduction to web development 9",
+      "meaning of web development topic 9"
+    ],
+    "responses": [
+      "Topic 9 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 9 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_10",
+    "patterns": [
+      "explain web development concept 10",
+      "what is topic 10 in web development",
+      "define web development topic 10",
+      "give introduction to web development 10",
+      "meaning of web development topic 10"
+    ],
+    "responses": [
+      "Topic 10 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 10 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_11",
+    "patterns": [
+      "explain web development concept 11",
+      "what is topic 11 in web development",
+      "define web development topic 11",
+      "give introduction to web development 11",
+      "meaning of web development topic 11"
+    ],
+    "responses": [
+      "Topic 11 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 11 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_12",
+    "patterns": [
+      "explain web development concept 12",
+      "what is topic 12 in web development",
+      "define web development topic 12",
+      "give introduction to web development 12",
+      "meaning of web development topic 12"
+    ],
+    "responses": [
+      "Topic 12 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 12 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_13",
+    "patterns": [
+      "explain web development concept 13",
+      "what is topic 13 in web development",
+      "define web development topic 13",
+      "give introduction to web development 13",
+      "meaning of web development topic 13"
+    ],
+    "responses": [
+      "Topic 13 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 13 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_14",
+    "patterns": [
+      "explain web development concept 14",
+      "what is topic 14 in web development",
+      "define web development topic 14",
+      "give introduction to web development 14",
+      "meaning of web development topic 14"
+    ],
+    "responses": [
+      "Topic 14 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 14 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_15",
+    "patterns": [
+      "explain web development concept 15",
+      "what is topic 15 in web development",
+      "define web development topic 15",
+      "give introduction to web development 15",
+      "meaning of web development topic 15"
+    ],
+    "responses": [
+      "Topic 15 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 15 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_16",
+    "patterns": [
+      "explain web development concept 16",
+      "what is topic 16 in web development",
+      "define web development topic 16",
+      "give introduction to web development 16",
+      "meaning of web development topic 16"
+    ],
+    "responses": [
+      "Topic 16 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 16 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_17",
+    "patterns": [
+      "explain web development concept 17",
+      "what is topic 17 in web development",
+      "define web development topic 17",
+      "give introduction to web development 17",
+      "meaning of web development topic 17"
+    ],
+    "responses": [
+      "Topic 17 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 17 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_18",
+    "patterns": [
+      "explain web development concept 18",
+      "what is topic 18 in web development",
+      "define web development topic 18",
+      "give introduction to web development 18",
+      "meaning of web development topic 18"
+    ],
+    "responses": [
+      "Topic 18 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 18 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_19",
+    "patterns": [
+      "explain web development concept 19",
+      "what is topic 19 in web development",
+      "define web development topic 19",
+      "give introduction to web development 19",
+      "meaning of web development topic 19"
+    ],
+    "responses": [
+      "Topic 19 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 19 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_20",
+    "patterns": [
+      "explain web development concept 20",
+      "what is topic 20 in web development",
+      "define web development topic 20",
+      "give introduction to web development 20",
+      "meaning of web development topic 20"
+    ],
+    "responses": [
+      "Topic 20 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 20 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_21",
+    "patterns": [
+      "explain web development concept 21",
+      "what is topic 21 in web development",
+      "define web development topic 21",
+      "give introduction to web development 21",
+      "meaning of web development topic 21"
+    ],
+    "responses": [
+      "Topic 21 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 21 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_22",
+    "patterns": [
+      "explain web development concept 22",
+      "what is topic 22 in web development",
+      "define web development topic 22",
+      "give introduction to web development 22",
+      "meaning of web development topic 22"
+    ],
+    "responses": [
+      "Topic 22 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 22 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_23",
+    "patterns": [
+      "explain web development concept 23",
+      "what is topic 23 in web development",
+      "define web development topic 23",
+      "give introduction to web development 23",
+      "meaning of web development topic 23"
+    ],
+    "responses": [
+      "Topic 23 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 23 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_24",
+    "patterns": [
+      "explain web development concept 24",
+      "what is topic 24 in web development",
+      "define web development topic 24",
+      "give introduction to web development 24",
+      "meaning of web development topic 24"
+    ],
+    "responses": [
+      "Topic 24 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 24 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_25",
+    "patterns": [
+      "explain web development concept 25",
+      "what is topic 25 in web development",
+      "define web development topic 25",
+      "give introduction to web development 25",
+      "meaning of web development topic 25"
+    ],
+    "responses": [
+      "Topic 25 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 25 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_26",
+    "patterns": [
+      "explain web development concept 26",
+      "what is topic 26 in web development",
+      "define web development topic 26",
+      "give introduction to web development 26",
+      "meaning of web development topic 26"
+    ],
+    "responses": [
+      "Topic 26 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 26 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_27",
+    "patterns": [
+      "explain web development concept 27",
+      "what is topic 27 in web development",
+      "define web development topic 27",
+      "give introduction to web development 27",
+      "meaning of web development topic 27"
+    ],
+    "responses": [
+      "Topic 27 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 27 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_28",
+    "patterns": [
+      "explain web development concept 28",
+      "what is topic 28 in web development",
+      "define web development topic 28",
+      "give introduction to web development 28",
+      "meaning of web development topic 28"
+    ],
+    "responses": [
+      "Topic 28 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 28 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_29",
+    "patterns": [
+      "explain web development concept 29",
+      "what is topic 29 in web development",
+      "define web development topic 29",
+      "give introduction to web development 29",
+      "meaning of web development topic 29"
+    ],
+    "responses": [
+      "Topic 29 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 29 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_30",
+    "patterns": [
+      "explain web development concept 30",
+      "what is topic 30 in web development",
+      "define web development topic 30",
+      "give introduction to web development 30",
+      "meaning of web development topic 30"
+    ],
+    "responses": [
+      "Topic 30 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 30 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_31",
+    "patterns": [
+      "explain web development concept 31",
+      "what is topic 31 in web development",
+      "define web development topic 31",
+      "give introduction to web development 31",
+      "meaning of web development topic 31"
+    ],
+    "responses": [
+      "Topic 31 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 31 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_32",
+    "patterns": [
+      "explain web development concept 32",
+      "what is topic 32 in web development",
+      "define web development topic 32",
+      "give introduction to web development 32",
+      "meaning of web development topic 32"
+    ],
+    "responses": [
+      "Topic 32 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 32 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_33",
+    "patterns": [
+      "explain web development concept 33",
+      "what is topic 33 in web development",
+      "define web development topic 33",
+      "give introduction to web development 33",
+      "meaning of web development topic 33"
+    ],
+    "responses": [
+      "Topic 33 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 33 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_34",
+    "patterns": [
+      "explain web development concept 34",
+      "what is topic 34 in web development",
+      "define web development topic 34",
+      "give introduction to web development 34",
+      "meaning of web development topic 34"
+    ],
+    "responses": [
+      "Topic 34 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 34 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_35",
+    "patterns": [
+      "explain web development concept 35",
+      "what is topic 35 in web development",
+      "define web development topic 35",
+      "give introduction to web development 35",
+      "meaning of web development topic 35"
+    ],
+    "responses": [
+      "Topic 35 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 35 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_36",
+    "patterns": [
+      "explain web development concept 36",
+      "what is topic 36 in web development",
+      "define web development topic 36",
+      "give introduction to web development 36",
+      "meaning of web development topic 36"
+    ],
+    "responses": [
+      "Topic 36 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 36 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_37",
+    "patterns": [
+      "explain web development concept 37",
+      "what is topic 37 in web development",
+      "define web development topic 37",
+      "give introduction to web development 37",
+      "meaning of web development topic 37"
+    ],
+    "responses": [
+      "Topic 37 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 37 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_38",
+    "patterns": [
+      "explain web development concept 38",
+      "what is topic 38 in web development",
+      "define web development topic 38",
+      "give introduction to web development 38",
+      "meaning of web development topic 38"
+    ],
+    "responses": [
+      "Topic 38 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 38 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_39",
+    "patterns": [
+      "explain web development concept 39",
+      "what is topic 39 in web development",
+      "define web development topic 39",
+      "give introduction to web development 39",
+      "meaning of web development topic 39"
+    ],
+    "responses": [
+      "Topic 39 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 39 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_40",
+    "patterns": [
+      "explain web development concept 40",
+      "what is topic 40 in web development",
+      "define web development topic 40",
+      "give introduction to web development 40",
+      "meaning of web development topic 40"
+    ],
+    "responses": [
+      "Topic 40 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 40 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_41",
+    "patterns": [
+      "explain web development concept 41",
+      "what is topic 41 in web development",
+      "define web development topic 41",
+      "give introduction to web development 41",
+      "meaning of web development topic 41"
+    ],
+    "responses": [
+      "Topic 41 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 41 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_42",
+    "patterns": [
+      "explain web development concept 42",
+      "what is topic 42 in web development",
+      "define web development topic 42",
+      "give introduction to web development 42",
+      "meaning of web development topic 42"
+    ],
+    "responses": [
+      "Topic 42 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 42 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_43",
+    "patterns": [
+      "explain web development concept 43",
+      "what is topic 43 in web development",
+      "define web development topic 43",
+      "give introduction to web development 43",
+      "meaning of web development topic 43"
+    ],
+    "responses": [
+      "Topic 43 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 43 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_44",
+    "patterns": [
+      "explain web development concept 44",
+      "what is topic 44 in web development",
+      "define web development topic 44",
+      "give introduction to web development 44",
+      "meaning of web development topic 44"
+    ],
+    "responses": [
+      "Topic 44 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 44 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_45",
+    "patterns": [
+      "explain web development concept 45",
+      "what is topic 45 in web development",
+      "define web development topic 45",
+      "give introduction to web development 45",
+      "meaning of web development topic 45"
+    ],
+    "responses": [
+      "Topic 45 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 45 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_46",
+    "patterns": [
+      "explain web development concept 46",
+      "what is topic 46 in web development",
+      "define web development topic 46",
+      "give introduction to web development 46",
+      "meaning of web development topic 46"
+    ],
+    "responses": [
+      "Topic 46 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 46 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_47",
+    "patterns": [
+      "explain web development concept 47",
+      "what is topic 47 in web development",
+      "define web development topic 47",
+      "give introduction to web development 47",
+      "meaning of web development topic 47"
+    ],
+    "responses": [
+      "Topic 47 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 47 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_48",
+    "patterns": [
+      "explain web development concept 48",
+      "what is topic 48 in web development",
+      "define web development topic 48",
+      "give introduction to web development 48",
+      "meaning of web development topic 48"
+    ],
+    "responses": [
+      "Topic 48 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 48 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_49",
+    "patterns": [
+      "explain web development concept 49",
+      "what is topic 49 in web development",
+      "define web development topic 49",
+      "give introduction to web development 49",
+      "meaning of web development topic 49"
+    ],
+    "responses": [
+      "Topic 49 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 49 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_50",
+    "patterns": [
+      "explain web development concept 50",
+      "what is topic 50 in web development",
+      "define web development topic 50",
+      "give introduction to web development 50",
+      "meaning of web development topic 50"
+    ],
+    "responses": [
+      "Topic 50 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 50 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_51",
+    "patterns": [
+      "explain web development concept 51",
+      "what is topic 51 in web development",
+      "define web development topic 51",
+      "give introduction to web development 51",
+      "meaning of web development topic 51"
+    ],
+    "responses": [
+      "Topic 51 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 51 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_52",
+    "patterns": [
+      "explain web development concept 52",
+      "what is topic 52 in web development",
+      "define web development topic 52",
+      "give introduction to web development 52",
+      "meaning of web development topic 52"
+    ],
+    "responses": [
+      "Topic 52 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 52 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_53",
+    "patterns": [
+      "explain web development concept 53",
+      "what is topic 53 in web development",
+      "define web development topic 53",
+      "give introduction to web development 53",
+      "meaning of web development topic 53"
+    ],
+    "responses": [
+      "Topic 53 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 53 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_54",
+    "patterns": [
+      "explain web development concept 54",
+      "what is topic 54 in web development",
+      "define web development topic 54",
+      "give introduction to web development 54",
+      "meaning of web development topic 54"
+    ],
+    "responses": [
+      "Topic 54 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 54 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_55",
+    "patterns": [
+      "explain web development concept 55",
+      "what is topic 55 in web development",
+      "define web development topic 55",
+      "give introduction to web development 55",
+      "meaning of web development topic 55"
+    ],
+    "responses": [
+      "Topic 55 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 55 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_56",
+    "patterns": [
+      "explain web development concept 56",
+      "what is topic 56 in web development",
+      "define web development topic 56",
+      "give introduction to web development 56",
+      "meaning of web development topic 56"
+    ],
+    "responses": [
+      "Topic 56 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 56 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_57",
+    "patterns": [
+      "explain web development concept 57",
+      "what is topic 57 in web development",
+      "define web development topic 57",
+      "give introduction to web development 57",
+      "meaning of web development topic 57"
+    ],
+    "responses": [
+      "Topic 57 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 57 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_58",
+    "patterns": [
+      "explain web development concept 58",
+      "what is topic 58 in web development",
+      "define web development topic 58",
+      "give introduction to web development 58",
+      "meaning of web development topic 58"
+    ],
+    "responses": [
+      "Topic 58 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 58 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_59",
+    "patterns": [
+      "explain web development concept 59",
+      "what is topic 59 in web development",
+      "define web development topic 59",
+      "give introduction to web development 59",
+      "meaning of web development topic 59"
+    ],
+    "responses": [
+      "Topic 59 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 59 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_60",
+    "patterns": [
+      "explain web development concept 60",
+      "what is topic 60 in web development",
+      "define web development topic 60",
+      "give introduction to web development 60",
+      "meaning of web development topic 60"
+    ],
+    "responses": [
+      "Topic 60 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 60 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_61",
+    "patterns": [
+      "explain web development concept 61",
+      "what is topic 61 in web development",
+      "define web development topic 61",
+      "give introduction to web development 61",
+      "meaning of web development topic 61"
+    ],
+    "responses": [
+      "Topic 61 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 61 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_62",
+    "patterns": [
+      "explain web development concept 62",
+      "what is topic 62 in web development",
+      "define web development topic 62",
+      "give introduction to web development 62",
+      "meaning of web development topic 62"
+    ],
+    "responses": [
+      "Topic 62 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 62 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_63",
+    "patterns": [
+      "explain web development concept 63",
+      "what is topic 63 in web development",
+      "define web development topic 63",
+      "give introduction to web development 63",
+      "meaning of web development topic 63"
+    ],
+    "responses": [
+      "Topic 63 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 63 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_64",
+    "patterns": [
+      "explain web development concept 64",
+      "what is topic 64 in web development",
+      "define web development topic 64",
+      "give introduction to web development 64",
+      "meaning of web development topic 64"
+    ],
+    "responses": [
+      "Topic 64 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 64 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_65",
+    "patterns": [
+      "explain web development concept 65",
+      "what is topic 65 in web development",
+      "define web development topic 65",
+      "give introduction to web development 65",
+      "meaning of web development topic 65"
+    ],
+    "responses": [
+      "Topic 65 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 65 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_66",
+    "patterns": [
+      "explain web development concept 66",
+      "what is topic 66 in web development",
+      "define web development topic 66",
+      "give introduction to web development 66",
+      "meaning of web development topic 66"
+    ],
+    "responses": [
+      "Topic 66 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 66 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_67",
+    "patterns": [
+      "explain web development concept 67",
+      "what is topic 67 in web development",
+      "define web development topic 67",
+      "give introduction to web development 67",
+      "meaning of web development topic 67"
+    ],
+    "responses": [
+      "Topic 67 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 67 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_68",
+    "patterns": [
+      "explain web development concept 68",
+      "what is topic 68 in web development",
+      "define web development topic 68",
+      "give introduction to web development 68",
+      "meaning of web development topic 68"
+    ],
+    "responses": [
+      "Topic 68 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 68 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_69",
+    "patterns": [
+      "explain web development concept 69",
+      "what is topic 69 in web development",
+      "define web development topic 69",
+      "give introduction to web development 69",
+      "meaning of web development topic 69"
+    ],
+    "responses": [
+      "Topic 69 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 69 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_70",
+    "patterns": [
+      "explain web development concept 70",
+      "what is topic 70 in web development",
+      "define web development topic 70",
+      "give introduction to web development 70",
+      "meaning of web development topic 70"
+    ],
+    "responses": [
+      "Topic 70 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 70 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_71",
+    "patterns": [
+      "explain web development concept 71",
+      "what is topic 71 in web development",
+      "define web development topic 71",
+      "give introduction to web development 71",
+      "meaning of web development topic 71"
+    ],
+    "responses": [
+      "Topic 71 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 71 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_72",
+    "patterns": [
+      "explain web development concept 72",
+      "what is topic 72 in web development",
+      "define web development topic 72",
+      "give introduction to web development 72",
+      "meaning of web development topic 72"
+    ],
+    "responses": [
+      "Topic 72 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 72 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_73",
+    "patterns": [
+      "explain web development concept 73",
+      "what is topic 73 in web development",
+      "define web development topic 73",
+      "give introduction to web development 73",
+      "meaning of web development topic 73"
+    ],
+    "responses": [
+      "Topic 73 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 73 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_74",
+    "patterns": [
+      "explain web development concept 74",
+      "what is topic 74 in web development",
+      "define web development topic 74",
+      "give introduction to web development 74",
+      "meaning of web development topic 74"
+    ],
+    "responses": [
+      "Topic 74 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 74 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_75",
+    "patterns": [
+      "explain web development concept 75",
+      "what is topic 75 in web development",
+      "define web development topic 75",
+      "give introduction to web development 75",
+      "meaning of web development topic 75"
+    ],
+    "responses": [
+      "Topic 75 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 75 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_76",
+    "patterns": [
+      "explain web development concept 76",
+      "what is topic 76 in web development",
+      "define web development topic 76",
+      "give introduction to web development 76",
+      "meaning of web development topic 76"
+    ],
+    "responses": [
+      "Topic 76 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 76 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_77",
+    "patterns": [
+      "explain web development concept 77",
+      "what is topic 77 in web development",
+      "define web development topic 77",
+      "give introduction to web development 77",
+      "meaning of web development topic 77"
+    ],
+    "responses": [
+      "Topic 77 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 77 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_78",
+    "patterns": [
+      "explain web development concept 78",
+      "what is topic 78 in web development",
+      "define web development topic 78",
+      "give introduction to web development 78",
+      "meaning of web development topic 78"
+    ],
+    "responses": [
+      "Topic 78 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 78 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_79",
+    "patterns": [
+      "explain web development concept 79",
+      "what is topic 79 in web development",
+      "define web development topic 79",
+      "give introduction to web development 79",
+      "meaning of web development topic 79"
+    ],
+    "responses": [
+      "Topic 79 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 79 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_80",
+    "patterns": [
+      "explain web development concept 80",
+      "what is topic 80 in web development",
+      "define web development topic 80",
+      "give introduction to web development 80",
+      "meaning of web development topic 80"
+    ],
+    "responses": [
+      "Topic 80 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 80 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_81",
+    "patterns": [
+      "explain web development concept 81",
+      "what is topic 81 in web development",
+      "define web development topic 81",
+      "give introduction to web development 81",
+      "meaning of web development topic 81"
+    ],
+    "responses": [
+      "Topic 81 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 81 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_82",
+    "patterns": [
+      "explain web development concept 82",
+      "what is topic 82 in web development",
+      "define web development topic 82",
+      "give introduction to web development 82",
+      "meaning of web development topic 82"
+    ],
+    "responses": [
+      "Topic 82 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 82 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_83",
+    "patterns": [
+      "explain web development concept 83",
+      "what is topic 83 in web development",
+      "define web development topic 83",
+      "give introduction to web development 83",
+      "meaning of web development topic 83"
+    ],
+    "responses": [
+      "Topic 83 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 83 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_84",
+    "patterns": [
+      "explain web development concept 84",
+      "what is topic 84 in web development",
+      "define web development topic 84",
+      "give introduction to web development 84",
+      "meaning of web development topic 84"
+    ],
+    "responses": [
+      "Topic 84 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 84 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_85",
+    "patterns": [
+      "explain web development concept 85",
+      "what is topic 85 in web development",
+      "define web development topic 85",
+      "give introduction to web development 85",
+      "meaning of web development topic 85"
+    ],
+    "responses": [
+      "Topic 85 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 85 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_86",
+    "patterns": [
+      "explain web development concept 86",
+      "what is topic 86 in web development",
+      "define web development topic 86",
+      "give introduction to web development 86",
+      "meaning of web development topic 86"
+    ],
+    "responses": [
+      "Topic 86 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 86 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_87",
+    "patterns": [
+      "explain web development concept 87",
+      "what is topic 87 in web development",
+      "define web development topic 87",
+      "give introduction to web development 87",
+      "meaning of web development topic 87"
+    ],
+    "responses": [
+      "Topic 87 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 87 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_88",
+    "patterns": [
+      "explain web development concept 88",
+      "what is topic 88 in web development",
+      "define web development topic 88",
+      "give introduction to web development 88",
+      "meaning of web development topic 88"
+    ],
+    "responses": [
+      "Topic 88 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 88 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_89",
+    "patterns": [
+      "explain web development concept 89",
+      "what is topic 89 in web development",
+      "define web development topic 89",
+      "give introduction to web development 89",
+      "meaning of web development topic 89"
+    ],
+    "responses": [
+      "Topic 89 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 89 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_90",
+    "patterns": [
+      "explain web development concept 90",
+      "what is topic 90 in web development",
+      "define web development topic 90",
+      "give introduction to web development 90",
+      "meaning of web development topic 90"
+    ],
+    "responses": [
+      "Topic 90 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 90 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_91",
+    "patterns": [
+      "explain web development concept 91",
+      "what is topic 91 in web development",
+      "define web development topic 91",
+      "give introduction to web development 91",
+      "meaning of web development topic 91"
+    ],
+    "responses": [
+      "Topic 91 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 91 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_92",
+    "patterns": [
+      "explain web development concept 92",
+      "what is topic 92 in web development",
+      "define web development topic 92",
+      "give introduction to web development 92",
+      "meaning of web development topic 92"
+    ],
+    "responses": [
+      "Topic 92 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 92 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_93",
+    "patterns": [
+      "explain web development concept 93",
+      "what is topic 93 in web development",
+      "define web development topic 93",
+      "give introduction to web development 93",
+      "meaning of web development topic 93"
+    ],
+    "responses": [
+      "Topic 93 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 93 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_94",
+    "patterns": [
+      "explain web development concept 94",
+      "what is topic 94 in web development",
+      "define web development topic 94",
+      "give introduction to web development 94",
+      "meaning of web development topic 94"
+    ],
+    "responses": [
+      "Topic 94 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 94 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_95",
+    "patterns": [
+      "explain web development concept 95",
+      "what is topic 95 in web development",
+      "define web development topic 95",
+      "give introduction to web development 95",
+      "meaning of web development topic 95"
+    ],
+    "responses": [
+      "Topic 95 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 95 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_96",
+    "patterns": [
+      "explain web development concept 96",
+      "what is topic 96 in web development",
+      "define web development topic 96",
+      "give introduction to web development 96",
+      "meaning of web development topic 96"
+    ],
+    "responses": [
+      "Topic 96 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 96 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_97",
+    "patterns": [
+      "explain web development concept 97",
+      "what is topic 97 in web development",
+      "define web development topic 97",
+      "give introduction to web development 97",
+      "meaning of web development topic 97"
+    ],
+    "responses": [
+      "Topic 97 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 97 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_98",
+    "patterns": [
+      "explain web development concept 98",
+      "what is topic 98 in web development",
+      "define web development topic 98",
+      "give introduction to web development 98",
+      "meaning of web development topic 98"
+    ],
+    "responses": [
+      "Topic 98 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 98 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_99",
+    "patterns": [
+      "explain web development concept 99",
+      "what is topic 99 in web development",
+      "define web development topic 99",
+      "give introduction to web development 99",
+      "meaning of web development topic 99"
+    ],
+    "responses": [
+      "Topic 99 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 99 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_100",
+    "patterns": [
+      "explain web development concept 100",
+      "what is topic 100 in web development",
+      "define web development topic 100",
+      "give introduction to web development 100",
+      "meaning of web development topic 100"
+    ],
+    "responses": [
+      "Topic 100 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 100 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_101",
+    "patterns": [
+      "explain web development concept 101",
+      "what is topic 101 in web development",
+      "define web development topic 101",
+      "give introduction to web development 101",
+      "meaning of web development topic 101"
+    ],
+    "responses": [
+      "Topic 101 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 101 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_102",
+    "patterns": [
+      "explain web development concept 102",
+      "what is topic 102 in web development",
+      "define web development topic 102",
+      "give introduction to web development 102",
+      "meaning of web development topic 102"
+    ],
+    "responses": [
+      "Topic 102 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 102 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_103",
+    "patterns": [
+      "explain web development concept 103",
+      "what is topic 103 in web development",
+      "define web development topic 103",
+      "give introduction to web development 103",
+      "meaning of web development topic 103"
+    ],
+    "responses": [
+      "Topic 103 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 103 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_104",
+    "patterns": [
+      "explain web development concept 104",
+      "what is topic 104 in web development",
+      "define web development topic 104",
+      "give introduction to web development 104",
+      "meaning of web development topic 104"
+    ],
+    "responses": [
+      "Topic 104 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 104 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_105",
+    "patterns": [
+      "explain web development concept 105",
+      "what is topic 105 in web development",
+      "define web development topic 105",
+      "give introduction to web development 105",
+      "meaning of web development topic 105"
+    ],
+    "responses": [
+      "Topic 105 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 105 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_106",
+    "patterns": [
+      "explain web development concept 106",
+      "what is topic 106 in web development",
+      "define web development topic 106",
+      "give introduction to web development 106",
+      "meaning of web development topic 106"
+    ],
+    "responses": [
+      "Topic 106 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 106 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_107",
+    "patterns": [
+      "explain web development concept 107",
+      "what is topic 107 in web development",
+      "define web development topic 107",
+      "give introduction to web development 107",
+      "meaning of web development topic 107"
+    ],
+    "responses": [
+      "Topic 107 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 107 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_108",
+    "patterns": [
+      "explain web development concept 108",
+      "what is topic 108 in web development",
+      "define web development topic 108",
+      "give introduction to web development 108",
+      "meaning of web development topic 108"
+    ],
+    "responses": [
+      "Topic 108 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 108 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_109",
+    "patterns": [
+      "explain web development concept 109",
+      "what is topic 109 in web development",
+      "define web development topic 109",
+      "give introduction to web development 109",
+      "meaning of web development topic 109"
+    ],
+    "responses": [
+      "Topic 109 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 109 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_110",
+    "patterns": [
+      "explain web development concept 110",
+      "what is topic 110 in web development",
+      "define web development topic 110",
+      "give introduction to web development 110",
+      "meaning of web development topic 110"
+    ],
+    "responses": [
+      "Topic 110 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 110 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_111",
+    "patterns": [
+      "explain web development concept 111",
+      "what is topic 111 in web development",
+      "define web development topic 111",
+      "give introduction to web development 111",
+      "meaning of web development topic 111"
+    ],
+    "responses": [
+      "Topic 111 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 111 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_112",
+    "patterns": [
+      "explain web development concept 112",
+      "what is topic 112 in web development",
+      "define web development topic 112",
+      "give introduction to web development 112",
+      "meaning of web development topic 112"
+    ],
+    "responses": [
+      "Topic 112 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 112 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_113",
+    "patterns": [
+      "explain web development concept 113",
+      "what is topic 113 in web development",
+      "define web development topic 113",
+      "give introduction to web development 113",
+      "meaning of web development topic 113"
+    ],
+    "responses": [
+      "Topic 113 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 113 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_114",
+    "patterns": [
+      "explain web development concept 114",
+      "what is topic 114 in web development",
+      "define web development topic 114",
+      "give introduction to web development 114",
+      "meaning of web development topic 114"
+    ],
+    "responses": [
+      "Topic 114 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 114 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_115",
+    "patterns": [
+      "explain web development concept 115",
+      "what is topic 115 in web development",
+      "define web development topic 115",
+      "give introduction to web development 115",
+      "meaning of web development topic 115"
+    ],
+    "responses": [
+      "Topic 115 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 115 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_116",
+    "patterns": [
+      "explain web development concept 116",
+      "what is topic 116 in web development",
+      "define web development topic 116",
+      "give introduction to web development 116",
+      "meaning of web development topic 116"
+    ],
+    "responses": [
+      "Topic 116 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 116 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_117",
+    "patterns": [
+      "explain web development concept 117",
+      "what is topic 117 in web development",
+      "define web development topic 117",
+      "give introduction to web development 117",
+      "meaning of web development topic 117"
+    ],
+    "responses": [
+      "Topic 117 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 117 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_118",
+    "patterns": [
+      "explain web development concept 118",
+      "what is topic 118 in web development",
+      "define web development topic 118",
+      "give introduction to web development 118",
+      "meaning of web development topic 118"
+    ],
+    "responses": [
+      "Topic 118 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 118 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_119",
+    "patterns": [
+      "explain web development concept 119",
+      "what is topic 119 in web development",
+      "define web development topic 119",
+      "give introduction to web development 119",
+      "meaning of web development topic 119"
+    ],
+    "responses": [
+      "Topic 119 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 119 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_120",
+    "patterns": [
+      "explain web development concept 120",
+      "what is topic 120 in web development",
+      "define web development topic 120",
+      "give introduction to web development 120",
+      "meaning of web development topic 120"
+    ],
+    "responses": [
+      "Topic 120 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 120 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_121",
+    "patterns": [
+      "explain web development concept 121",
+      "what is topic 121 in web development",
+      "define web development topic 121",
+      "give introduction to web development 121",
+      "meaning of web development topic 121"
+    ],
+    "responses": [
+      "Topic 121 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 121 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_122",
+    "patterns": [
+      "explain web development concept 122",
+      "what is topic 122 in web development",
+      "define web development topic 122",
+      "give introduction to web development 122",
+      "meaning of web development topic 122"
+    ],
+    "responses": [
+      "Topic 122 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 122 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_123",
+    "patterns": [
+      "explain web development concept 123",
+      "what is topic 123 in web development",
+      "define web development topic 123",
+      "give introduction to web development 123",
+      "meaning of web development topic 123"
+    ],
+    "responses": [
+      "Topic 123 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 123 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_124",
+    "patterns": [
+      "explain web development concept 124",
+      "what is topic 124 in web development",
+      "define web development topic 124",
+      "give introduction to web development 124",
+      "meaning of web development topic 124"
+    ],
+    "responses": [
+      "Topic 124 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 124 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_125",
+    "patterns": [
+      "explain web development concept 125",
+      "what is topic 125 in web development",
+      "define web development topic 125",
+      "give introduction to web development 125",
+      "meaning of web development topic 125"
+    ],
+    "responses": [
+      "Topic 125 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 125 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_126",
+    "patterns": [
+      "explain web development concept 126",
+      "what is topic 126 in web development",
+      "define web development topic 126",
+      "give introduction to web development 126",
+      "meaning of web development topic 126"
+    ],
+    "responses": [
+      "Topic 126 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 126 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_127",
+    "patterns": [
+      "explain web development concept 127",
+      "what is topic 127 in web development",
+      "define web development topic 127",
+      "give introduction to web development 127",
+      "meaning of web development topic 127"
+    ],
+    "responses": [
+      "Topic 127 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 127 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_128",
+    "patterns": [
+      "explain web development concept 128",
+      "what is topic 128 in web development",
+      "define web development topic 128",
+      "give introduction to web development 128",
+      "meaning of web development topic 128"
+    ],
+    "responses": [
+      "Topic 128 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 128 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_129",
+    "patterns": [
+      "explain web development concept 129",
+      "what is topic 129 in web development",
+      "define web development topic 129",
+      "give introduction to web development 129",
+      "meaning of web development topic 129"
+    ],
+    "responses": [
+      "Topic 129 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 129 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_130",
+    "patterns": [
+      "explain web development concept 130",
+      "what is topic 130 in web development",
+      "define web development topic 130",
+      "give introduction to web development 130",
+      "meaning of web development topic 130"
+    ],
+    "responses": [
+      "Topic 130 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 130 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_131",
+    "patterns": [
+      "explain web development concept 131",
+      "what is topic 131 in web development",
+      "define web development topic 131",
+      "give introduction to web development 131",
+      "meaning of web development topic 131"
+    ],
+    "responses": [
+      "Topic 131 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 131 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_132",
+    "patterns": [
+      "explain web development concept 132",
+      "what is topic 132 in web development",
+      "define web development topic 132",
+      "give introduction to web development 132",
+      "meaning of web development topic 132"
+    ],
+    "responses": [
+      "Topic 132 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 132 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_133",
+    "patterns": [
+      "explain web development concept 133",
+      "what is topic 133 in web development",
+      "define web development topic 133",
+      "give introduction to web development 133",
+      "meaning of web development topic 133"
+    ],
+    "responses": [
+      "Topic 133 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 133 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_134",
+    "patterns": [
+      "explain web development concept 134",
+      "what is topic 134 in web development",
+      "define web development topic 134",
+      "give introduction to web development 134",
+      "meaning of web development topic 134"
+    ],
+    "responses": [
+      "Topic 134 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 134 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_135",
+    "patterns": [
+      "explain web development concept 135",
+      "what is topic 135 in web development",
+      "define web development topic 135",
+      "give introduction to web development 135",
+      "meaning of web development topic 135"
+    ],
+    "responses": [
+      "Topic 135 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 135 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_136",
+    "patterns": [
+      "explain web development concept 136",
+      "what is topic 136 in web development",
+      "define web development topic 136",
+      "give introduction to web development 136",
+      "meaning of web development topic 136"
+    ],
+    "responses": [
+      "Topic 136 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 136 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_137",
+    "patterns": [
+      "explain web development concept 137",
+      "what is topic 137 in web development",
+      "define web development topic 137",
+      "give introduction to web development 137",
+      "meaning of web development topic 137"
+    ],
+    "responses": [
+      "Topic 137 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 137 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_138",
+    "patterns": [
+      "explain web development concept 138",
+      "what is topic 138 in web development",
+      "define web development topic 138",
+      "give introduction to web development 138",
+      "meaning of web development topic 138"
+    ],
+    "responses": [
+      "Topic 138 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 138 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_139",
+    "patterns": [
+      "explain web development concept 139",
+      "what is topic 139 in web development",
+      "define web development topic 139",
+      "give introduction to web development 139",
+      "meaning of web development topic 139"
+    ],
+    "responses": [
+      "Topic 139 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 139 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_140",
+    "patterns": [
+      "explain web development concept 140",
+      "what is topic 140 in web development",
+      "define web development topic 140",
+      "give introduction to web development 140",
+      "meaning of web development topic 140"
+    ],
+    "responses": [
+      "Topic 140 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 140 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_141",
+    "patterns": [
+      "explain web development concept 141",
+      "what is topic 141 in web development",
+      "define web development topic 141",
+      "give introduction to web development 141",
+      "meaning of web development topic 141"
+    ],
+    "responses": [
+      "Topic 141 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 141 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_142",
+    "patterns": [
+      "explain web development concept 142",
+      "what is topic 142 in web development",
+      "define web development topic 142",
+      "give introduction to web development 142",
+      "meaning of web development topic 142"
+    ],
+    "responses": [
+      "Topic 142 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 142 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_143",
+    "patterns": [
+      "explain web development concept 143",
+      "what is topic 143 in web development",
+      "define web development topic 143",
+      "give introduction to web development 143",
+      "meaning of web development topic 143"
+    ],
+    "responses": [
+      "Topic 143 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 143 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_144",
+    "patterns": [
+      "explain web development concept 144",
+      "what is topic 144 in web development",
+      "define web development topic 144",
+      "give introduction to web development 144",
+      "meaning of web development topic 144"
+    ],
+    "responses": [
+      "Topic 144 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 144 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_145",
+    "patterns": [
+      "explain web development concept 145",
+      "what is topic 145 in web development",
+      "define web development topic 145",
+      "give introduction to web development 145",
+      "meaning of web development topic 145"
+    ],
+    "responses": [
+      "Topic 145 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 145 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_146",
+    "patterns": [
+      "explain web development concept 146",
+      "what is topic 146 in web development",
+      "define web development topic 146",
+      "give introduction to web development 146",
+      "meaning of web development topic 146"
+    ],
+    "responses": [
+      "Topic 146 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 146 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_147",
+    "patterns": [
+      "explain web development concept 147",
+      "what is topic 147 in web development",
+      "define web development topic 147",
+      "give introduction to web development 147",
+      "meaning of web development topic 147"
+    ],
+    "responses": [
+      "Topic 147 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 147 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_148",
+    "patterns": [
+      "explain web development concept 148",
+      "what is topic 148 in web development",
+      "define web development topic 148",
+      "give introduction to web development 148",
+      "meaning of web development topic 148"
+    ],
+    "responses": [
+      "Topic 148 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 148 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_149",
+    "patterns": [
+      "explain web development concept 149",
+      "what is topic 149 in web development",
+      "define web development topic 149",
+      "give introduction to web development 149",
+      "meaning of web development topic 149"
+    ],
+    "responses": [
+      "Topic 149 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 149 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_150",
+    "patterns": [
+      "explain web development concept 150",
+      "what is topic 150 in web development",
+      "define web development topic 150",
+      "give introduction to web development 150",
+      "meaning of web development topic 150"
+    ],
+    "responses": [
+      "Topic 150 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 150 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_151",
+    "patterns": [
+      "explain web development concept 151",
+      "what is topic 151 in web development",
+      "define web development topic 151",
+      "give introduction to web development 151",
+      "meaning of web development topic 151"
+    ],
+    "responses": [
+      "Topic 151 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 151 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_152",
+    "patterns": [
+      "explain web development concept 152",
+      "what is topic 152 in web development",
+      "define web development topic 152",
+      "give introduction to web development 152",
+      "meaning of web development topic 152"
+    ],
+    "responses": [
+      "Topic 152 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 152 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_153",
+    "patterns": [
+      "explain web development concept 153",
+      "what is topic 153 in web development",
+      "define web development topic 153",
+      "give introduction to web development 153",
+      "meaning of web development topic 153"
+    ],
+    "responses": [
+      "Topic 153 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 153 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_154",
+    "patterns": [
+      "explain web development concept 154",
+      "what is topic 154 in web development",
+      "define web development topic 154",
+      "give introduction to web development 154",
+      "meaning of web development topic 154"
+    ],
+    "responses": [
+      "Topic 154 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 154 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_155",
+    "patterns": [
+      "explain web development concept 155",
+      "what is topic 155 in web development",
+      "define web development topic 155",
+      "give introduction to web development 155",
+      "meaning of web development topic 155"
+    ],
+    "responses": [
+      "Topic 155 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 155 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_156",
+    "patterns": [
+      "explain web development concept 156",
+      "what is topic 156 in web development",
+      "define web development topic 156",
+      "give introduction to web development 156",
+      "meaning of web development topic 156"
+    ],
+    "responses": [
+      "Topic 156 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 156 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_157",
+    "patterns": [
+      "explain web development concept 157",
+      "what is topic 157 in web development",
+      "define web development topic 157",
+      "give introduction to web development 157",
+      "meaning of web development topic 157"
+    ],
+    "responses": [
+      "Topic 157 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 157 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_158",
+    "patterns": [
+      "explain web development concept 158",
+      "what is topic 158 in web development",
+      "define web development topic 158",
+      "give introduction to web development 158",
+      "meaning of web development topic 158"
+    ],
+    "responses": [
+      "Topic 158 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 158 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_159",
+    "patterns": [
+      "explain web development concept 159",
+      "what is topic 159 in web development",
+      "define web development topic 159",
+      "give introduction to web development 159",
+      "meaning of web development topic 159"
+    ],
+    "responses": [
+      "Topic 159 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 159 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_160",
+    "patterns": [
+      "explain web development concept 160",
+      "what is topic 160 in web development",
+      "define web development topic 160",
+      "give introduction to web development 160",
+      "meaning of web development topic 160"
+    ],
+    "responses": [
+      "Topic 160 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 160 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_161",
+    "patterns": [
+      "explain web development concept 161",
+      "what is topic 161 in web development",
+      "define web development topic 161",
+      "give introduction to web development 161",
+      "meaning of web development topic 161"
+    ],
+    "responses": [
+      "Topic 161 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 161 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_162",
+    "patterns": [
+      "explain web development concept 162",
+      "what is topic 162 in web development",
+      "define web development topic 162",
+      "give introduction to web development 162",
+      "meaning of web development topic 162"
+    ],
+    "responses": [
+      "Topic 162 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 162 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_163",
+    "patterns": [
+      "explain web development concept 163",
+      "what is topic 163 in web development",
+      "define web development topic 163",
+      "give introduction to web development 163",
+      "meaning of web development topic 163"
+    ],
+    "responses": [
+      "Topic 163 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 163 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_164",
+    "patterns": [
+      "explain web development concept 164",
+      "what is topic 164 in web development",
+      "define web development topic 164",
+      "give introduction to web development 164",
+      "meaning of web development topic 164"
+    ],
+    "responses": [
+      "Topic 164 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 164 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_165",
+    "patterns": [
+      "explain web development concept 165",
+      "what is topic 165 in web development",
+      "define web development topic 165",
+      "give introduction to web development 165",
+      "meaning of web development topic 165"
+    ],
+    "responses": [
+      "Topic 165 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 165 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_166",
+    "patterns": [
+      "explain web development concept 166",
+      "what is topic 166 in web development",
+      "define web development topic 166",
+      "give introduction to web development 166",
+      "meaning of web development topic 166"
+    ],
+    "responses": [
+      "Topic 166 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 166 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_167",
+    "patterns": [
+      "explain web development concept 167",
+      "what is topic 167 in web development",
+      "define web development topic 167",
+      "give introduction to web development 167",
+      "meaning of web development topic 167"
+    ],
+    "responses": [
+      "Topic 167 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 167 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_168",
+    "patterns": [
+      "explain web development concept 168",
+      "what is topic 168 in web development",
+      "define web development topic 168",
+      "give introduction to web development 168",
+      "meaning of web development topic 168"
+    ],
+    "responses": [
+      "Topic 168 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 168 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_169",
+    "patterns": [
+      "explain web development concept 169",
+      "what is topic 169 in web development",
+      "define web development topic 169",
+      "give introduction to web development 169",
+      "meaning of web development topic 169"
+    ],
+    "responses": [
+      "Topic 169 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 169 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_170",
+    "patterns": [
+      "explain web development concept 170",
+      "what is topic 170 in web development",
+      "define web development topic 170",
+      "give introduction to web development 170",
+      "meaning of web development topic 170"
+    ],
+    "responses": [
+      "Topic 170 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 170 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_171",
+    "patterns": [
+      "explain web development concept 171",
+      "what is topic 171 in web development",
+      "define web development topic 171",
+      "give introduction to web development 171",
+      "meaning of web development topic 171"
+    ],
+    "responses": [
+      "Topic 171 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 171 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_172",
+    "patterns": [
+      "explain web development concept 172",
+      "what is topic 172 in web development",
+      "define web development topic 172",
+      "give introduction to web development 172",
+      "meaning of web development topic 172"
+    ],
+    "responses": [
+      "Topic 172 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 172 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_173",
+    "patterns": [
+      "explain web development concept 173",
+      "what is topic 173 in web development",
+      "define web development topic 173",
+      "give introduction to web development 173",
+      "meaning of web development topic 173"
+    ],
+    "responses": [
+      "Topic 173 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 173 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_174",
+    "patterns": [
+      "explain web development concept 174",
+      "what is topic 174 in web development",
+      "define web development topic 174",
+      "give introduction to web development 174",
+      "meaning of web development topic 174"
+    ],
+    "responses": [
+      "Topic 174 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 174 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_175",
+    "patterns": [
+      "explain web development concept 175",
+      "what is topic 175 in web development",
+      "define web development topic 175",
+      "give introduction to web development 175",
+      "meaning of web development topic 175"
+    ],
+    "responses": [
+      "Topic 175 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 175 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_176",
+    "patterns": [
+      "explain web development concept 176",
+      "what is topic 176 in web development",
+      "define web development topic 176",
+      "give introduction to web development 176",
+      "meaning of web development topic 176"
+    ],
+    "responses": [
+      "Topic 176 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 176 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_177",
+    "patterns": [
+      "explain web development concept 177",
+      "what is topic 177 in web development",
+      "define web development topic 177",
+      "give introduction to web development 177",
+      "meaning of web development topic 177"
+    ],
+    "responses": [
+      "Topic 177 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 177 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_178",
+    "patterns": [
+      "explain web development concept 178",
+      "what is topic 178 in web development",
+      "define web development topic 178",
+      "give introduction to web development 178",
+      "meaning of web development topic 178"
+    ],
+    "responses": [
+      "Topic 178 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 178 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_179",
+    "patterns": [
+      "explain web development concept 179",
+      "what is topic 179 in web development",
+      "define web development topic 179",
+      "give introduction to web development 179",
+      "meaning of web development topic 179"
+    ],
+    "responses": [
+      "Topic 179 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 179 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_180",
+    "patterns": [
+      "explain web development concept 180",
+      "what is topic 180 in web development",
+      "define web development topic 180",
+      "give introduction to web development 180",
+      "meaning of web development topic 180"
+    ],
+    "responses": [
+      "Topic 180 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 180 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_181",
+    "patterns": [
+      "explain web development concept 181",
+      "what is topic 181 in web development",
+      "define web development topic 181",
+      "give introduction to web development 181",
+      "meaning of web development topic 181"
+    ],
+    "responses": [
+      "Topic 181 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 181 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_182",
+    "patterns": [
+      "explain web development concept 182",
+      "what is topic 182 in web development",
+      "define web development topic 182",
+      "give introduction to web development 182",
+      "meaning of web development topic 182"
+    ],
+    "responses": [
+      "Topic 182 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 182 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_183",
+    "patterns": [
+      "explain web development concept 183",
+      "what is topic 183 in web development",
+      "define web development topic 183",
+      "give introduction to web development 183",
+      "meaning of web development topic 183"
+    ],
+    "responses": [
+      "Topic 183 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 183 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_184",
+    "patterns": [
+      "explain web development concept 184",
+      "what is topic 184 in web development",
+      "define web development topic 184",
+      "give introduction to web development 184",
+      "meaning of web development topic 184"
+    ],
+    "responses": [
+      "Topic 184 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 184 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_185",
+    "patterns": [
+      "explain web development concept 185",
+      "what is topic 185 in web development",
+      "define web development topic 185",
+      "give introduction to web development 185",
+      "meaning of web development topic 185"
+    ],
+    "responses": [
+      "Topic 185 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 185 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_186",
+    "patterns": [
+      "explain web development concept 186",
+      "what is topic 186 in web development",
+      "define web development topic 186",
+      "give introduction to web development 186",
+      "meaning of web development topic 186"
+    ],
+    "responses": [
+      "Topic 186 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 186 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_187",
+    "patterns": [
+      "explain web development concept 187",
+      "what is topic 187 in web development",
+      "define web development topic 187",
+      "give introduction to web development 187",
+      "meaning of web development topic 187"
+    ],
+    "responses": [
+      "Topic 187 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 187 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_188",
+    "patterns": [
+      "explain web development concept 188",
+      "what is topic 188 in web development",
+      "define web development topic 188",
+      "give introduction to web development 188",
+      "meaning of web development topic 188"
+    ],
+    "responses": [
+      "Topic 188 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 188 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_189",
+    "patterns": [
+      "explain web development concept 189",
+      "what is topic 189 in web development",
+      "define web development topic 189",
+      "give introduction to web development 189",
+      "meaning of web development topic 189"
+    ],
+    "responses": [
+      "Topic 189 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 189 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_190",
+    "patterns": [
+      "explain web development concept 190",
+      "what is topic 190 in web development",
+      "define web development topic 190",
+      "give introduction to web development 190",
+      "meaning of web development topic 190"
+    ],
+    "responses": [
+      "Topic 190 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 190 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_191",
+    "patterns": [
+      "explain web development concept 191",
+      "what is topic 191 in web development",
+      "define web development topic 191",
+      "give introduction to web development 191",
+      "meaning of web development topic 191"
+    ],
+    "responses": [
+      "Topic 191 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 191 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_192",
+    "patterns": [
+      "explain web development concept 192",
+      "what is topic 192 in web development",
+      "define web development topic 192",
+      "give introduction to web development 192",
+      "meaning of web development topic 192"
+    ],
+    "responses": [
+      "Topic 192 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 192 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_193",
+    "patterns": [
+      "explain web development concept 193",
+      "what is topic 193 in web development",
+      "define web development topic 193",
+      "give introduction to web development 193",
+      "meaning of web development topic 193"
+    ],
+    "responses": [
+      "Topic 193 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 193 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_194",
+    "patterns": [
+      "explain web development concept 194",
+      "what is topic 194 in web development",
+      "define web development topic 194",
+      "give introduction to web development 194",
+      "meaning of web development topic 194"
+    ],
+    "responses": [
+      "Topic 194 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 194 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_195",
+    "patterns": [
+      "explain web development concept 195",
+      "what is topic 195 in web development",
+      "define web development topic 195",
+      "give introduction to web development 195",
+      "meaning of web development topic 195"
+    ],
+    "responses": [
+      "Topic 195 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 195 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_196",
+    "patterns": [
+      "explain web development concept 196",
+      "what is topic 196 in web development",
+      "define web development topic 196",
+      "give introduction to web development 196",
+      "meaning of web development topic 196"
+    ],
+    "responses": [
+      "Topic 196 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 196 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_197",
+    "patterns": [
+      "explain web development concept 197",
+      "what is topic 197 in web development",
+      "define web development topic 197",
+      "give introduction to web development 197",
+      "meaning of web development topic 197"
+    ],
+    "responses": [
+      "Topic 197 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 197 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_198",
+    "patterns": [
+      "explain web development concept 198",
+      "what is topic 198 in web development",
+      "define web development topic 198",
+      "give introduction to web development 198",
+      "meaning of web development topic 198"
+    ],
+    "responses": [
+      "Topic 198 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 198 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_199",
+    "patterns": [
+      "explain web development concept 199",
+      "what is topic 199 in web development",
+      "define web development topic 199",
+      "give introduction to web development 199",
+      "meaning of web development topic 199"
+    ],
+    "responses": [
+      "Topic 199 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 199 helps learners build a strong foundation in web technologies."
+    ]
+  },
+  {
+    "intent": "web_dev_fundamentals_200",
+    "patterns": [
+      "explain web development concept 200",
+      "what is topic 200 in web development",
+      "define web development topic 200",
+      "give introduction to web development 200",
+      "meaning of web development topic 200"
+    ],
+    "responses": [
+      "Topic 200 in Web Development Fundamentals covers the explanation of a key concept.",
+      "It is an important part of understanding the basics of web development.",
+      "This concept 200 helps learners build a strong foundation in web technologies."
+    ]
+  }
+]
